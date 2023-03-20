@@ -13,14 +13,14 @@ href="_template.css"></HEAD>
 <DIV id=titlerow>
 <H1 class=dtH1>会计基础及相关法规</H1></DIV></DIV>
 <DIV id=nstext><BR>
-<P><FONT size=4 face=宋体><A href="page_205.html">《中华人民共和国会计法》（ 
+<P><FONT size=4 face=宋体><A href="/#/docs/1.0/page_204.md">《中华人民共和国会计法》（ 
 2017年修正）</A></FONT></P>
 <P><FONT size=4 face=宋体><BR>&nbsp;</P></FONT>
 <P><FONT size=4 face=宋体><A 
-href="page_205.html">《企业财务会计报告条例》（国务院令第二百八十七号）</A></FONT></P>
+href="/#/docs/1.0/page_205.md">《企业财务会计报告条例》（国务院令第二百八十七号）</A></FONT></P>
 <P><FONT size=4 face=宋体><BR>&nbsp;</P></FONT>
 <P><FONT size=4 face=宋体><A 
-href="page_206.html">《会计档案管理办法（2015）》（财政部、国家档案局令第79号）</A></FONT></P>
+href="/#/docs/1.0/page_206.md">《会计档案管理办法（2015）》（财政部、国家档案局令第79号）</A></FONT></P>
 <P><FONT size=4 face=宋体></FONT>&nbsp;</P>
 <P><FONT size=4 face=宋体>陆续补充相关与财务会计相关的法律法规</FONT></P>
 <P>&nbsp;</P></DIV>
