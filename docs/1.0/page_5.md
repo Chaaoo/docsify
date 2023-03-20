@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML xmlns:o = "urn:schemas-microsoft-com:office:office"><HEAD><TITLE>企业会计准则——基本准则（2014年修订）</TITLE>
+<HTML xmlns:o = "urn:schemas-microsoft-com:office:<HEAD><TITLE>企业会计准则——基本准则（2014年修订）</TITLE>
 <META content="text/html; charset=gb2312" http-equiv=Content-Type>
 <META name=GENERATOR content="MSHTML 11.00.10570.1001"><LINK rel=stylesheet 
 href="_template.css"></HEAD>

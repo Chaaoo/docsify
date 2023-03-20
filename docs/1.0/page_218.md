@@ -1,0 +1,8674 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:o = 
+"urn:schemas-microsoft-com:office:office"><HEAD><TITLE>小企业会计准则附</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"><LINK rel=stylesheet 
+href="_template.css"></HEAD>
+<BODY>
+<DIV id=nsbanner>
+<DIV id=bannerrow1>
+<TABLE class=bannerparthead>
+  <TBODY>
+  <TR id=hdr>
+    <TD class=runninghead noWrap>企业会计准则及应用指南系列</TD></TR></TBODY></TABLE></DIV>
+<DIV id=titlerow>
+<H1 class=dtH1>小企业会计准则附录</H1></DIV></DIV>
+<DIV id=nstext><BR>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">附录：小</SPAN><U><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt">企业会计准则</SPAN></U><SPAN 
+lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">--</SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">会计科目、主要账务处理和财务报表<SPAN 
+lang=EN-US><BR><BR></SPAN>　　附录：<SPAN lang=EN-US><BR></SPAN>　　小</SPAN><U><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt">企业会计准则</SPAN></U><SPAN 
+lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　<SPAN 
+lang=EN-US>--</SPAN>会计科目、主要账务处理和财务报表<SPAN lang=EN-US><BR><BR></SPAN></SPAN><A 
+name=91><B><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; FONT-VARIANT: small-caps; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: &#718;&#805;; mso-hansi-font-family: &#718;&#805;">　　一、</SPAN></B></A><SPAN 
+style="mso-bookmark: 91"></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">会计科目<SPAN 
+lang=EN-US><BR></SPAN>　　会计科目和主要账务处理依据小</SPAN><U><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt">企业会计准则</SPAN></U><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">中确认和计量的规定制定，涵盖了各类小企业的交易和事项。小企业在不违反会计准则中确认、计量和报告规定的前提下，可以根据本企业的实际情况自行增设、分拆、合并会计科目。小企业不存在的交易或者事项，可不设置相关会计科目。对于明细科目，小企业可以比照本附录中的规定自行设置。会计科目编号供小企业填制会计凭证、登记会计账簿、查阅会计账目、采用会计软件系统参考，小企业可结合本企业的实际情况自行确定其他会计科目的编号。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">顺序号 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">编　号 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">会计科目名称 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">一、资产类 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1001 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">库存现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1002 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">银行存款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1012 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其他货币资金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1101 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">短期投资 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1121 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应收票据 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 7">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">6 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1122 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应收账款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 8">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">7 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1123 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">预付账款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 9">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">8 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1131 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应收股利 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 10">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">9 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1132 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应收利息 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 11">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">10 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1221 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其他应收款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 12">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">11 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1401 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">材料采购 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 13">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">12 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1402 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">在途物资 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 14">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">13 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1403 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">原材料 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 15">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">14 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1404 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">材料成本差异 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 16">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">15 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1405 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">库存商品 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 17">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">16 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1407 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">商品进销差价 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 18">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">17 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1408 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">委托加工物资 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 19">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">18 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1411 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">周转材料 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 20">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">19 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1421 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">消耗性生物资产 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 21">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">20 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1501 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">长期债券投资 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 22">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">21 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1511 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">长期股权投资 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 23">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">22 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1601 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">固定资产 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 24">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">23 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1602 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">累计折旧 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 25">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">24 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1604 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">在建工程 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 26">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">25 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1605 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">工程物资 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 27">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">26 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1606 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">固定资产清理 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 28">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">27 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1621 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">生产性生物资产 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 29">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">28 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1622 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">生产性生物资产累计折旧 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 30">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">29 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1701 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">无形资产 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 31">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">30 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1702 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">累计摊销 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 32">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">31 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1801 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">长期待摊费用 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 33">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">32 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1901 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">待处理财产损溢 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 34">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">二、负债类 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 35">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">33 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2001 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">短期借款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 36">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">34 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2201 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应付票据 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 37">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">35 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2202 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应付账款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 38">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">36 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2203 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">预收账款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 39">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">37 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2211 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应付职工薪酬 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 40">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">38 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2221 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应交税费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 41">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">39 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2231 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应付利息 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 42">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">40 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2232 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应付利润 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 43">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">41 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2241 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其他应付款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 44">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">42 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2401 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">递延收益 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 45">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">43 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2501 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">长期借款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 46">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">44 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2701 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">长期应付款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 47">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">三、所有者权益类 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 48">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">45 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3001 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">实收资本 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 49">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">46 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3002 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">资本公积 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 50">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">47 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3101 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">盈余公积 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 51">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">48 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3103 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">本年利润 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 52; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 43.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=58>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">49 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3104 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 181.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=242>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">利润分配 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">四、成本类 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">50 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4001 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">生产成本 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">51 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4101 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">制造费用 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">52 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4301 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">研发支出 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">53 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4401 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">工程施工 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">54 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4403 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">机械作业 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">五、损益类 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 7">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">55 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5001 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">主营业务收入 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 8">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">56 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5051 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其他业务收入 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 9">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">57 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5111 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">投资收益 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 10">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">58 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5301 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">营业外收入 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 11">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">59 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5401 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">主营业务成本 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 12">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">60 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5402 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其他业务成本 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 13">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">61 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5403 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">营业税金及附加 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 14">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">62 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5601 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">销售费用 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 15">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">63 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5602 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">管理费用 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 16">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">64 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5603 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">财务费用 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 17">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">65 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5711 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">营业外支出 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 18; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 40.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=54>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">66 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 45.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=61>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5801 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 221.25pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=295>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">所得税费用 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR></SPAN><A 
+name=92><B><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; FONT-VARIANT: small-caps; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: &#718;&#805;; mso-hansi-font-family: &#718;&#805;">　　二、</SPAN></B></A><SPAN 
+style="mso-bookmark: 92"></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">主要账务处理<SPAN 
+lang=EN-US><BR></SPAN>　　资产类<SPAN lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1001 
+</SPAN>库存现金<SPAN lang=EN-US><BR></SPAN>　　一、本科目核算小企业的库存现金。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业有内部周转使用备用金的，可以单独设置<SPAN lang=EN-US>“1004 
+</SPAN>备用金<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　二、库存现金的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业增加库存现金，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目；减少库存现金，做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　三、小企业应当设置<SPAN lang=EN-US>“</SPAN>库存现金日记账<SPAN 
+lang=EN-US>”</SPAN>，由出纳人员根据收付款凭证，按照业务发生顺序逐笔登记。每日终了，应当计算当日的现金收入合计额、现金支出合计额和结余额，将结余额与实际库存额核对，做到账款相符。<SPAN 
+lang=EN-US><BR></SPAN>　　有外币现金的小企业，还应当分别按照人民币和外币进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　四、每日终了结算现金收支、财产清查等发现的有待查明原因的现金短缺或溢余，应通过<SPAN 
+lang=EN-US>“</SPAN>待处理财产损溢<SPAN 
+lang=EN-US>”</SPAN>科目核算：属于现金短缺，应按照实际短缺的金额，借记<SPAN 
+lang=EN-US>“</SPAN>待处理财产损溢<SPAN lang=EN-US>--</SPAN>待处理流动资产损溢<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目；属于现金溢余，按照实际溢余的金额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>待处理财产损溢<SPAN lang=EN-US>--</SPAN>待处理流动资产损溢<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　五、本科目期末借方余额，反映小企业持有的库存现金。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1002 </SPAN>银行存款<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业存入银行或其他金融机构的各种款项。<SPAN 
+lang=EN-US><BR></SPAN>　　二、银行存款的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业增加银行存款，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>库存现金<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>应收账款<SPAN 
+lang=EN-US>”</SPAN>等科目；减少银行存款，做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　三、小企业应当按照开户银行和其他金融机构、存款种类等设置<SPAN 
+lang=EN-US>“</SPAN>银行存款日记账<SPAN 
+lang=EN-US>”</SPAN>，由出纳人员根据收付款凭证，按照业务的发生顺序逐笔登记。每日终了，应结出余额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>“</SPAN>银行存款日记账<SPAN 
+lang=EN-US>”</SPAN>应定期与<SPAN lang=EN-US>“</SPAN>银行对账单<SPAN 
+lang=EN-US>”</SPAN>核对，至少每月核对一次。小企业银行存款账面余额与银行对账单余额之间如有差额，应编制<SPAN 
+lang=EN-US>“</SPAN>银行存款余额调节表<SPAN lang=EN-US>”</SPAN>调节相符。<SPAN 
+lang=EN-US><BR></SPAN>　　有外币银行存款的小企业，还应当分别按照人民币和外币进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业存在银行或其他金融机构的各种款项。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1012 </SPAN>其他货币资金<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业的银行汇票存款、银行本票存款、信用卡存款、信用证保证金存款、外埠存款、备用金等其他货币资金。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照银行汇票或本票、信用卡发放银行、信用证的收款单位，外埠存款的开户银行，分别<SPAN 
+lang=EN-US>“</SPAN>银行汇票<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行本票<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>信用卡<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>信用证保证金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>外埠存款<SPAN lang=EN-US>”</SPAN>等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、其他货币资金的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业增加其他货币资金，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目；减少其他货币资金，做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业持有的其他货币资金。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1101 </SPAN>短期投资<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业购入的能随时变现并且持有时间不准备超过<SPAN 
+lang=EN-US>1</SPAN>年（含<SPAN lang=EN-US>1</SPAN>年，下同）的投资。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照股票、债券、基金等短期投资种类进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、短期投资的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业购入各种股票、债券、基金等作为短期投资的，应当按照实际支付的购买价款和相关税费，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业购入股票，如果实际支付的购买价款中包含已宣告但尚未发放的现金股利，应当按照实际支付的购买价款和相关税费扣除已宣告但尚未发放的现金股利后的金额，借记本科目，按照应收的现金股利，借记<SPAN 
+lang=EN-US>“</SPAN>应收股利<SPAN lang=EN-US>”</SPAN>科目，按照实际支付的购买价款和相关税费，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业购入债券，如果实际支付的购买价款中包含已到付息期但尚未领取的债券利息，应当按照实际支付的购买价款和相关税费扣除已到付息期但尚未领取的债券利息后的金额，借记本科目，按照应收的债券利息，借记<SPAN 
+lang=EN-US>“</SPAN>应收利息<SPAN lang=EN-US>”</SPAN>科目，按照实际支付的购买价款和相关税费，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）在短期投资持有期间，被投资单位宣告分派的现金股利，借记<SPAN 
+lang=EN-US>“</SPAN>应收股利<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　在债务人应付利息日，按照分期付息、一次还本债券投资的票面利率计算的利息收入，借记<SPAN 
+lang=EN-US>“</SPAN>应收利息<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）出售短期投资，应当按照实际收到的出售价款，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN 
+lang=EN-US>”</SPAN>科目，按照该项短期投资的账面余额，贷记本科目，按照尚未收到的现金股利或债券利息，贷记<SPAN 
+lang=EN-US>“</SPAN>应收股利<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>应收利息<SPAN lang=EN-US>”</SPAN>科目，按照其差额，贷记或借记<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业持有的短期投资成本。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1121 </SPAN>应收票据<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业因销售商品（产成品或材料，下同）、提供劳务等日常生产经营活动而收到的商业汇票（银行承兑汇票和商业承兑汇票）。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照开出、承兑商业汇票的单位进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、应收票据的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业因销售商品、提供劳务等而收到开出、承兑的商业汇票，按照商业汇票的票面金额，借记本科目，按照确认的营业收入，贷记<SPAN 
+lang=EN-US>“</SPAN>主营业务收入<SPAN lang=EN-US>”</SPAN>等科目。涉及增值税销项税额的，还应当贷记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（销项税额）<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）持未到期的商业汇票向银行贴现，应按照实际收到的金额（即减去贴现息后的净额），借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目，按照贴现息，借记<SPAN 
+lang=EN-US>“</SPAN>财务费用<SPAN 
+lang=EN-US>”</SPAN>科目，按照商业汇票的票面金额，贷记本科目（银行无追索权情况下）或<SPAN 
+lang=EN-US>“</SPAN>短期借款<SPAN lang=EN-US>”</SPAN>科目（银行有追索权情况下）。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）将持有的商业汇票背书转让以取得所需物资，按照应计入取得物资成本的金额，借记<SPAN 
+lang=EN-US>“</SPAN>材料采购<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN 
+lang=EN-US>”</SPAN>等科目，按照商业汇票的票面金额，贷记本科目，如有差额，借记或贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目。涉及按照税法规定可抵扣的增值税进项税额的，还应当借记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（进项税额）<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN lang=EN-US><BR></SPAN>　　（四）商业汇票到期，应按照实际收到的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　因付款人无力支付票款，或到期不能收回应收票据，应按照商业汇票的票面金额，借记<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、小企业应当设置<SPAN lang=EN-US>“</SPAN>应收票据备查簿<SPAN 
+lang=EN-US>”</SPAN>，逐笔登记商业汇票的种类、号数和出票日、票面金额、交易合同号和付款人、承兑人、背书人的姓名或单位名称、到期日、背书转让日、贴现日、贴现率和贴现净额以及收款日期和收回金额、退票情况等资料。商业汇票到期结清票款或退票后，在备查簿中应予注销。<SPAN 
+lang=EN-US><BR></SPAN>　　五、本科目期末借方余额，反映小企业持有的商业汇票的票面金额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1122 </SPAN>应收账款<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业因销售商品、提供劳务等日常生产经营活动应收取的款项。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照对方单位（或个人）进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、应收账款的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业因销售商品或提供劳务形成应收账款，应当按照应收金额，借记本科目，按照税法规定应交纳的增值税销项税额，贷记<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>“</SPAN>应交税费<SPAN 
+lang=EN-US>--</SPAN>应交增值税（销项税额）<SPAN lang=EN-US>”</SPAN>科目，按照其差额，贷记<SPAN 
+lang=EN-US>“</SPAN>主营业务收入<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>其他业务收入<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）收回应收账款，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>或<SPAN lang=EN-US>“</SPAN>库存现金<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN lang=EN-US><BR></SPAN>　　（三）按照小</SPAN><SPAN 
+lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业会计准则</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定确认应收账款实际发生的坏账损失，应当按照可收回的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，按照其账面余额，贷记本科目，按照其差额，借记<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业尚未收回的应收账款。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1123 </SPAN>预付账款<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业按照合同规定预付的款项。包括：根据合同规定预付的购货款、租金、工程款等。<SPAN 
+lang=EN-US><BR></SPAN>　　预付款项情况不多的小企业，也可以不设置本科目，将预付的款项直接记入<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>科目借方。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业进行在建工程预付的工程价款，也通过本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照对方单位（或个人）进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、预付账款的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业因购货而预付的款项，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　收到所购物资，按照应计入购入物资成本的金额，借记<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>等科目，按照税法规定可抵扣的增值税进项税额，借记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（进项税额）<SPAN 
+lang=EN-US>”</SPAN>科目，按照应支付的金额，贷记本科目。补付的款项，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目；退回多付的款项，做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）出包工程按照合同规定预付的工程价款，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。按照工程进度和合同规定结算的工程价款，<SPAN 
+lang=EN-US><BR></SPAN>　　借记<SPAN lang=EN-US>“</SPAN>在建工程<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目、<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目。<SPAN lang=EN-US><BR></SPAN>　　（三）按照小</SPAN><SPAN 
+lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业会计准则</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定确认预付账款实际发生的坏账损失，应当按照可收回的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，按照其账面余额，贷记本科目，按照其差额，借记<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业预付的各种款项。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1131 </SPAN>应收股利<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业应收取的现金股利或利润。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照被投资单位进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、应收股利的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业购入股票，如果实际支付的购买价款中包含已宣告但尚未发放的现金股利，应当按照实际支付的购买价款和相关税费扣除已宣告但尚未发放的现金股利后的金额，借记<SPAN 
+lang=EN-US>“</SPAN>短期投资<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>长期股权投资<SPAN 
+lang=EN-US>”</SPAN>科目，按照应收的现金股利，借记本科目，按照实际支付的购买价款和相关税费，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）在短期投资或长期股权投资持有期间，被投资单位宣告分派现金股利或利润，应当按照本企业应享有的金额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）小企业实际收到现金股利或利润，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业尚未收到的现金股利或利润。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1132 </SPAN>应收利息<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业债券投资应收取的利息。<SPAN 
+lang=EN-US><BR></SPAN>　　购入的一次还本付息债券投资持有期间的利息收入，在<SPAN 
+lang=EN-US>“</SPAN>长期债券投资<SPAN lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照被投资单位进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、应收利息的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业购入债券，如果实际支付的购买价款中包含已到付息期但尚未领取的债券利息，应当按照实际支付的购买价款和相关税费扣除应收的债券利息后的金额，借记<SPAN 
+lang=EN-US>“</SPAN>短期投资<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>长期债券投资<SPAN 
+lang=EN-US>”</SPAN>科目，按照应收的债券利息，借记本科目，按照实际支付的购买价款和相关税费，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）在长期债券投资持有期间，在债务人应付利息日，按照分期付息、一次还本债券投资的票面利率计算的利息收入，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN 
+lang=EN-US>”</SPAN>科目；按照一次还本付息债券投资的票面利率计算的利息收入，借记<SPAN 
+lang=EN-US>“</SPAN>长期债券投资<SPAN lang=EN-US>--</SPAN>应计利息<SPAN 
+lang=EN-US>”</SPAN>科目，贷记<SPAN lang=EN-US>“</SPAN>投资收益<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN lang=EN-US><BR></SPAN>　　（三）实际收到债券利息，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业尚未收到的债券利息。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1221 </SPAN>其他应收款<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业除应收票据、应收账款、预付账款、应收股利、应收利息等以外的其他各种应收及暂付款项。包括：各种应收的赔款、应向职工收取的各种垫付款项等。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业出口产品或商品按照税法规定应予退回的增值税款，也通过本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照对方单位（或个人）进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、其他应收款的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业发生的其他各种应收款项，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　出口产品或商品按照税法规定应予退回的增值税款，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（出口退税）<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN lang=EN-US><BR></SPAN>　　（二）收回其他各种应收款项，借记<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）按照小</SPAN><SPAN lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业会计准则</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定确认其他应收款实际发生的坏账损失，应当按照可收回的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，按照其账面余额，贷记本科目，按照其差额，借记<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业尚未收回的其他应收款项。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1401 </SPAN>材料采购<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业采用计划成本进行材料日常核算、购入材料的采购成本。<SPAN 
+lang=EN-US><BR></SPAN>　　采用实际成本进行材料日常核算的，购入材料的采购成本，在<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　委托外单位加工材料、商品的加工成本，在<SPAN lang=EN-US>“</SPAN>委托加工物资<SPAN 
+lang=EN-US>”</SPAN>科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照供应单位和材料品种进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、材料采购的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业外购材料，应当按照发票账单所列购买价款、运输费、装卸费、保险费以及在外购材料过程发生的其他直接费用，借记本科目，按照税法规定可抵扣的增值税进项税额，借记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（进项税额）<SPAN 
+lang=EN-US>”</SPAN>科目，按照购买价款、相关税费、运输费、装卸费、保险费以及在外购材料过程发生的其他直接费用，贷记<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>其他货币资金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>预付账款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　材料已经收到、但尚未办理结算手续的，可暂不作会计分录；待办理结算手续后，再根据所付金额或发票账单的应付金额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　应向供应单位、运输机构等收回的材料短缺或其他应冲减材料采购成本的赔偿款项，应根据有关的索赔凭证，借记<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。因自然灾害等发生的损失和尚待查明原因的途中损耗，先记入<SPAN 
+lang=EN-US>“</SPAN>待处理财产损溢<SPAN lang=EN-US>”</SPAN>科目，查明原因后再作处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）月末，应将仓库转来的外购收料凭证，分别下列不同情况进行处理：<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．对于收到发票账单的收料凭证（包括本月付款或开出、承兑商业汇票的上月收料凭证），应按照实际成本和计划成本分别汇总，并按照计划成本，借记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>周转材料<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目；将实际成本大于计划成本的差异，借记<SPAN 
+lang=EN-US>“</SPAN>材料成本差异<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目；实际成本小于计划成本的差异做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>2</SPAN>．对于尚未收到发票账单的收料凭证，应按照计划成本暂估入账，借记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>周转材料<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>--</SPAN>暂估应付账款<SPAN 
+lang=EN-US>”</SPAN>科目，下月初用红字做同样的会计分录予以冲回，以便下月收到发票账单等结算凭证时，按照正常程序进行账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业已经收到发票账单、但材料尚未到达或尚未验收入库的在途材料的采购成本。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1402 </SPAN>在途物资<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业采用实际成本进行材料、商品等物资的日常核算、尚未到达或尚未验收入库的各种物资的实际采购成本。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（批发业、零售业）在购买商品过程中发生的费用（包括：运输费、装卸费、包装费、保险费、运输途中的合理损耗和入库前的挑选整理费等），在<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照供应单位和物资品种进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、在途物资的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业外购材料、商品等物资，应当按照发票账单所列购买价款、运输费、装卸费、保险费以及在外购材料过程发生的其他直接费用，借记本科目，按照税法规定可抵扣的增值税进项税额，借记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（进项税额）<SPAN 
+lang=EN-US>”</SPAN>科目，按照购买价款、相关税费、运输费、装卸费、保险费以及在外购物资过程发生的其他直接费用，贷记<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>其他货币资金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>预付账款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　材料已经收到、但尚未办理结算手续的，可暂不作会计分录；待办理结算手续后，再根据所付金额或发票账单的应付金额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　应向供应单位、外部运输机构等收回的材料或商品短缺或其他应冲减材料或商品采购成本的赔偿款项，应根据有关的索赔凭证，借记<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。因自然灾害等发生的损失和尚待查明原因的途中损耗，先记入<SPAN 
+lang=EN-US>“</SPAN>待处理财产损溢<SPAN lang=EN-US>”</SPAN>科目，查明原因后再作处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）月末，应将仓库转来的外购材料或商品收料凭证，按照材料或商品并分别下列不同情况进行汇总：<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．对于收到发票账单的收料凭证（包括本月付款或开出、承兑商业汇票的上月收料凭证），应当按照汇总金额，借记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>周转材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>2</SPAN>．对于尚未收到发票账单的收料凭证，应分别材料或商品，并按照估计金额暂估入账，借记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>周转材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>　等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>--</SPAN>暂估应付账款<SPAN 
+lang=EN-US>”</SPAN>科目，下月初用红字做同样的会计分录予以冲回，以便下月收到发票账单等结算凭证时，按照正常程序进行账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业已经收到发票账单、但材料或商品尚未到达或尚未验收入库的在途材料、商品等物资的采购成本。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1403 </SPAN>原材料<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业库存的各种材料。包括：原料及主要材料、辅助材料、外购半成品（外购件）、修理用备件（备品备件）、包装材料、燃料等的实际成本或计划成本。<SPAN 
+lang=EN-US><BR></SPAN>　　购入的工程用材料，在<SPAN lang=EN-US>“</SPAN>工程物资<SPAN 
+lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照材料的保管地点（仓库）、材料的类别、品种和规格等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、原材料的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业购入并已验收入库的材料，按照实际成本，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN 
+lang=EN-US>”</SPAN>等科目。涉及按照税法规定可抵扣的增值税进项税额的，还应当借记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（进项税额）<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　购入的材料已经到达并已验收入库，但在月末尚未办理结算手续的，可按照暂估价值入账，借记本科目、<SPAN 
+lang=EN-US>“</SPAN>周转材料<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>--</SPAN>暂估应付账款<SPAN 
+lang=EN-US>”</SPAN>科目；下月初用红字做同样的会计分录予以冲回，以便下月收到发票账单等结算凭证时，按照正常程序进行账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）自制并已验收入库的材料，按照实际成本，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）取得投资者投入的原材料，应当按照评估价值，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>实收资本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>资本公积<SPAN lang=EN-US>”</SPAN>科目。涉及增值税进项税额的，还应进行相应的账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）生产经营领用材料，按照实际成本，借记<SPAN lang=EN-US>“</SPAN>生产成本<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>制造费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　出售材料结转成本，按照实际成本，借记<SPAN lang=EN-US>“</SPAN>其他业务成本<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　发给外单位加工的材料，按照实际成本，借记<SPAN lang=EN-US>“</SPAN>委托加工物资<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。外单位加工完成并已验收入库的材料，按照加工收回材料的实际成本，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>委托加工物资<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（五）清查盘点，发现盘盈、盘亏、毁损的原材料，按照实际成本（或估计价值），借记或贷记本科目，贷记或借记<SPAN 
+lang=EN-US>“</SPAN>待处理财产损溢<SPAN lang=EN-US>--</SPAN>待处理流动资产损溢<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（六）采用计划成本进行材料日常核算的小企业，日常领用、发出原材料均按照计划成本记账。<SPAN 
+lang=EN-US><BR></SPAN>　　月末，按照发出各种原材料的计划成本计算应负担的成本差异，借记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>制造费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>委托加工物资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>其他业务成本<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>材料成本差异<SPAN lang=EN-US>”</SPAN>科目；实际成本小于计划成本的差异做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业库存材料的实际成本或计划成本。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1404 </SPAN>材料成本差异<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业采用计划成本进行日常核算的材料计划成本与实际成本的差额。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业也可以在<SPAN lang=EN-US>“</SPAN>原材料<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>周转材料<SPAN 
+lang=EN-US>”</SPAN>等科目设置<SPAN lang=EN-US>“</SPAN>成本差异<SPAN 
+lang=EN-US>”</SPAN>明细科目。<SPAN lang=EN-US><BR></SPAN>　　二、本科目可以分别<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>周转材料<SPAN lang=EN-US>”</SPAN>等，按照类别或品种进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、材料成本差异的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业验收入库材料发生的材料成本差异，实际成本大于计划成本的差异，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>材料采购<SPAN lang=EN-US>”</SPAN>科目；实际成本小于计划成本的差异做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　入库材料的计划成本应当尽可能接近实际成本。除特殊情况外，计划成本在年度内不得随意变更。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）结转发出材料应负担的材料成本差异，按照实际成本大于计划成本的差异，借记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>委托加工物资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>其他业务成本<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目；实际成本小于计划成本的差异做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　发出材料应负担的成本差异应当按月分摊，不得在季末或年末一次计算。发出材料应负担的成本差异，除委托外部加工发出材料可按照月初成本差异率计算外，应使用本月的实际成本差异率；月初成本差异率与本月实际成本差异率相差不大的，也可按照月初成本差异率计算。计算方法一经确定，不得随意变更。<SPAN 
+lang=EN-US><BR></SPAN>　　材料成本差异率的计算公式如下：<SPAN 
+lang=EN-US><BR></SPAN>　　本月材料成本差异率<SPAN 
+lang=EN-US>=</SPAN>（月初结存材料的成本差异＋本月验收入库材料的成本差异）<SPAN 
+lang=EN-US>÷</SPAN>（月初结存材料的计划成本＋本月验收入库材料的计划成本）<SPAN 
+lang=EN-US>×100%<BR></SPAN>　　月初材料成本差异率<SPAN lang=EN-US>=</SPAN>月初结存材料的成本差异<SPAN 
+lang=EN-US>÷</SPAN>月初结存材料的计划成本<SPAN 
+lang=EN-US>×100%<BR></SPAN>　　发出材料应负担的成本差异<SPAN lang=EN-US>=</SPAN>发出材料的计划成本<SPAN 
+lang=EN-US>×</SPAN>材料成本差异率<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业库存材料等的实际成本大于计划成本的差异；贷方余额反映小企业库存材料等的实际成本小于计划成本的差异。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1405 </SPAN>库存商品<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业库存的各种商品的实际成本或售价。包括：库存产成品、外购商品、存放在门市部准备出售的商品、发出展览的商品以及寄存在外的商品等。<SPAN 
+lang=EN-US><BR></SPAN>　　接受来料加工制造的代制品和为外单位加工修理的代修品，在制造和修理完成验收入库后，视同小企业的产成品，也通过本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　可以降价出售的不合格品，也在本科目核算，但应与合格产品分开记账。<SPAN 
+lang=EN-US><BR></SPAN>　　已经完成销售手续，但购买单位在月末未提取的库存产成品，应作为代管产品处理，单独设置代管产品备查簿，不再在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（农、林、牧、渔业）可将本科目改为<SPAN lang=EN-US>“1405 
+</SPAN>农产品<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（批发业、零售业）在购买商品过程中发生的费用（包括：运输费、装卸费、包装费、保险费、运输途中的合理损耗和入库前的挑选整理费等），在<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照库存商品的种类、品种和规格等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、库存商品的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业生产的产成品的入库和出库，平时只记数量不记金额，月末计算入库产成品的实际成本。生产完成验收入库的产成品，按照其实际成本，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　对外销售产成品，借记<SPAN lang=EN-US>“</SPAN>主营业务成本<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）购入商品到达验收入库后，按照商品的实际成本或售价，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN 
+lang=EN-US>”</SPAN>等科目。涉及增值税进项税额的，还应进行相应的处理。按照售价与进价之间的差额，贷记<SPAN 
+lang=EN-US>“</SPAN>商品进销差价<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　购入的商品已经到达并已验收入库，但尚未办理结算手续的，可按照暂估价值入账，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>--</SPAN>暂估应付账款<SPAN 
+lang=EN-US>”</SPAN>科目；下月初用红字做同样的会计分录予以冲回，以便下月收到发票账单等结算凭证时，按照正常程序进行账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　对外销售商品结转销售成本或售价，借记<SPAN lang=EN-US>“</SPAN>主营业务成本<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。月末，分摊已销商品的进销差价，借记<SPAN 
+lang=EN-US>“</SPAN>商品进销差价<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>主营业务成本<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业库存商品的实际成本或售价。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1407 </SPAN>商品进销差价<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业采用售价进行日常核算的商品售价与进价之间的差额。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照库存商品的种类、品种和规格等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、商品进销差价的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业购入、加工收回以及销售退回等增加的库存商品，按照商品售价，借记<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>科目，按照商品进价，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>委托加工物资<SPAN lang=EN-US>”</SPAN>等科目，按照售价与进价之间的差额，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）月末，分摊已销商品的进销差价，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>主营业务成本<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　销售商品应分摊的商品进销差价，按照以下公式计算：<SPAN 
+lang=EN-US><BR></SPAN>　　商品进销差价率<SPAN lang=EN-US>=</SPAN>月末分摊前本科目贷方余额<SPAN 
+lang=EN-US>÷</SPAN>（<SPAN lang=EN-US>“</SPAN>库存商品<SPAN 
+lang=EN-US>”</SPAN>科目月末借方余额＋本月<SPAN lang=EN-US>“</SPAN>主营业务收入<SPAN 
+lang=EN-US>”</SPAN>科目贷方发生额）<SPAN 
+lang=EN-US>×100%<BR></SPAN>　　本月销售商品应分摊的商品进销差价<SPAN lang=EN-US>=</SPAN>本月<SPAN 
+lang=EN-US>“</SPAN>主营业务收入<SPAN lang=EN-US>”</SPAN>科目贷方发生额<SPAN 
+lang=EN-US>×</SPAN>商品进销差价率<SPAN 
+lang=EN-US><BR></SPAN>　　小企业的商品进销差价率各月之间比较均衡的，也可以采用上月商品进销差价率计算分摊本月的商品进销差价。年度终了，应对商品进销差价进行复核调整。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目的期末贷方余额，反映小企业库存商品的商品进销差价。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1408 </SPAN>委托加工物资<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业委托外单位加工的各种材料、商品等物资的实际成本。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照加工合同、受托加工单位以及加工物资的品种等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、委托加工物资的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业发给外单位加工的物资，按照实际成本，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN 
+lang=EN-US>”</SPAN>等科目；按照计划成本或售价核算的，还应同时结转材料成本差异或商品进销差价。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）支付加工费、运杂费等，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目；需要交纳消费税的委托加工物资，由受托方代收代缴的消费税，借记本科目（收回后用于直接销售的）或<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交消费税<SPAN 
+lang=EN-US>”</SPAN>科目（收回后用于继续加工的），贷记<SPAN lang=EN-US>“</SPAN>应付账款<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）加工完成验收入库的物资和剩余的物资，按照加工收回物资的实际成本和剩余物资的实际成本，借记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）采用计划成本或售价核算的，按照计划成本或售价，借记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN 
+lang=EN-US>”</SPAN>科目，按照实际成本，贷记本科目，按照实际成本与计划成本或售价之间的差额，借记或贷记<SPAN 
+lang=EN-US>“</SPAN>材料成本差异<SPAN lang=EN-US>”</SPAN>或贷记<SPAN 
+lang=EN-US>“</SPAN>商品进销差价<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　采用计划成本或售价核算的，也可以采用上月材料成本差异率或商品进销差价率计算分摊本月应分摊的材料成本差异或商品进销差价。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业委托外单位加工尚未完成物资的实际成本。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1411 </SPAN>周转材料<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业库存的周转材料的实际成本或计划成本。包括：包装物、低值易耗品，以及小企业（建筑业）的钢模板、木模板、脚手架等。<SPAN 
+lang=EN-US><BR></SPAN>　　各种包装材料，如纸、绳、铁丝、铁皮等，应在<SPAN lang=EN-US>“</SPAN>原材料<SPAN 
+lang=EN-US>”</SPAN>科目内核算；用于储存和保管产品、材料而不对外出售的包装物，应按照价值大小和使用年限长短，分别在<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>科目或本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业的包装物、低值易耗品，也可以单独设置<SPAN lang=EN-US>“1412 
+</SPAN>包装物<SPAN lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“1413 </SPAN>低值易耗品<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　包装物数量不多的小企业，也可以不设置本科目，将包装物并入<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照周转材料的种类，分别<SPAN lang=EN-US>“</SPAN>在库<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>在用<SPAN lang=EN-US>”</SPAN>和<SPAN 
+lang=EN-US>“</SPAN>摊销<SPAN lang=EN-US>”</SPAN>进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、周转材料的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业购入、自制、委托外单位加工完成并验收入库的周转材料，以及对周转材料的清查盘点，比照<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>科目的相关规定进行账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）生产、施工领用周转材料，通常采用一次转销法，按照其成本，借记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>工程施工<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　随同产品出售但不单独计价的包装物，按照其成本，借记<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　随同产品出售并单独计价的包装物，按照其成本，借记<SPAN 
+lang=EN-US>“</SPAN>其他业务成本<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　金额较大的周转材料，也可以采用分次摊销法，领用时应按照其成本，借记本科目（在用），贷记本科目（在库）；按照使用次数摊销时，应按照其摊销额，借记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>工程施工<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目（摊销）。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）周转材料采用计划成本进行日常核算的，领用等发出周转材料，还应结转应分摊的成本差异。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目的期末余额，反映小企业在库、出租、出借周转材料的实际成本或计划成本以及在用周转材料的摊余价值。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1421 </SPAN>消耗性生物资产<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业（农、林、牧、渔业）持有的消耗性生物资产的实际成本。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照消耗性生物资产的种类、群别等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、消耗性生物资产的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）外购的消耗性生物资产，按照应计入消耗性生物资产成本的金额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）自行栽培的大田作物和蔬菜，应按照收获前发生的必要支出，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　自行营造的林木类消耗性生物资产，应按照郁闭前发生的必要支出，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　自行繁殖的育肥畜、水产养殖的动植物，应按照出售前发生的必要支出，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）产畜或役畜淘汰转为育肥畜的，应按照转群时的账面价值，借记本科目，按照已计提的累计折旧，借记<SPAN 
+lang=EN-US>“</SPAN>生产性生物资产累计折旧<SPAN lang=EN-US>”</SPAN>科目，按照其账面余额，贷记<SPAN 
+lang=EN-US>“</SPAN>生产性生物资产<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　育肥畜转为产畜或役畜的，应按照其账面余额，借记<SPAN 
+lang=EN-US>“</SPAN>生产性生物资产<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）择伐、间伐或抚育更新性质采伐而补植林木类消耗性生物资产发生的后续支出，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　林木类消耗性生物资产达到郁闭后发生的管护费用等后续支出，借记<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（五）农业生产过程中发生的应归属于消耗性生物资产的费用，按照应分配的金额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（六）消耗性生物资产收获为农产品时，应按照其账面余额，借记<SPAN 
+lang=EN-US>“</SPAN>农产品<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（七）出售消耗性生物资产，应按照实际收到的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>主营业务收入<SPAN lang=EN-US>”</SPAN>等科目。按照其账面余额，借记<SPAN 
+lang=EN-US>“</SPAN>主营业务成本<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业（农、林、牧、渔业）消耗性生物资产的实际成本。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1501 </SPAN>长期债券投资<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业准备长期（在<SPAN 
+lang=EN-US>1</SPAN>年以上，下同）持有的债券投资。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照债券种类和被投资单位，分别<SPAN lang=EN-US>“</SPAN>面值<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>溢折价<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应计利息<SPAN lang=EN-US>”</SPAN>进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、长期债券投资的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业购入债券作为长期投资，应当按照债券票面价值，借记本科目（面值），按照实际支付的购买价款和相关税费，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目，按照其差额，借记或贷记本科目（溢折价）。<SPAN 
+lang=EN-US><BR></SPAN>　　如果实际支付的购买价款中包含已到付息期但尚未领取的债券利息，应当按照债券票面价值，借记本科目（面值），按照应收的债券利息，借记<SPAN 
+lang=EN-US>“</SPAN>应收利息<SPAN lang=EN-US>”</SPAN>科目，按照实际支付的购买价款和相关税费，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目，按照其差额，借记或贷记本科目（溢折价）。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）在长期债券投资持有期间，在债务人应付利息日，按照分期付息、一次还本的长期债券投资票面利率计算的利息收入，借记<SPAN 
+lang=EN-US>“</SPAN>应收利息<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN 
+lang=EN-US>”</SPAN>科目；按照一次还本付息的长期债券投资票面利率计算的利息收入，借记本科目（应计利息），贷记<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　在债务人应付利息日，按照应分摊的债券溢折价金额，借记或贷记<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>科目，贷记或借记本科目（溢折价）。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）长期债券投资到期，收回长期债券投资，应当按照收回的债券本金或本息，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目，按照其账面余额，贷记本科目（成本、溢折价、应计利息），按照应收未收的利息收入，贷记<SPAN 
+lang=EN-US>“</SPAN>应收利息<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　处置长期债券投资，应当按照处置收入，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目，按照其账面余额，贷记本科目（成本、溢折价），按照应收未收的利息收入，贷记<SPAN 
+lang=EN-US>“</SPAN>应收利息<SPAN lang=EN-US>”</SPAN>科目，按照其差额，贷记或借记<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）按照小</SPAN><SPAN lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业会计准则</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定确认实际发生的长期债券投资损失，应当按照可收回的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目，按照其账面余额，贷记本科目（成本、溢折价），按照其差额，借记<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业持有的分期付息、一次还本债券投资的成本和到期一次还本付息债券投资的本息。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1511 </SPAN>长期股权投资<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业准备长期持有的权益性投资。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照被投资单位进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、长期股权投资的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业以支付现金取得的长期股权投资，如果实际支付的购买价款中包含已宣告但尚未发放的现金股利，应当按照实际支付的购买价款和相关税费扣除已宣告但尚未发放的现金股利后的金额，借记本科目，按照应收的现金股利，借记<SPAN 
+lang=EN-US>“</SPAN>应收股利<SPAN lang=EN-US>”</SPAN>科目，按照实际支付的购买价款和相关税费，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　通过非货币性资产交换取得的长期股权投资，应当按照非货币性资产的评估价值与相关税费之和，借记本科目，按照换出非货币性资产的账面价值，贷记<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>无形资产<SPAN lang=EN-US>”</SPAN>等科目，按照支付的相关税费，贷记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>”</SPAN>等科目，按照其差额，贷记<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>”</SPAN>或借记<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）在长期股权投资持有期间，被投资单位宣告分派的现金股利或利润，应当按照应分得的金额，借记<SPAN 
+lang=EN-US>“</SPAN>应收股利<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）处置长期股权投资，应当按照处置价款，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目，按照其成本，贷记本科目，按照应收未收的现金股利或利润，贷记<SPAN 
+lang=EN-US>“</SPAN>应收股利<SPAN lang=EN-US>”</SPAN>科目，按照其差额，贷记或借记<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）根据小</SPAN><SPAN lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业会计准则</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定确认实际发生的长期股权投资损失，应当按照可收回的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，按照其账面余额，贷记本科目，按照其差额，借记<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业持有的长期股权投资的成本。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1601 </SPAN>固定资产<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业固定资产的原价（成本）。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业应当根据小</SPAN><SPAN lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业会计准则</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定的固定资产标准，结合本企业的具体情况，制定固定资产目录，作为核算依据。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业购置计算机硬件所附带的、未单独计价的软件，也通过本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业临时租入的固定资产和以经营租赁租入的固定资产，应另设备查簿进行登记，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照固定资产类别和项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业根据实际情况设置<SPAN lang=EN-US>“</SPAN>固定资产登记簿<SPAN 
+lang=EN-US>”</SPAN>和<SPAN lang=EN-US>“</SPAN>固定资产卡片<SPAN 
+lang=EN-US>”</SPAN>。<SPAN lang=EN-US><BR></SPAN>　　三、固定资产的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业购入（含以分期付款方式购入）不需要安装的固定资产，应当按照实际支付的购买价款、相关税费（不包括按照税法规定可抵扣的增值税进项税额）、运输费、装卸费、保险费等，借记本科目，按照税法规定可抵扣的增值税进项税额，借记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（进项税额）<SPAN 
+lang=EN-US>”</SPAN>科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>长期应付款<SPAN 
+lang=EN-US>”</SPAN>等科目。<SPAN lang=EN-US><BR></SPAN>　　购入需要安装的固定资产，先记入<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>科目，安装完成后再转入本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　自行建造固定资产完成竣工决算，按照竣工决算前发生相关支出，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　取得投资者投入的固定资产，应当按照评估价值和相关税费，借记本科目或<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>实收资本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>资本公积<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　融资租入的固定资产，在租赁期开始日，按照租赁合同约定的付款总额和在签订租赁合同过程中发生的相关税费等，借记本科目或<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>长期应付款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　盘盈的固定资产，按照同类或类似固定资产的市场价格或评估价值扣除按照新旧程度估计的折旧后的余额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>待处理财产损溢<SPAN lang=EN-US>--</SPAN>待处理非流动资产损溢<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）在固定资产使用过程中发生的修理费，应当按照固定资产的受益对象，借记<SPAN 
+lang=EN-US>“</SPAN>制造费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　固定资产的大修理支出，借记<SPAN lang=EN-US>“</SPAN>长期待摊费用<SPAN 
+lang=EN-US>”</SPAN>科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）对固定资产进行改扩建时，应当按照该项固定资产账面价值，借记<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>科目，按照其已计提的累计折旧，借记<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>科目，按照其原价，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）因出售、报废、毁损、对外投资等原因处置固定资产，应当按照该项固定资产账面价值，借记<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN lang=EN-US>”</SPAN>科目，按照其已计提的累计折旧，借记<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>科目，按照其原价，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　盘亏的固定资产，按照该项固定资产的账面价值，借记<SPAN 
+lang=EN-US>“</SPAN>待处理财产损溢<SPAN lang=EN-US>--</SPAN>待处理非流动资产损溢<SPAN 
+lang=EN-US>”</SPAN>科目，按照已计提的折旧，借记<SPAN lang=EN-US>“</SPAN>累计折旧<SPAN 
+lang=EN-US>”</SPAN>科目，按照其原价，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业固定资产的原价（成本）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1602 </SPAN>累计折旧<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业固定资产的累计折旧。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目可以进行总分类核算，也可以进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　需要查明某项固定资产的已计提折旧，可以根据<SPAN 
+lang=EN-US>“</SPAN>固定资产卡片<SPAN 
+lang=EN-US>”</SPAN>上所记载的该项固定资产原价、折旧率和实际使用年数等资料进行计算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、累计折旧的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业按月计提固定资产的折旧费，应当按照固定资产的受益对象，借记<SPAN 
+lang=EN-US>“</SPAN>制造费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）因出售、报废、毁损、对外投资等原因处置固定资产，应当按照该项固定资产账面价值，借记<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN 
+lang=EN-US>”</SPAN>科目，按照其已计提的累计折旧，借记本科目，按照其原价，贷记<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业固定资产的累计折旧额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1604 </SPAN>在建工程<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业需要安装的固定资产、固定资产新建工程、改扩建等所发生的成本。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业购入不需要安装的固定资产，在<SPAN lang=EN-US>“</SPAN>固定资产<SPAN 
+lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业已提足折旧的固定资产的改建支出和经营租入固定资产的改建支出，在<SPAN 
+lang=EN-US>“</SPAN>长期待摊费用<SPAN lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照在建工程项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、在建工程的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业购入需要安装的固定资产，应当按照实际支付的购买价款、相关税费（不包括按照税法规定可抵扣的增值税进项税额）、运输费、装卸费、保险费、安装费等，借记本科目，按照税法规定可抵扣的增值税进项税额，借记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（进项税额）<SPAN 
+lang=EN-US>”</SPAN>科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　融资租入的固定资产，在租赁期开始日，按照租赁合同约定的付款总额和在签订租赁合同过程中发生的相关税费等，借记本科目或<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>长期应付款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　固定资产安装完成，借记<SPAN lang=EN-US>“</SPAN>固定资产<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）自营工程领用工程物资，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>工程物资<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN lang=EN-US><BR></SPAN>　　在建工程应负担的职工薪酬，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　在建工程使用本企业的产品或商品，应当按照成本，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN 
+lang=EN-US>”</SPAN>科目。同时，按照税法规定应交纳的增值税额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（销项税额）<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　在建工程在竣工决算前发生的借款利息，在应付利息日应当根据借款合同利率计算确定的利息费用，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>科目。办理竣工决算后发生的利息费用，在应付利息日，借记<SPAN 
+lang=EN-US>“</SPAN>财务费用<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　在建工程在试运转过程中发生的支出，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目；形成的产品或者副产品对外销售或转为库存商品的，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　自营工程办理竣工决算，借记<SPAN lang=EN-US>“</SPAN>固定资产<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）出包工程，按照工程进度和合同规定结算的工程价款，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>预付账款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　工程完工收到承包单位提供的账单，借记<SPAN lang=EN-US>“</SPAN>固定资产<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）对固定资产进行改扩建时，应当按照该项固定资产账面价值，借记本科目，按照其已计提的累计折旧，借记<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>科目，按照其原价，贷记<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　在改扩建过程中发生的相关支出，借记本科目，贷记相关科目。<SPAN 
+lang=EN-US><BR></SPAN>　　改扩建完成办理竣工决算，借记<SPAN lang=EN-US>“</SPAN>固定资产<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业尚未完工或虽已完工，但尚未办理竣工决算的工程成本。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1605 </SPAN>工程物资<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业为在建工程准备的各种物资的成本。包括：工程用材料、尚未安装的设备以及为生产准备的工器具等。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照<SPAN lang=EN-US>“</SPAN>专用材料<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>专用设备<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>工器具<SPAN lang=EN-US>”</SPAN>等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、工程物资的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业购入为工程准备的物资，应当按照实际支付的购买价款和相关税费，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）工程领用工程物资，借记<SPAN lang=EN-US>“</SPAN>在建工程<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。工程完工后将领出的剩余物资退库时做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　工程完工后剩余的工程物资转作本企业存货的，借记<SPAN lang=EN-US>“</SPAN>原材料<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业为在建工程准备的各种物资的成本。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1606 </SPAN>固定资产清理<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业因出售、报废、毁损、对外投资等原因处置固定资产所转出的固定资产账面价值以及在清理过程中发生的费用等。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照被清理的固定资产项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、固定资产清理的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业因出售、报废、毁损、对外投资等原因处置固定资产，应当按照该项固定资产的账面价值，借记本科目，按照其已计提的累计折旧，借记<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>科目，按照其原价，贷记<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　同时，按照税法规定不得从增值税销项税额中抵扣的进项税额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（进项税额转出）<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）清理过程中应支付的相关税费及其他费用，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN 
+lang=EN-US>”</SPAN>等科目。取得出售固定资产的价款、残料价值和变价收入等处置收入，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。应由保险公司或过失人赔偿的损失，借记<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）固定资产清理完成后，如为借方余额，借记<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>--</SPAN>非流动资产处置净损失<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。如为贷方余额，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>营业外收入<SPAN 
+lang=EN-US>--</SPAN>非流动资产处置净收益<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业尚未清理完毕的固定资产清理净损失；本科目期末贷方余额，反映小企业尚未清理完毕的固定资产清理净收益。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1621 </SPAN>生产性生物资产<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业（农、林、牧、渔业）持有的生产性生物资产的原价（成本）。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照<SPAN lang=EN-US>“</SPAN>未成熟生产性生物资产<SPAN 
+lang=EN-US>”</SPAN>和<SPAN lang=EN-US>“</SPAN>成熟生产性生物资产<SPAN 
+lang=EN-US>”</SPAN>，分别生物资产的种类、群别等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、生产性生物资产的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业外购的生产性生物资产，按照购买价款和相关税费，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目。涉及按照税法规定可抵扣的增值税进项税额的，还应当借记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（进项税额）<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）自行营造的林木类生产性生物资产，达到预定生产经营目的前发生的造林费、抚育费、营林设施费、良种试验费、调查设计费和应分摊的间接费用等必要支出，借记本科目（未成熟生产性生物资产），贷记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）自行繁殖的产畜和役畜，达到预定生产经营目的前发生的饲料费、人工费和应分摊的间接费用等必要支出，借记本科目（未成熟生产性生物资产），贷记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）未成熟生产性生物资产达到预定生产经营目的时，按照其账面余额，借记本科目（成熟生产性生物资产），贷记本科目（未成熟生产性生物资产）。<SPAN 
+lang=EN-US><BR></SPAN>　　（五）育肥畜转为产畜或役畜，应当按照其账面余额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>消耗性生物资产<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　产畜或役畜淘汰转为育肥畜，应按照转群时其账面价值，借记<SPAN 
+lang=EN-US>“</SPAN>消耗性生物资产<SPAN lang=EN-US>”</SPAN>科目，按照已计提的累计折旧，借记<SPAN 
+lang=EN-US>“</SPAN>生产性生物资产累计折旧<SPAN lang=EN-US>”</SPAN>科目，按照其原价，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（六）择伐、间伐或抚育更新等生产性采伐而补植林木类生产性生物资产发生的后续支出，借记本科目（未成熟生产性生物资产），贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　生产性生物资产发生的管护、饲养费用等后续支出，借记<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（七）因出售、报废、毁损、对外投资等原因处置生产性生物资产，应按照取得的出售生产性生物资产的价款、残料价值和变价收入等处置收入，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，按照已计提的累计折旧，借记<SPAN 
+lang=EN-US>“</SPAN>生产性生物资产累计折旧<SPAN 
+lang=EN-US>”</SPAN>科目，按照其原价，贷记本科目，按照其差额，借记<SPAN lang=EN-US>“</SPAN>营业外支出<SPAN 
+lang=EN-US>--</SPAN>非流动资产处置净损失<SPAN lang=EN-US>”</SPAN>科目或贷记<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>--</SPAN>处置非流动资产处置净收益<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业（农、林、牧、渔业）生产性生物资产的原价（成本）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1622 </SPAN>生产性生物资产累计折旧<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业（农、林、牧、渔业）成熟生产性生物资产的累计折旧。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照生产性生物资产的种类、群别等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、生产性生物资产累计折旧的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业按月计提成熟生产性生物资产的折旧，借记<SPAN lang=EN-US>“</SPAN>生产成本<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>管理费用<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　处置生产性生物资产还应同时结转生产性生物资产累计折旧。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业成熟生产性生物资产的累计折旧额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1701 </SPAN>无形资产<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业持有的无形资产成本。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照无形资产项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、无形资产的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业外购无形资产，应当按照实际支付的购买价款、相关税费和相关的其他支出（含相关的利息费用），借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）自行开发建造厂房等建筑物，外购土地及建筑物支付的价款应当在建筑物与土地使用权之间按照合理的方法进行分配，其中属于土地使用权的部分，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）收到投资者投入的无形资产，应当按照评估价值和相关税费，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>实收资本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>资本公积<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）开发项目达到预定用途形成无形资产的，按照应予资本化的支出，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>研发支出<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（五）因出售、报废、对外投资等原因处置无形资产，应当按照取得的出售无形资产的价款等处置收入，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，按照其已计提的累计摊销，借记<SPAN 
+lang=EN-US>“</SPAN>累计摊销<SPAN lang=EN-US>”</SPAN>科目，按照应支付的相关税费及其他费用，贷记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交营业税<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目，按照其成本，贷记本科目，按照其差额，贷记<SPAN lang=EN-US>“</SPAN>营业外收入<SPAN 
+lang=EN-US>--</SPAN>非流动资产处置净收益<SPAN lang=EN-US>”</SPAN>科目或借记<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>--</SPAN>非流动资产处置净损失<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业无形资产的成本。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1702 </SPAN>累计摊销<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业对无形资产计提的累计摊销。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照无形资产项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、累计摊销的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业按月采用年限平均法计提无形资产的摊销，应当按照无形资产的受益对象，借记<SPAN 
+lang=EN-US>“</SPAN>制造费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　处置无形资产还应同时结转累计摊销。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业无形资产的累计摊销额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1801 </SPAN>长期待摊费用<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业已提足折旧的固定资产的改建支出、经营租入固定资产的改建支出、固定资产的大修理支出和其他长期待摊费用等。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照支出项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、长期待摊费用的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业发生的长期待摊费用，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）按月采用年限平均法摊销长期待摊费用，应当按照长期待摊费用的受益对象，借记<SPAN 
+lang=EN-US>“</SPAN>制造费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业尚未摊销完毕的长期待摊费用。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1901 </SPAN>待处理财产损溢<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业在清查财产过程中查明的各种财产盘盈、盘亏和毁损的价值。<SPAN 
+lang=EN-US><BR></SPAN>　　所采购物资在运输途中因自然灾害等发生的损失或尚待查明的损耗，也通过本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照待处理流动资产损溢和待处理非流动资产损溢进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、待处理财产损溢的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）盘盈的各种材料、产成品、商品、现金等，应当按照同类或类似存货的市场价格或评估价值，借记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目（待处理流动资产损溢）。盘亏、毁损、短缺的各种材料、产成品、商品、现金等，应当按照其账面余额，借记本科目（待处理流动资产损溢），贷记<SPAN 
+lang=EN-US>“</SPAN>材料采购<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>等科目。涉及增值税进项税额的，还应进行相应的账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　盘盈的固定资产，按照同类或类似固定资产的市场价格或评估价值扣除按照该项固定资产新旧程度估计的折旧后的余额，借记<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（待处理非流动资产损溢）。盘亏的固定资产，按照该项固定资产的账面价值，借记本科目（待处理非流动资产损溢），按照已计提的累计折旧，借记<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>科目，按照其原价，贷记<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）盘亏、毁损、报废的各项资产，按照管理权限经批准后处理时，按照残料价值，借记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>等科目，按照可收回的保险赔偿或过失人赔偿，借记<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN 
+lang=EN-US>”</SPAN>科目，按照本科目余额，贷记本科目（待处理流动资产损溢、待处理非流动资产损溢），按照其借方差额，借记<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　盘盈的各种材料、产成品、商品、固定资产、现金等，按照管理权限经批准后处理时，按照本科目余额，借记本科目（待处理流动资产损溢、待处理非流动资产损溢），贷记<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、小企业的财产损溢，应当查明原因，在年末结账前处理完毕，处理后本科目应无余额。<SPAN 
+lang=EN-US><BR><BR></SPAN>　　负债类<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>2001 </SPAN>短期借款<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业向银行或其他金融机构等借入的期限在<SPAN 
+lang=EN-US>1</SPAN>年内的各种借款。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照借款种类、贷款人和币种进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、短期借款的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业借入的各种短期借款，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目；偿还借款，做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　银行承兑汇票到期，小企业无力支付票款的，按照银行承兑汇票的票面金额，借记<SPAN 
+lang=EN-US>“</SPAN>应付票据<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　持未到期的商业汇票向银行贴现，应当按照实际收到的金额（即减去贴现息后的净额），借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目，按照贴现息，借记<SPAN 
+lang=EN-US>“</SPAN>财务费用<SPAN lang=EN-US>”</SPAN>科目，按照商业汇票的票面金额，贷记<SPAN 
+lang=EN-US>“</SPAN>应收票据<SPAN 
+lang=EN-US>”</SPAN>科目（银行无追索权情况下）或本科目（银行有追索权情况下）。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）在应付利息日，应当按照短期借款合同利率计算确定的利息费用，借记<SPAN 
+lang=EN-US>“</SPAN>财务费用<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业尚未偿还的短期借款本金。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2201 </SPAN>应付票据<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业因购买材料、商品和接受劳务等日常生产经营活动开出、承兑的商业汇票（银行承兑汇票和商业承兑汇票）。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照债权人进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、应付票据的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业开出、承兑商业汇票或以承兑商业汇票抵付货款、应付账款等，借记<SPAN 
+lang=EN-US>“</SPAN>材料采购<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目。涉及增值税进项税额的，还应进行相应的账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）支付银行承兑汇票的手续费，借记<SPAN lang=EN-US>“</SPAN>财务费用<SPAN 
+lang=EN-US>”</SPAN>科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目。支付票款，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）银行承兑汇票到期，小企业无力支付票款的，按照银行承兑汇票的票面金额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>短期借款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、小企业应当设置<SPAN lang=EN-US>“</SPAN>应付票据备查簿<SPAN 
+lang=EN-US>”</SPAN>，详细登记商业汇票的种类、号数和出票日期、到期日、票面金额、交易合同号和收款人姓名或单位名称以及付款日期和金额等资料，商业汇票到期结清票款后，在备查簿中应予注销。<SPAN 
+lang=EN-US><BR></SPAN>　　五、本科目期末贷方余额，反映小企业开出、承兑的尚未到期的商业汇票的票面金额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2202 </SPAN>应付账款<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业因购买材料、商品和接受劳务等日常生产经营活动应支付的款项。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照对方单位（或个人）进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、应付账款的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业购入材料、商品等未验收入库，货款尚未支付，应当根据有关凭证（发票账单、随货同行发票上记载的实际价款或暂估价值），借记<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>科目，按照可抵扣的增值税进项税额，借记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（进项税额）<SPAN 
+lang=EN-US>”</SPAN>科目，按照应付的价款，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　接受供应单位提供劳务而发生的应付未付款项，应当根据供应单位的发票账单，借记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）偿付应付账款，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业确实无法偿付的应付账款，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业尚未支付的应付账款。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2203 </SPAN>预收账款<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业按照合同规定预收的款项。包括：预收的购货款、工程款等。<SPAN 
+lang=EN-US><BR></SPAN>　　预收账款情况不多的，也可以不设置本科目，将预收的款项直接记入<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN lang=EN-US>”</SPAN>科目贷方。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照对方单位（或个人）进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、预收账款的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业向购货单位预收的款项，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）销售收入实现时，按照实现的收入金额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>主营业务收入<SPAN 
+lang=EN-US>”</SPAN>科目。涉及增值税销项税额的，还应进行相应的账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业预收的款项；期末如为借方余额，反映小企业尚未转销的款项。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2211 </SPAN>应付职工薪酬<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业根据有关规定应付给职工的各种薪酬。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（外商投资）按照规定从净利润中提取的职工奖励及福利基金，也通过本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照<SPAN lang=EN-US>“</SPAN>职工工资<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>奖金、津贴和补贴<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>职工福利费<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>社会保险费<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>住房公积金<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>工会经费<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>职工教育经费<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>非货币性福利<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>辞退福利<SPAN lang=EN-US>”</SPAN>等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、应付职工薪酬的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）月末，小企业应当将本月发生的职工薪酬区分以下情况进行分配：<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1</SPAN>．生产部门（提供劳务）人员的职工薪酬，借记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>制造费用<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2</SPAN>．应由在建工程、无形资产开发项目负担的职工薪酬，借记<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>研发支出<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>3</SPAN>．管理部门人员的职工薪酬和因解除与职工的劳动关系给予的补偿，借记<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>4</SPAN>．销售人员的职工薪酬，借记<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）小企业发放职工薪酬应当区分以下情况进行处理：<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．向职工支付工资、奖金、津贴、福利费等，从应付职工薪酬中扣还的各种款项（代垫的家属药费、个人所得税等）等，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交个人所得税<SPAN 
+lang=EN-US>”</SPAN>等科目。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>2</SPAN>．支付工会经费和职工教育经费用于工会活动和职工培训，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>3</SPAN>．按照国家有关规定缴纳的社会保险费和住房公积金，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>4</SPAN>．以其自产产品发放给职工的，按照其销售价格，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>主营业务收入<SPAN 
+lang=EN-US>”</SPAN>科目；同时，还应结转产成品的成本。涉及增值税销项税额的，还应进行相应的账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5</SPAN>．支付的因解除与职工的劳动关系给予职工的补偿，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业应付未付的职工薪酬。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2221 </SPAN>应交税费<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业按照税法等规定计算应交纳的各种税费。包括：增值税、消费税、营业税、城市维护建设税、企业所得税、资源税、土地增值税、城镇土地使用税、房产税、车船税和教育费附加、矿产资源补偿费、排污费等。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业代扣代缴的个人所得税等，也通过本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照应交的税费项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　应交增值税还应当分别<SPAN lang=EN-US>“</SPAN>进项税额<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>销项税额<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>出口退税<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>进项税额转出<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>已交税金<SPAN lang=EN-US>”</SPAN>等设置专栏。<SPAN 
+lang=EN-US><BR></SPAN>　　小规模纳税人只需设置<SPAN lang=EN-US>“</SPAN>应交增值税<SPAN 
+lang=EN-US>”</SPAN>明细科目，不需要在<SPAN lang=EN-US>“</SPAN>应交增值税<SPAN 
+lang=EN-US>”</SPAN>明细科目中设置上述专栏。<SPAN lang=EN-US><BR></SPAN>　　三、应交税费的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）应交增值税的主要账务处理。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．小企业采购物资等，按照应计入采购成本的金额，借记<SPAN lang=EN-US>“</SPAN>材料采购<SPAN 
+lang=EN-US>”</SPAN>或<SPAN lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN 
+lang=EN-US>”</SPAN>等科目，按照税法规定可抵扣的增值税进项税额，借记本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>进项税额），按照应付或实际支付的金额，贷记<SPAN lang=EN-US>“</SPAN>应付账款<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目。购入物资发生退货的，做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　购进免税农业产品，按照购入农业产品的买价和税法规定的税率计算的增值税进项税额，借记本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>进项税额），按照买价减去按照税法规定计算的增值税进项税额后的金额，借记<SPAN 
+lang=EN-US>“</SPAN>材料采购<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>等科目，按照应付或实际支付的价款，贷记<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>2</SPAN>．销售商品（提供劳务），按照收入金额和应收取的增值税销项税额，借记<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目，按照税法规定应交纳的增值税销项税额，贷记本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>销项税额），按照确认的营业收入金额，贷记<SPAN lang=EN-US>“</SPAN>主营业务收入<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>其他业务收入<SPAN 
+lang=EN-US>”</SPAN>等科目。发生销售退回的，做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　随同商品出售但单独计价的包装物，应当按照实际收到或应收的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN 
+lang=EN-US>”</SPAN>等科目，按照税法规定应交纳的增值税销项税额，贷记本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>销项税额），按照确认的其他业务收入金额，贷记<SPAN lang=EN-US>“</SPAN>其他业务收入<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>3</SPAN>．有出口产品的小企业，其出口退税的账务处理如下：<SPAN lang=EN-US><BR></SPAN>　　（<SPAN 
+lang=EN-US>1</SPAN>）实行<SPAN lang=EN-US>“</SPAN>免、抵、退<SPAN 
+lang=EN-US>”</SPAN>管理办法的小企业，按照税法规定计算的当期出口产品不予免征、抵扣和退税的增值税额，借记<SPAN 
+lang=EN-US>“</SPAN>主营业务成本<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>进项税额转出）。按照税法规定计算的当期应予抵扣的增值税额，借记本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>出口抵减内销产品应纳税额），贷记本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>出口退税）。<SPAN 
+lang=EN-US><BR></SPAN>　　出口产品按照税法规定应予退回的增值税款，借记<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>出口退税）。<SPAN lang=EN-US><BR></SPAN>　　（<SPAN 
+lang=EN-US>2</SPAN>）未实行<SPAN lang=EN-US>“</SPAN>免、抵、退<SPAN 
+lang=EN-US>”</SPAN>管理办法的小企业，出口产品实现销售收入时，应当按照应收的金额，借记<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN lang=EN-US>”</SPAN>等科目，按照税法规定应收的出口退税，借记<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN lang=EN-US>”</SPAN>科目，按照税法规定不予退回的增值税额，借记<SPAN 
+lang=EN-US>“</SPAN>主营业务成本<SPAN lang=EN-US>”</SPAN>科目，按照确认的销售商品收入，贷记<SPAN 
+lang=EN-US>“</SPAN>主营业务收入<SPAN 
+lang=EN-US>”</SPAN>科目，按照税法规定应交纳的增值税额，贷记本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>销项税额）。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>4</SPAN>．购入材料等按照税法规定不得从增值税销项税额中抵扣的进项税额，其进项税额应计入材料等的成本，借记<SPAN 
+lang=EN-US>“</SPAN>材料采购<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，不通过本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>进项税额）核算。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5</SPAN>．将自产的产品等用作福利发放给职工，应视同产品销售计算应交增值税的，借记<SPAN 
+lang=EN-US>“</SPAN>应付职工酬薪<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>主营业务收入<SPAN lang=EN-US>”</SPAN>、本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>销项税额）等科目。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>6</SPAN>．购进的物资、在产品、产成品因盘亏、毁损、报废、被盗，以及购进物资改变用途等原因按照税法规定不得从增值税销项税额中抵扣的进项税额，其进项税额应转入有关科目，借记<SPAN 
+lang=EN-US>“</SPAN>待处理财产损溢<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>进项税额转出）。<SPAN 
+lang=EN-US><BR></SPAN>　　由于工程而使用本企业的产品或商品，应当按照成本，借记<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>科目。同时，按照税法规定应交纳的增值税销项税额，借记<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交增值税<SPAN 
+lang=EN-US>--</SPAN>销项税额）。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>7</SPAN>．交纳的增值税，借记本科目（应交增值税<SPAN lang=EN-US>--</SPAN>已交税金），贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）应交消费税的主要账务处理。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．销售需要交纳消费税的物资应交的消费税，借记<SPAN lang=EN-US>“</SPAN>营业税金及附加<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目（应交消费税）。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>2</SPAN>．以生产的产品用于在建工程、非生产机构等，按照税法规定应交纳的消费税，借记<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目（应交消费税）。<SPAN 
+lang=EN-US><BR></SPAN>　　随同商品出售但单独计价的包装物，按照税法规定应交纳的消费税，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（应交消费税）。出租、出借包装物逾期未收回没收的押金应交的消费税，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交消费税）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>3</SPAN>．需要交纳消费税的委托加工物资，由受托方代收代缴税款（除受托加工或翻新改制金银首饰按照税法规定由受托方交纳消费税外）。小企业（受托方）按照应交税款金额，借记<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目（应交消费税）。<SPAN 
+lang=EN-US><BR></SPAN>　　委托加工物资收回后，直接用于销售的，小企业（委托方）应将代收代缴的消费税计入委托加工物资的成本，借记<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目；委托加工物资收回后用于连续生产，按照税法规定准予抵扣的，按照代收代缴的消费税，借记本科目（应交消费税），贷记<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>4</SPAN>．有金银首饰零售业务的以及采用以旧换新方式销售金银首饰的小企业，在营业收入实现时，按照应交的消费税，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（应交消费税）。有金银首饰零售业务的小企业因受托代销金银首饰按照税法规定应交纳的消费税，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（应交消费税）；以其他方式代销金银首饰的，其交纳的消费税，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交消费税）。<SPAN 
+lang=EN-US><BR></SPAN>　　有金银首饰批发、零售业务的小企业将金银首饰用于馈赠、赞助、广告、职工福利、奖励等方面的，应于物资移送时，按照应交的消费税，借记<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目（应交消费税）。<SPAN 
+lang=EN-US><BR></SPAN>　　随同金银首饰出售但单独计价的包装物，按照税法规定应交纳的消费税，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交消费税）。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业因受托加工或翻新改制金银首饰按照税法规定应交纳的消费税，于向委托方交货时，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交消费税）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5</SPAN>．需要交纳消费税的进口物资，其交纳的消费税应计入该项物资的成本，借记<SPAN 
+lang=EN-US>“</SPAN>材料采购<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>6</SPAN>．小企业（生产性）直接出口或通过外贸企业出口的物资，按照税法规定直接予以免征消费税的，可不计算应交消费税。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>7</SPAN>．交纳的消费税，借记本科目（应交消费税），贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）应交营业税的主要账务处理。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．小企业按照营业额和税法规定的税率，计算应交纳的营业税，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目（应交营业税）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2</SPAN>．出售原作为固定资产管理的不动产应交纳的营业税，借记<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目（应交营业税）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>3</SPAN>．交纳的营业税，借记本科目（应交营业税），贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）应交城市维护建设税和教育费附加的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．小企业按照税法规定应交的城市维护建设税、教育费附加，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（应交城市维护建设税、应交教育费附加）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>2</SPAN>．交纳的城市维护建设税和教育费附加，借记本科目（应交城市维护建设税、应交教育费附加），贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（五）应交企业所得税的主要账务处理。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．小企业按照税法规定应交的企业所得税，借记<SPAN lang=EN-US>“</SPAN>所得税费用<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（应交企业所得税）。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>2</SPAN>．交纳的企业所得税，借记本科目（应交企业所得税），贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN lang=EN-US><BR></SPAN>　　（六）应交资源税的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1</SPAN>．小企业销售商品按照税法规定应交纳的资源税，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交资源税）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2</SPAN>．自产自用的物资应交纳的资源税，借记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交资源税）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>3</SPAN>．收购未税矿产品，按照实际支付的价款，借记<SPAN 
+lang=EN-US>“</SPAN>材料采购<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，按照代扣代缴的资源税，借记<SPAN 
+lang=EN-US>“</SPAN>材料采购<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目（应交资源税）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>4</SPAN>．外购液体盐加工固体盐：在购入液体盐时，按照税法规定所允许抵扣的资源税，借记本科目（应交资源税），按照购买价款减去允许抵扣的资源税后的金额，借记<SPAN 
+lang=EN-US>“</SPAN>材料采购<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>等科目，按照应支付的购买价款，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN 
+lang=EN-US>”</SPAN>等科目；加工成固体盐后，在销售时，按照销售固体盐应交纳的资源税，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（应交资源税）；将销售固体盐应交资源税抵扣液体盐已交资源税后的差额上交时，借记本科目（应交资源税），贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>5</SPAN>．交纳的资源税，借记本科目（应交资源税），贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（七）应交土地增值税的主要账务处理。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．小企业转让土地使用权应交纳的土地增值税，土地使用权与地上建筑物及其附着物一并在<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>科目核算的，借记<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交土地增值税）。<SPAN 
+lang=EN-US><BR></SPAN>　　土地使用权在<SPAN lang=EN-US>“</SPAN>无形资产<SPAN 
+lang=EN-US>”</SPAN>科目核算的，按照实际收到的金额，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目，按照应交纳的土地增值税，贷记本科目（应交土地增值税），按照已计提的累计摊销，借记<SPAN 
+lang=EN-US>“</SPAN>累计摊销<SPAN lang=EN-US>”</SPAN>科目，按照其成本，贷记<SPAN 
+lang=EN-US>“</SPAN>无形资产<SPAN lang=EN-US>”</SPAN>科目，按照其差额，贷记<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>--</SPAN>非流动资产处置净收益<SPAN 
+lang=EN-US>”</SPAN>科目或借记<SPAN lang=EN-US>“</SPAN>营业外支出<SPAN 
+lang=EN-US>--</SPAN>非流动资产处置净损失<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>2</SPAN>．小企业（房地产开发经营）销售房地产应交纳的土地增值税，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交土地增值税）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>3</SPAN>．交纳的土地增值税，借记本科目（应交土地增值税），贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（八）应交城镇土地使用税、房产税、车船税、矿产资源补偿费、排污费的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．小企业按照规定应交纳的城镇土地使用税、房产税、车船税、矿产资源补偿费、排污费，借记<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（应交城镇土地使用税、应交房产税、应交车船税、应交矿产资源补偿费、应交排污费）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>2</SPAN>．交纳的城镇土地使用税、房产税、车船税、矿产资源补偿费、排污费，借记本科目（应交城镇土地使用税、应交房产税、应交车船税、应交矿产资源补偿费、应交排污费），贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（九）应交个人所得税的主要账务处理。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．小企业按照税法规定应代扣代缴的职工个人所得税，借记<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（应交个人所得税）。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>2</SPAN>．交纳的个人所得税，借记本科目（应交个人所得税），贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（十）小企业按照规定实行企业所得税、增值税、消费税、营业税等先征后返的，应当在实际收到返还的企业所得税、增值税（不含出口退税）、消费税、营业税等时，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业尚未交纳的税费；期末如为借方余额，反映小企业多交或尚未抵扣的税费。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2231 </SPAN>应付利息<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业按照合同约定应支付的利息费用。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照贷款人等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、应付利息的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）在应付利息日，小企业应当按照合同利率计算确定的利息费用，借记<SPAN 
+lang=EN-US>“</SPAN>财务费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）实际支付的利息，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业应付未付的利息费用。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2232 </SPAN>应付利润<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业向投资者分配的利润。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照投资者进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、应付利润的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业根据规定或协议确定的应分配给投资者的利润，借记<SPAN 
+lang=EN-US>“</SPAN>利润分配<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）向投资者实际支付利润，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>库存现金<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业应付未付的利润。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2241 </SPAN>其他应付款<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业除应付账款、预收账款、应付职工薪酬、应交税费、应付利息、应付利润等以外的其他各项应付、暂收的款项，如应付租入固定资产和包装物的租金、存入保证金等。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照其他应付款的项目和对方单位（或个人）进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、其他应付款的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业发生的其他各种应付、暂收款项，借记<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）支付的其他各种应付、暂收款项，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业无法支付的其他应付款，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业应付未付的其他应付款项。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2401 </SPAN>递延收益<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业已经收到、应在以后期间计入损益的政府补助。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照相关项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、递延收益的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业收到与资产相关的政府补助，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　在相关资产的使用寿命内平均分配递延收益，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）收到的其他政府补助，用于补偿本企业以后期间的相关费用或亏损的，应当按照收到的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目。在发生相关费用或亏损的未来期间，应当按照应补偿的金额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　用于补偿本企业已发生的相关费用或亏损的，应当按照收到的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业已经收到、但应在以后期间计入损益的政府补助。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2501 </SPAN>长期借款<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业向银行或其他金融机构借入的期限在<SPAN 
+lang=EN-US>1</SPAN>年以上的各项借款本金。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照借款种类、贷款人和币种进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、长期借款的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业借入长期借款，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）在应付利息日，应当按照借款本金和借款合同利率计提利息费用，借记<SPAN 
+lang=EN-US>“</SPAN>财务费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）偿还长期借款本金，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业尚未偿还的长期借款本金。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2701 </SPAN>长期应付款<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业除长期借款以外的其他各种长期应付款项。包括：应付融资租入固定资产的租赁费、以分期付款方式购入固定资产发生的应付款项等。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照长期应付款的种类和债权人进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、长期应付款的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业融资租入固定资产，在租赁期开始日，按照租赁合同约定的付款总额和在签订租赁合同过程中发生的相关税费等，借记<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>科目，贷记本科目等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）以分期付款方式购入固定资产，应当按照实际支付的购买价款和相关税费（不包括按照税法规定可抵扣的增值税进项税额），借记<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>科目，按照税法规定可抵扣的增值税进项税额，借记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（进项税额）<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业应付未付的长期应付款项。<SPAN 
+lang=EN-US><BR><BR></SPAN>　　所有者权益类<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>3001 </SPAN>实收资本<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业收到投资者按照合同协议约定或相关规定投入的、构成注册资本的部分。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（股份有限公司）应当将本科目的名称改为<SPAN lang=EN-US>“3001 
+</SPAN>股本<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业收到投资者出资超过其在注册资本中所占份额的部分，作为资本溢价，在<SPAN 
+lang=EN-US>“</SPAN>资本公积<SPAN lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照投资者进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（中外合作经营）根据合同规定在合作期间归还投资者的投资，应在本科目设置<SPAN 
+lang=EN-US>“</SPAN>已归还投资<SPAN lang=EN-US>”</SPAN>明细科目进行核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、实收资本的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业收到投资者的出资，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>其他应收款<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>无形资产<SPAN 
+lang=EN-US>”</SPAN>等科目，按照其在注册资本中所占的份额，贷记本科目，按照其差额，贷记<SPAN 
+lang=EN-US>“</SPAN>资本公积<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）根据有关规定增加注册资本，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>资本公积<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>盈余公积<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　根据有关规定减少注册资本，借记本科目、<SPAN lang=EN-US>“</SPAN>资本公积<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记<SPAN lang=EN-US>“</SPAN>库存现金<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（中外合作经营）根据合同规定在合作期间归还投资者的投资，应当按照实际归还投资的金额，借记本科目（已归还投资），贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目；同时，借记<SPAN 
+lang=EN-US>“</SPAN>利润分配<SPAN lang=EN-US>--</SPAN>利润归还投资<SPAN 
+lang=EN-US>”</SPAN>科目，贷记<SPAN lang=EN-US>“</SPAN>盈余公积<SPAN 
+lang=EN-US>--</SPAN>利润归还投资<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业实收资本总额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>3002 </SPAN>资本公积<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业收到投资者出资超出其在注册资本中所占份额的部分。<SPAN 
+lang=EN-US><BR></SPAN>　　二、资本公积的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业收到投资者的出资，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>其他应收款<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>无形资产<SPAN lang=EN-US>”</SPAN>等科目，按照其在注册资本中所占的份额，贷记<SPAN 
+lang=EN-US>“</SPAN>实收资本<SPAN lang=EN-US>”</SPAN>科目，按照其差额，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）根据有关规定用资本公积转增资本，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>实收资本<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　根据有关规定减少注册资本，借记<SPAN lang=EN-US>“</SPAN>实收资本<SPAN 
+lang=EN-US>”</SPAN>科目、本科目等科目，贷记<SPAN lang=EN-US>“</SPAN>库存现金<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　三、本科目期末贷方余额，反映小企业资本公积总额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>3101 </SPAN>盈余公积<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业（公司制）按照</SPAN><SPAN lang=EN-US><A><U><SPAN 
+lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>公司法</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定在税后利润中提取的法定公积金和任意公积金。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（外商投资）按照法律规定在税后利润中提取储备基金和企业发展基金也在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应当分别<SPAN lang=EN-US>“</SPAN>法定盈余公积<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>任意盈余公积<SPAN 
+lang=EN-US>”</SPAN>进行明细核算。<SPAN lang=EN-US><BR></SPAN>　　小企业（外商投资）还应当分别<SPAN 
+lang=EN-US>“</SPAN>储备基金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>企业发展基金<SPAN lang=EN-US>”</SPAN>进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（中外合作经营）根据合同规定在合作期间归还投资者的投资，应在本科目设置<SPAN 
+lang=EN-US>“</SPAN>利润归还投资<SPAN lang=EN-US>”</SPAN>明细科目进行核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、盈余公积的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业（公司制）按照</SPAN><SPAN lang=EN-US><A><U><SPAN 
+lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>公司法</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定提取法定公积金和任意公积金，借记<SPAN 
+lang=EN-US>“</SPAN>利润分配<SPAN lang=EN-US>--</SPAN>提取法定盈余公积、提取任意盈余公积<SPAN 
+lang=EN-US>”<BR></SPAN>　　科目，贷记本科目（法定盈余公积、任意盈余公积）。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（外商投资）按照规定提取储备基金、企业发展基金、职工奖励及福利基金，借记<SPAN 
+lang=EN-US>“</SPAN>利润分配<SPAN 
+lang=EN-US>--</SPAN>提取储备基金、提取企业发展基金、提取职工奖励及福利基金<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（储备基金、企业发展基金）、<SPAN lang=EN-US>“</SPAN>应付职工薪酬<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）用盈余公积弥补亏损或者转增资本，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>利润分配<SPAN lang=EN-US>--</SPAN>盈余公积补亏<SPAN 
+lang=EN-US>”</SPAN>或<SPAN lang=EN-US>“</SPAN>实收资本<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（中外合作经营）根据合同规定在合作期间归还投资者的投资，应当按照实际归还投资的金额，借记<SPAN 
+lang=EN-US>“</SPAN>实收资本<SPAN lang=EN-US>--</SPAN>已归还投资<SPAN 
+lang=EN-US>”</SPAN>科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目；同时，借记<SPAN lang=EN-US>“</SPAN>利润分配<SPAN 
+lang=EN-US>--</SPAN>利润归还投资<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（利润归还投资）。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末贷方余额，反映小企业（公司制）的法定公积金和任意公积金总额，小企业（外商投资）的储备基金和企业发展基金总额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>3103 </SPAN>本年利润<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业当期实现的净利润（或发生的净亏损）。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本年利润的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）期（月）末结转利润时，小企业可以将<SPAN lang=EN-US>“</SPAN>主营业务收入<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>其他业务收入<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>营业外收入<SPAN 
+lang=EN-US>”</SPAN>科目的余额，转入本科目，借记<SPAN lang=EN-US>“</SPAN>主营业务收入<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>其他业务收入<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>营业外收入<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目；将<SPAN lang=EN-US>“</SPAN>主营业务成本<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>其他业务成本<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>营业税金及附加<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>财务费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>所得税费用<SPAN lang=EN-US>”</SPAN>科目的余额，转入本科目，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>主营业务成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>其他业务成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>财务费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>所得税费用<SPAN lang=EN-US>”</SPAN>科目。将<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>科目的贷方余<SPAN 
+lang=EN-US><BR></SPAN>　　额，转入本科目，借记<SPAN lang=EN-US>“</SPAN>投资收益<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目；如为借方余额，做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　结转后本科目的贷方余额为当期实现的净利润；借方余额为当期发生的净亏损。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）年度终了，应当将本年收入和支出相抵后结出的本年实现的净利润，转入<SPAN 
+lang=EN-US>“</SPAN>利润分配<SPAN lang=EN-US>”</SPAN>科目，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>利润分配<SPAN lang=EN-US>--</SPAN>未分配利润<SPAN 
+lang=EN-US>”</SPAN>科目；如为净亏损，做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　结转后本科目应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>3104 </SPAN>利润分配<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业利润的分配（或亏损的弥补）和历年分配（或弥补）后的余额。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照<SPAN lang=EN-US>“</SPAN>应付利润<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>未分配利润<SPAN 
+lang=EN-US>”</SPAN>等进行明细核算。<SPAN lang=EN-US><BR></SPAN>　　三、利润分配的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业根据有关规定分配给投资者的利润，借记本科目（应付利润），贷记<SPAN 
+lang=EN-US>“</SPAN>应付利润<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）用盈余公积弥补亏损，借记<SPAN lang=EN-US>“</SPAN>盈余公积<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（盈余公积补亏）。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（中外合作经营）根据合同规定在合作期间归还投资者的投资，应按照实际归还投资的金额，借记<SPAN 
+lang=EN-US>“</SPAN>实收资本<SPAN lang=EN-US>--</SPAN>已归还投资<SPAN 
+lang=EN-US>”</SPAN>科目，贷记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目；同时，借记本科目（利润归还投资），贷记<SPAN lang=EN-US>“</SPAN>盈余公积<SPAN 
+lang=EN-US>--</SPAN>利润归还投资<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、年度终了，小企业应当将本年实现的净利润，自<SPAN 
+lang=EN-US>“</SPAN>本年利润<SPAN lang=EN-US>”</SPAN>科目转入本科目，借记<SPAN 
+lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（未分配利润）；为净亏损的，做相反的会计分录。同时，将<SPAN 
+lang=EN-US>“</SPAN>利润分配<SPAN 
+lang=EN-US>”</SPAN>科目所属明细科目（应付利润、盈余公积补亏）的余额转入本科目明细科目（未<SPAN 
+lang=EN-US><BR></SPAN>　　分配利润）。结转后，本科目除<SPAN lang=EN-US>“</SPAN>未分配利润<SPAN 
+lang=EN-US>”</SPAN>明细科目外，其他明细科目应无余额。<SPAN 
+lang=EN-US><BR></SPAN>　　五、本科目年末余额，反映小企业的未分配利润（或未弥补亏损）。<SPAN 
+lang=EN-US><BR><BR></SPAN>　　成本类<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>4001 </SPAN>生产成本<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业进行工业性生产发生的各项生产成本。包括：生产各种产品（产成品、自制半成品等）、自制材料、自制工具、自制设备等。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业对外提供劳务发生的成本，可将本科目改为<SPAN lang=EN-US>“4001 
+</SPAN>劳务成本<SPAN lang=EN-US>”</SPAN>科目，或单独设置<SPAN lang=EN-US>“4002 
+</SPAN>劳务成本<SPAN lang=EN-US>”</SPAN>科目进行核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目可按照基本生产成本和辅助生产成本进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、生产成本的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业发生的各项直接生产成本，借记本科目（基本生产成本、辅助生产成本），贷记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　各生产车间应负担的制造费用，借记本科目（基本生产成本、辅助生产成本），贷记<SPAN 
+lang=EN-US>“</SPAN>制造费用<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）辅助生产车间为基本生产车间、管理部门和其他部门提供的劳务和产品，可在月末按照一定的分配标准分配给各受益对象，借记本科目（基本生产成本）、<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>其他业务成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目（辅助生产成本）；也可在提供相关劳务和产品时，借记本科目、<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>其他业务成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）小企业已经生产完成并已验收入库的产成品以及入库的自制半成品，可在月末，借记<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目（基本生产成本）。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业尚未加工完成的在产品成本。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>4101 </SPAN>制造费用<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业生产车间（部门）为生产产品和提供劳务而发生的各项间接费用。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业经过<SPAN 
+lang=EN-US>1</SPAN>年期以上的制造才能达到预定可销售状态的产品发生的借款费用，也在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业行政管理部门为组织和管理生产经营活动而发生的管理费用，在<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照不同的生产车间、部门和费用项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、制造费用的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）生产车间发生的机物料消耗和固定资产修理费，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）发生的生产车间管理人员的工资等职工薪酬，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）生产车间计提的固定资产折旧费，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）生产车间支付的办公费、水电费等，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（五）发生季节性和修理期间的停工损失，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（六）小企业经过<SPAN 
+lang=EN-US>1</SPAN>年期以上的制造才能达到预定可销售状态的产品在制造完成之前发生的借款利息，在应付利息日根据借款合同利率计算确定的利息费用，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>科目。制造完成之后发生的利息费用，借记<SPAN 
+lang=EN-US>“</SPAN>财务费用<SPAN lang=EN-US>”</SPAN>科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（七）将制造费用分配计入有关的成本核算对象，借记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>--</SPAN>基本生产成本、辅助生产成本<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（八）季节性生产小企业制造费用全年实际发生额与分配额的差额，除其中属于为下一年开工生产做准备的可留待下一年分配外，其余部分实际发生额大于分配额的差额，借记<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>--</SPAN>基本生产成本<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目；实际发生额小于分配额的差额，做相反的会计分录。<SPAN 
+lang=EN-US><BR></SPAN>　　四、除季节性的生产性小企业外，本科目期末应无余额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>4301 </SPAN>研发支出<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业进行研究与开发无形资产过程中发生的各项支出。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照研究开发项目，分别<SPAN lang=EN-US>“</SPAN>费用化支出<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>资本化支出<SPAN 
+lang=EN-US>”</SPAN>进行明细核算。<SPAN lang=EN-US><BR></SPAN>　　三、研发支出的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业自行研究开发无形资产发生的研发支出，不满足资本化条件的，借记本科目（费用化支出），满足资本化条件的，借记本科目（资本化支出），贷记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）研究开发项目达到预定用途形成无形资产的，应按本科目（资本化支出）的余额，借记<SPAN 
+lang=EN-US>“</SPAN>无形资产<SPAN lang=EN-US>”</SPAN>科目，贷记本科目（资本化支出）。<SPAN 
+lang=EN-US><BR></SPAN>　　月末，应将本科目归集的费用化支出金额转入<SPAN lang=EN-US>“</SPAN>管理费用<SPAN 
+lang=EN-US>”</SPAN>科目，借记<SPAN lang=EN-US>“</SPAN>管理费用<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（费用化支出）。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业正在进行的无形资产开发项目满足资本化条件的支出。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>4401 </SPAN>工程施工<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业（建筑业）实际发生的各种工程成本。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照建造合同项目分别<SPAN lang=EN-US>“</SPAN>合同成本<SPAN 
+lang=EN-US>”</SPAN>和<SPAN lang=EN-US>“</SPAN>间接费用<SPAN 
+lang=EN-US>”</SPAN>进行明细核算。<SPAN lang=EN-US><BR></SPAN>　　三、工程施工的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业进行合同建造时发生的人工费、材料费、机械使用费以及施工现场材料的二次搬运费、生产工具和用具使用费、检验试验费、临时设施折旧费等其他直接费用，借记本科目（合同成本），贷记<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　发生的施工、生产单位管理人员职工薪酬、财产保险费、工程保修费、固定资产折旧费等间接费用，借记本科目（间接费用），贷记<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　期（月）末，将间接费用分配计入有关合同成本，借记本科目（合同成本），贷记本科目（间接费用）。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）确认合同收入和合同费用时，借记<SPAN lang=EN-US>“</SPAN>应收账款<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>预收账款<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记<SPAN lang=EN-US>“</SPAN>主营业务收入<SPAN 
+lang=EN-US>”</SPAN>科目；按照应结转的合同成本，借记<SPAN lang=EN-US>“</SPAN>主营业务成本<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目（合同成本）。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末借方余额，反映小企业尚未完工的建造合同成本和合同毛利。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>4403 </SPAN>机械作业<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业（建筑业）及其内部独立核算的施工单位、机械站和运输队使用自有施工机械和运输设备进行机械作业（含机械化施工和运输作业等） 
+所发生的各项费用。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业及其内部独立核算的施工单位，从外单位或本企业其他内部独立核算的机械站租入施工机械发生的机械租赁费，在<SPAN 
+lang=EN-US>“</SPAN>工程施工<SPAN lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照施工机械或运输设备的种类等进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业内部独立核算的机械施工、运输单位使用自有施工机械或运输设备进行机械作业所发生的各项费用，应按照成本核算对象和成本项目进行归集。<SPAN 
+lang=EN-US><BR></SPAN>　　成本项目一般分为：职工薪酬、燃料及动力费、折旧及修理费、其他直接费用、间接费用（为组织和管理机械作业生产所发生的费用）。<SPAN 
+lang=EN-US><BR></SPAN>　　三、机械作业的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业发生的机械作业支出，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）期（月）末，小企业及其内部独立核算的施工单位、机械站和运输队为本企业承包的工程进行机械化施工和运输作业的成本，应转入承包工程的成本，借记<SPAN 
+lang=EN-US>“</SPAN>工程施工<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　对外单位、专项工程等提供机械作业（含运输设备）的成本，借记<SPAN 
+lang=EN-US>“</SPAN>生产成本（或劳务成本）<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、本科目期末应无余额。<SPAN lang=EN-US><BR><BR></SPAN>　　损益类<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>5001 </SPAN>主营业务收入<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业确认的销售商品或提供劳务等主营业务的收入。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照主营业务的种类进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、主营业务收入的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业销售商品或提供劳务实现的收入，应当按照实际收到或应收的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN lang=EN-US>”</SPAN>等科目，按照税法规定应交纳的增值税额，贷记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交增值税（销项税额）<SPAN 
+lang=EN-US>”</SPAN>科目，按照确认的销售商品收入，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　发生销货退回（不论属于本年度还是属于以前年度的销售），按照应冲减销售商品收入的金额，借记本科目，按照实际支付或应退还的金额，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN lang=EN-US>”</SPAN>等科目。涉及增值税销项税额的，还应进行相应的账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　四、月末，可将本科目的余额转入<SPAN lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，结转后本科目应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5051 </SPAN>其他业务收入<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业确认的除主营业务活动以外的其他日常生产经营活动实现的收入。包括：出租固定资产、出租无形资产、销售材料等实现的收入。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照其他业务收入种类进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、其他业务收入的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业确认的其他业务收入，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>其他应收款<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目。涉及增值税销项税额的，还应进行相应的账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　四、月末，可将本科目余额转入<SPAN lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，结转后本科目应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5111 </SPAN>投资收益<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业确认的投资收益或投资损失。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照投资项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、投资收益的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）对于短期股票投资、短期基金投资和长期股权投资，小企业应当按照被投资单位宣告分派的现金股利或利润中属于本企业的部分，借记<SPAN 
+lang=EN-US>“</SPAN>应收股利<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）在长期债券投资或短期债券投资持有期间，在债务人应付利息日，按照分期付息、一次还本的长期债券投资或短期债券投资的票面利率计算的利息收入，借记<SPAN 
+lang=EN-US>“</SPAN>应收利息<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目；按照一次还本付息的长期债券投资票面利率计算的利息收入，借记<SPAN 
+lang=EN-US>“</SPAN>长期债券投资<SPAN lang=EN-US>--</SPAN>应计利息<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　在债务人应付利息日，按照应分摊的债券溢折价金额，借记或贷记本科目，贷记或借记<SPAN 
+lang=EN-US>“</SPAN>长期债券投资<SPAN lang=EN-US>--</SPAN>溢折价<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）出售短期投资、处置长期股权投资和长期债券投资，应当按照实际收到的价款或收回的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>或<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>科目，按照其账面余额，贷记<SPAN 
+lang=EN-US>“</SPAN>短期投资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>长期股权投资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>长期债券投资<SPAN 
+lang=EN-US>”</SPAN>科目，按照尚未领取的现金股利或利润、债券利息收入，贷记<SPAN lang=EN-US>“</SPAN>应收股利<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>应收利息<SPAN 
+lang=EN-US>”</SPAN>科目，按照其差额，贷记或借记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、月末，可将本科目余额转入<SPAN lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，本科目结转后应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5301 </SPAN>营业外收入<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业实现的各项营业外收入。包括：非流动资产处置净收益、政府补助、捐赠收益、盘盈收益、汇兑收益、出租包<SPAN 
+lang=EN-US><BR></SPAN>　　装物和商品的租金收入、逾期未退包装物押金收益、确实无法偿付的应付款项、已作坏账损失处理后又收回的应收款项、违约金收益等。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业收到出口产品或商品按照规定退回的增值税款，在<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照营业外收入项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、营业外收入的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业确认非流动资产处置净收益，比照<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>无形资产<SPAN lang=EN-US>”</SPAN>等科目的相关规定进行账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）确认的政府补助收入，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>或<SPAN lang=EN-US>“</SPAN>递延收益<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）小企业按照规定实行企业所得税、增值税（不含出口退税）、消费税、营业税等先征后返的，应当在实际收到返还的企业所得税、增值税、消费税、营业税等时，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）确认的捐赠收益，借记<SPAN lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>固定资产<SPAN 
+lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN lang=EN-US><BR></SPAN>　　（五）确认的盘盈收益，借记<SPAN 
+lang=EN-US>“</SPAN>待处理财产损溢<SPAN lang=EN-US>--</SPAN>待处理流动资产损溢、待处理非流动资产损溢<SPAN 
+lang=EN-US>”</SPAN>科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（六）确认的汇兑收益，借记有关科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（七）确认的出租包装物和商品的租金收入、逾期未退包装物押金收益、确实无法偿付的应付款项、违约金收益等，借记<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>其他应付款<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（八）确认的已作坏账损失处理后又收回的应收款项，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、月末，可将本科目余额转入<SPAN lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，结转后本科目应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5401 </SPAN>主营业务成本<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业确认销售商品或提供劳务等主营业务收入应结转的成本。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照主营业务的种类进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、主营业务成本的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）月末，小企业可根据本月销售各种商品或提供各种劳务实际成本，计算应结转的主营业务成本，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>工程施工<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）本月发生的销售退回，可以直接从本月的销售数量中减去，得出本月销售的净数量，然后计算应结转的主营业务成本，也可以单独计算本月销售退回成本，借记<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、月末，可将本科目的余额转入<SPAN lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，结转后本科目应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5402 </SPAN>其他业务成本<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业确认的除主营业务活动以外的其他日常生产经营活动所发生的支出。包括：销售材料的成本、出租固定资产的折旧费、出租无形资产的摊销额等。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照其他业务成本的种类进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、其他业务成本的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业发生的其他业务成本，借记本科目，贷记<SPAN lang=EN-US>“</SPAN>原材料<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>周转材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>累计摊销<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、月末，可将本科目余额转入<SPAN lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，结转后本科目应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5403 </SPAN>营业税金及附加<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业开展日常生产经营活动应负担的消费税、<SPAN 
+lang=EN-US><BR></SPAN>　　营业税、城市维护建设税、资源税、土地增值税、城镇土地使用税、房产税、车船税、印花税和教育费附加、矿产资源补偿费、排污费等相关税费。<SPAN 
+lang=EN-US><BR></SPAN>　　与最终确认营业外收入或营业外支出相关的税费，在<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>无形资产<SPAN lang=EN-US>”</SPAN>等科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照税费种类进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、营业税金及附加的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业按照规定计算确定的与其日常生产经营活动相关的税费，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、月末，可将本科目余额转入<SPAN lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，结转后本科目应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5601 </SPAN>销售费用<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业在销售商品或提供劳务过程中发生的各种费用。包括：销售人员的职工薪酬、商品维修费、运输费、装卸费、包装费、保险费、广告费和业务宣传费、展览费等费用。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（批发业、零售业）在购买商品过程中发生的费用（包括：运输费、装卸费、包装费、保险费、运输途中的合理损耗和入库前的挑选整理费等），也在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照费用项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、销售费用的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业在销售商品或提供劳务过程中发生的销售人员的职工薪酬、商品维修费、运输费、装卸费、包装费、保险费、广告费、业务宣传费、展览费等费用，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（批发业、零售业）在购买商品过程中发生的运输费、装卸费、包装费、保险费、运输途中的合理损耗和入库前的挑选整理费等，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、月末，可将本科目余额转入<SPAN lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，结转后本科目应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5602 </SPAN>管理费用<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业为组织和管理生产经营发生的其他费用。包括：小企业在筹建期间内发生的开办费、行政管理部门发生的费用（包括：固定资产折旧费、修理费、办公费、水电费、差旅费、管理人员的职工薪酬等）、业务招待费、研究费用、技术转让费、相关长期待摊费用摊销、财产保险费、聘请中介机构费、咨询费（含顾问费）、诉讼费等费用。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业（批发业、零售业）管理费用不多的，可不设置本科目，本科目的核算内容可并入<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照费用项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、管理费用的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业在筹建期间内发生的开办费（包括：相关人员的职工薪酬、办公费、培训费、差旅费、印刷费、注册登记费以及不计入固定资产成本的借款费用等费用），在实际发生时，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）行政管理部门人员的职工薪酬，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）行政管理部门计提的固定资产折旧费和发生的修理费，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）行政管理部门发生的办公费、水电费、差旅费，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（五）小企业发生的业务招待费、相关长期待摊费用摊销、技术转让费、财产保险费、聘请中介机构费、咨询费（含顾问费）、诉讼费等，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>长期待摊费用<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（六）小企业自行研究无形资产发生的研究费用，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>研发支出<SPAN lang=EN-US>”</SPAN>科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、月末，可将本科目的余额转入<SPAN lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，结转后本科目应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5603 </SPAN>财务费用<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业为筹集生产经营所需资金发生的筹资费用。包括：利息费用（减利息收入）、汇兑损失、银行相关手续费、小企业给予的现金折扣（减享受的现金折扣）等费用。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业为购建固定资产、无形资产和经过<SPAN 
+lang=EN-US>1</SPAN>年期以上的制造才能达到预定可销售状态的存货发生的借款费用，在<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>研发支出<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>制造费用<SPAN lang=EN-US>”</SPAN>等科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业发生的汇兑收益，在<SPAN lang=EN-US>“</SPAN>营业外收入<SPAN 
+lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照费用项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、财务费用的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业发生的利息费用、汇兑损失、银行相关手续费、给予的现金折扣等，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（二）持未到期的商业汇票向银行贴现，应当按照实际收到的金额（即减去贴现息后的净额），借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>科目，按照贴现息，借记本科目，按照商业汇票的票面金额，贷记<SPAN 
+lang=EN-US>“</SPAN>应收票据<SPAN lang=EN-US>”</SPAN>科目（银行无追索权情况下）或<SPAN 
+lang=EN-US>“</SPAN>短期借款<SPAN lang=EN-US>”</SPAN>科目（银行有追索权情况下）。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）发生的应冲减财务费用的利息收入、享受的现金折扣等，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，贷记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、月末，可将本科目余额转入<SPAN lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，结转后本科目应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5711 </SPAN>营业外支出<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业发生的各项营业外支出。包括：存货的盘亏、毁损、报废损失，非流动资产处置净损失，坏账损失，无法收回的长期债券投资损失，无法收回的长期股权投资损失，自然灾害等不可抗力因素造成的损失，税收滞纳金，罚金，罚款，被没收财物的损失，捐赠支出，赞助支出等。<SPAN 
+lang=EN-US><BR></SPAN>　　二、本科目应按照支出项目进行明细核算。<SPAN 
+lang=EN-US><BR></SPAN>　　三、营业外支出的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）小企业确认存货的盘亏、毁损、报废损失，非流动资产处置净损失，自然灾害等不可抗力因素造成的损失，借记本科目、<SPAN 
+lang=EN-US>“</SPAN>生产性生物资产累计折旧<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>累计摊销<SPAN lang=EN-US>”</SPAN>等科目，贷记<SPAN 
+lang=EN-US>“</SPAN>待处理财产损溢<SPAN lang=EN-US>--</SPAN>待处理流动资产损溢、待处理非流动资产损溢<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>固定资产清理<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>生产性生物资产<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>无形资产<SPAN 
+lang=EN-US>”</SPAN>等科目。<SPAN lang=EN-US><BR></SPAN>　　（二）根据小</SPAN><SPAN 
+lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业会计准则</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定确认实际发生的坏账损失、长期债券投资损失，应当按照可收回的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN 
+lang=EN-US>”</SPAN>等科目，按照应收账款、预付账款、其他应收款、长期债券投资的账面余额，贷记<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>预付账款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>长期债券投资<SPAN lang=EN-US>”</SPAN>等科目，按照其差额，借记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（三）根据小</SPAN><SPAN lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业会计准则</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定确认实际发生的长期股权投资损失，按照可收回的金额，借记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目，按照长期股权投<SPAN 
+lang=EN-US><BR></SPAN>　　资的账面余额，贷记<SPAN lang=EN-US>“</SPAN>长期股权投资<SPAN 
+lang=EN-US>”</SPAN>科目，按照其差额，借记本科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（四）支付的税收滞纳金、罚金、罚款，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　（五）确认被没收财物的损失、捐赠支出、赞助支出，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目。<SPAN 
+lang=EN-US><BR></SPAN>　　四、月末，可将本科目余额转入<SPAN lang=EN-US>“</SPAN>本年利润<SPAN 
+lang=EN-US>”</SPAN>科目，结转后本科目应无余额。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>5801 </SPAN>所得税费用<SPAN 
+lang=EN-US><BR></SPAN>　　一、本科目核算小企业根据</SPAN><SPAN lang=EN-US><A><U><SPAN 
+lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业所得税法</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">确定的应从当期利润总额中扣除的所得税费用。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业根据</SPAN><SPAN lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业所得税法</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定补交的所得税，也通过本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　小企业按照规定实行企业所得税先征后返的，实际收到返还的企业所得税，在<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>”</SPAN>科目核算，不在本科目核算。<SPAN 
+lang=EN-US><BR></SPAN>　　二、所得税费用的主要账务处理。<SPAN 
+lang=EN-US><BR></SPAN>　　年度终了，小企业按照</SPAN><SPAN lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业所得税法</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定计算确定的当期应纳税税额，借记本科目，贷记<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>--</SPAN>应交企业所得税<SPAN 
+lang=EN-US>”</SPAN>科目。<SPAN lang=EN-US><BR></SPAN>　　三、年度终了，应将本科目的余额转入<SPAN 
+lang=EN-US>“</SPAN>本年利润<SPAN lang=EN-US>”</SPAN>科目，结转后本科目应无余额。<SPAN 
+lang=EN-US><BR></SPAN></SPAN><A name=93><B><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; FONT-VARIANT: small-caps; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-ascii-font-family: &#718;&#805;; mso-hansi-font-family: &#718;&#805;">　　三、</SPAN></B></A><SPAN 
+style="mso-bookmark: 93"></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">财务报表<SPAN 
+lang=EN-US><BR></SPAN>　　小企业的财务报表包括资产负债表、利润表、现金流量表和附注。<SPAN 
+lang=EN-US><BR></SPAN>　　（一）财务报表种类和格式<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">编　 
+      号 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">报表名称 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">编报期 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">会小企<SPAN 
+      lang=EN-US>01</SPAN>表 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">资产负债表 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">月报、年报 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">会小企<SPAN 
+      lang=EN-US>02</SPAN>表 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">利润表 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">月报、年报 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 3; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">会小企<SPAN 
+      lang=EN-US>03</SPAN>表 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">现金流量表 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">月报、年报 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　（二）小企业资产负债表格式及编制说明<SPAN 
+lang=EN-US><BR></SPAN>　　资产负债表<SPAN lang=EN-US><BR></SPAN>　　会小企<SPAN 
+lang=EN-US>01</SPAN>表编制单位：　　　 年　　月　　日　　　　　　 单位：元<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">资　　产 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　行 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　次 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　期末 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">年初 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">负　 
+      债 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">和所有者权益 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　行 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　次 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　期末 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　年初 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">流动资产： 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">流动负债： 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">货币资金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">短期借款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">31 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">短期投资 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应付票据 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">32 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应收票据 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应付账款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">33 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应收账款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">预收账款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">34 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">预付账款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应付职工薪酬 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">35 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 7">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应收股利 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">6 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应交税费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">36 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 8">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应收利息 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">7 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应付利息 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">37 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 9">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其他应收款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">8 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">应付利润 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">38 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 10">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">存货 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">9 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其他应付款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">39 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 11">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其中：原材料 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">10 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其他流动负债 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">40 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 12">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　　在产品 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">11 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">流动负债合计 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">41 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 13">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　　库存商品 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">12 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">非流动负债： 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 14">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　　周转材料 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">13 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">长期借款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">42 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 15">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其他流动资产 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">14 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">长期应付款 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">43 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 16">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">流动资产合计 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">15 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">递延收益 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">44 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 17">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">非流动资产： 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其他非流动负债 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">45 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 18">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">长期债券投资 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">16 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">非流动负债合计 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">46 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 19">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">长期股权投资 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">17 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　负债合计 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">47 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 20">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">固定资产原价 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">18 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 21">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">减：累计折旧 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">19 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 22">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">固定资产账面价值 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">20 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 23">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">在建工程 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">21 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 24">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">工程物资 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">22 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 25; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">固定资产清理 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">23 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 12pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">资　　产 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　行 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　次 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　期末 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">年初 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">负　 
+      债 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">和所有者权益 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　行 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　次 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　期末 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　年初 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">生产性生物资产 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">24 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">所有者权益（或股东权益）： 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">无形资产 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">25 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">实收资本（或股本） 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">48 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">开发支出 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">26 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">资本公积 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">49 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">长期待摊费用 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">27 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">盈余公积 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">50 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其他非流动资产 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">28 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">未分配利润 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">51 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">非流动资产合计 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">29 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">所有者权益（或股东权益）合计 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">52 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 7; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">资产总计 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">30 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">负债和所有者权益（或股东权益）总计 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">53 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　小企业（中外合作经营）根据合同规定在合作期间归还投资者的投资，应在<SPAN 
+lang=EN-US>“</SPAN>实收资本（或股本）<SPAN lang=EN-US>”</SPAN>项目下增加<SPAN 
+lang=EN-US>“</SPAN>减：已归还投资<SPAN lang=EN-US>”</SPAN>项目单独列示。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>1</SPAN>．本表反映小企业某一特定日期全部资产、负债和所有者权益的情况。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2</SPAN>．本表<SPAN 
+lang=EN-US>“</SPAN>年初余额<SPAN lang=EN-US>”</SPAN>栏内各项数字，应根据上年末资产负债表<SPAN 
+lang=EN-US>“</SPAN>期末余额<SPAN lang=EN-US>”</SPAN>栏内所列数字填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>3</SPAN>．本表<SPAN 
+lang=EN-US>“</SPAN>期末余额<SPAN lang=EN-US>”</SPAN>各项目的内容和填列方法：<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>1</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>货币资金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业库存现金、银行存款、其他货币资金的合计数。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>和<SPAN 
+lang=EN-US>“</SPAN>其他货币资金<SPAN lang=EN-US>”</SPAN>科目的期末余额合计填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>2</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>短期投资<SPAN lang=EN-US>”</SPAN>项目，反映小企业购入的能随时变现并且持有时间不准备超过<SPAN 
+lang=EN-US>1</SPAN>年的股票、债券和基金投资的余额。本项目应根据<SPAN lang=EN-US>“</SPAN>短期投资<SPAN 
+lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN lang=EN-US><BR></SPAN>　　（<SPAN 
+lang=EN-US>3</SPAN>）<SPAN lang=EN-US>“</SPAN>应收票据<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业收到的未到期收款也未向银行贴现的应收票据（银行承兑汇票和商业承兑汇票）。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>应收票据<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>4</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业因销售商品、提供劳务等日常生产经营活动应收取的款项。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN lang=EN-US>”</SPAN>的期末余额分析填列。如<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN lang=EN-US>”</SPAN>科目期末为贷方余额，应当在<SPAN 
+lang=EN-US>“</SPAN>预收账款<SPAN lang=EN-US>”</SPAN>项目列示。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>5</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>预付账款<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业按照合同规定预付的款项。包括：根据合同规定预付的购货款、租金、工程款等。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>预付账款<SPAN lang=EN-US>”</SPAN>科目的期末借方余额填列；如<SPAN 
+lang=EN-US>“</SPAN>预付账款<SPAN lang=EN-US>”</SPAN>科目期末为贷方余额，应当在<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>项目列示。<SPAN 
+lang=EN-US><BR></SPAN>　　属于超过<SPAN lang=EN-US>1</SPAN>年期以上的预付账款的借方余额应当在<SPAN 
+lang=EN-US>“</SPAN>其他非流动资产<SPAN lang=EN-US>”</SPAN>项目列示。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>6</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>应收股利<SPAN lang=EN-US>”</SPAN>项目，反映小企业应收取的现金股利或利润。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>应收股利<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>7</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>应收利息<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业债券投资应收取的利息。小企业购入一次还本付息债券应收的利息，不包括在本项目内。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>应收利息<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>8</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业除应收票据、应收账款、预付账款、应收股利、应收利息等以外的其他各种应收及暂付款项。包括：各种应收的赔款、应向职工收取的各种垫付款项等。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>其他应收款<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>9</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>存货<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业期末在库、在途和在加工中的各项存货的成本。包括：各种原材料、在产品、半成品、产成品、商品、周转材料（包装物、低值易耗品等）、消耗性生物资产等。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>材料采购<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>在途物资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>材料成本差异<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>生产成本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>商品进销差价<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>委托加工物资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>周转材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>消耗性生物资产<SPAN lang=EN-US>”</SPAN>等科目的期末余额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>10</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>其他流动资产<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业除以上流动资产项目外的其他流动资产（含<SPAN 
+lang=EN-US>1</SPAN>年内到期的非流动资产）。本项目应根据有关科目的期末余额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>11</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>长期债券投资<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业准备长期持有的债券投资的本息。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>长期债券投资<SPAN lang=EN-US>”</SPAN>科目的期末余额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>12</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>长期股权投资<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业准备长期持有的权益性投资的成本。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>长期股权投资<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>13</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>固定资产原价<SPAN lang=EN-US>”</SPAN>和<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业固定资产的原价（成本）及累计折旧。这两个项目应根据<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>科目和<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>14</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>固定资产账面价值<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业固定资产原价扣除累计折旧后的余额。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>科目的期末余额减去<SPAN 
+lang=EN-US>“</SPAN>累计折旧<SPAN lang=EN-US>”</SPAN>科目的期末余额后的金额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>15</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业尚未完工或虽已完工，但尚未办理竣工决算的工程成本。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>16</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>工程物资<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业为在建工程准备的各种物资的成本。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>工程物资<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>17</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业因出售、报废、毁损、对外投资等原因处置固定资产所转出的固定资产账面价值以及在清理过程中发生的费用等。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN lang=EN-US>”</SPAN>科目的期末借方余额填列；如<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN lang=EN-US>”</SPAN>科目期末为贷方余额，以<SPAN 
+lang=EN-US>“</SPAN>－<SPAN lang=EN-US>”</SPAN>号填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>18</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>生产性生物资产<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业生产性生物资产的账面价值。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>生产性生物资产<SPAN lang=EN-US>”</SPAN>科目的期末余额减去<SPAN 
+lang=EN-US>“</SPAN>生产性生物资产累计折旧<SPAN lang=EN-US>”</SPAN>科目的期末余额后的金额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>19</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>无形资产<SPAN lang=EN-US>”</SPAN>项目，反映小企业无形资产的账面价值。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>无形资产<SPAN lang=EN-US>”</SPAN>科目的期末余额减去<SPAN 
+lang=EN-US>“</SPAN>累计摊销<SPAN lang=EN-US>”</SPAN>科目的期末余额后的金额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>20</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>开发支出<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业正在进行的无形资产研究开发项目满足资本化条件的支出。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>研发支出<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>21</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>长期待摊费用<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业尚未摊销完毕的已提足折旧的固定资产的改建支出、经营租入固定资产的改建支出、固定资产的大修理支出和其他长期待摊费用。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>长期待摊费用<SPAN lang=EN-US>”</SPAN>科目的期末余额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>22</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>其他非流动资产<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业除以上非流动资产以外的其他非流动资产。本项目应根据有关科目的期末余额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>23</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>短期借款<SPAN lang=EN-US>”</SPAN>项目，反映小企业向银行或其他金融机构等借入的期限在<SPAN 
+lang=EN-US>1</SPAN>年内的、尚未偿还的各种借款本金。本项目应根据<SPAN lang=EN-US>“</SPAN>短期借款<SPAN 
+lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN lang=EN-US><BR></SPAN>　　（<SPAN 
+lang=EN-US>24</SPAN>）<SPAN lang=EN-US>“</SPAN>应付票据<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业因购买材料、商品和接受劳务等日常生产经营活动开出、承兑的商业汇票（银行承兑汇票和商业承兑汇票）尚未到期的票面金额。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>应付票据<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>25</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业因购买材料、商品和接受劳务等日常生产经营活动尚未支付的款项。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。如<SPAN 
+lang=EN-US>“</SPAN>应付账款<SPAN lang=EN-US>”</SPAN>科目期末为借方余额，应当在<SPAN 
+lang=EN-US>“</SPAN>预付账款<SPAN lang=EN-US>”</SPAN>项目列示。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>26</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>预收账款<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业根据合同规定预收的款项。包括：预收的购货款、工程款等。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>预收账款<SPAN lang=EN-US>”</SPAN>科目的期末贷方余额填列；如<SPAN 
+lang=EN-US>“</SPAN>预收账款<SPAN lang=EN-US>”</SPAN>科目期末为借方余额，应当在<SPAN 
+lang=EN-US>“</SPAN>应收账款<SPAN lang=EN-US>”</SPAN>项目列示。<SPAN 
+lang=EN-US><BR></SPAN>　　属于超过<SPAN lang=EN-US>1</SPAN>年期以上的预收账款的贷方余额应当在<SPAN 
+lang=EN-US>“</SPAN>其他非流动负债<SPAN lang=EN-US>”</SPAN>项目列示。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>27</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>项目，反映小企业应付未付的职工薪酬。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>科目期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>28</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业期末未交、多交或尚未抵扣的各种税费。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>”</SPAN>科目的期末贷方余额填列；如<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>”</SPAN>科目期末为借方余额，以<SPAN 
+lang=EN-US>“</SPAN>－<SPAN lang=EN-US>”</SPAN>号填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>29</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>项目，反映小企业尚未支付的利息费用。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>30</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>应付利润<SPAN lang=EN-US>”</SPAN>项目，反映小企业尚未向投资者支付的利润。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>应付利润<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>31</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>其他应付款<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业除应付账款、预收账款、应付职工薪酬、应交税费、应付利息、应付利润等以外的其他各项应付、暂收的款项。包括：应付租入固定资产和包装物的租金、存入保证金等。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>其他应付款<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>32</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>其他流动负债<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业除以上流动负债以外的其他流动负债（含<SPAN 
+lang=EN-US>1</SPAN>年内到期的非流动负债）。本项目应根据有关科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>33</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>长期借款<SPAN lang=EN-US>”</SPAN>项目，反映小企业向银行或其他金融机构借入的期限在<SPAN 
+lang=EN-US>1</SPAN>年以上的、尚未偿还的各项借款本金。本项目应根据<SPAN lang=EN-US>“</SPAN>长期借款<SPAN 
+lang=EN-US>”</SPAN>科目的期末余额分析填列。<SPAN lang=EN-US><BR></SPAN>　　（<SPAN 
+lang=EN-US>34</SPAN>）<SPAN lang=EN-US>“</SPAN>长期应付款<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业除长期借款以外的其他各种应付未付的长期应付款项。包括：应付融资租入固定资产的租赁费、以分期付款方式购入固定资产发生的应付款项等。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>长期应付款<SPAN lang=EN-US>”</SPAN>科目的期末余额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>35</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>递延收益<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业收到的、应在以后期间计入损益的政府补助。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>递延收益<SPAN lang=EN-US>”</SPAN>科目的期末余额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>36</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>其他非流动负债<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业除以上非流动负债项目以外的其他非流动负债。本项目应根据有关科目的期末余额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>37</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>实收资本（或股本）<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业收到投资者按照合同协议约定或相关规定投入的、构成小企业注册资本的部分。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>实收资本（或股本）<SPAN lang=EN-US>”</SPAN>科目的期末余额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>38</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>资本公积<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业收到投资者投入资本超出其在注册资本中所占份额的部分。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>资本公积<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>39</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>盈余公积<SPAN 
+lang=EN-US>”</SPAN>项目，反映反映小企业（公司制）的法定公积金和任意公积金，小企业（外商投资）的储备基金和企业发展基金。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>盈余公积<SPAN lang=EN-US>”</SPAN>科目的期末余额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>40</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>未分配利润<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业尚未分配的历年结存的利润。本项目应根据<SPAN lang=EN-US>“</SPAN>利润分配<SPAN 
+lang=EN-US>”</SPAN>科目的期余额填列。未弥补的亏损，在本项目内以<SPAN lang=EN-US>“</SPAN>－<SPAN 
+lang=EN-US>”</SPAN>号填列。<SPAN lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>4</SPAN>．本表中各项目之间的勾稽关系为：<SPAN lang=EN-US><BR></SPAN>　　行<SPAN 
+lang=EN-US>15=</SPAN>行<SPAN lang=EN-US>1</SPAN>＋行<SPAN 
+lang=EN-US>2</SPAN>＋行<SPAN lang=EN-US>3</SPAN>＋行<SPAN lang=EN-US>4</SPAN>＋行<SPAN 
+lang=EN-US>5</SPAN>＋行<SPAN lang=EN-US>6</SPAN>＋行<SPAN lang=EN-US>7</SPAN>＋行<SPAN 
+lang=EN-US>8</SPAN>＋行<SPAN lang=EN-US>9</SPAN>＋行<SPAN lang=EN-US>14</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>9≥</SPAN>行<SPAN 
+lang=EN-US>10</SPAN>＋行<SPAN lang=EN-US>11</SPAN>＋ 行<SPAN 
+lang=EN-US>12</SPAN>＋行<SPAN lang=EN-US>13</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>29=</SPAN>行<SPAN 
+lang=EN-US>16</SPAN>＋行<SPAN lang=EN-US>17</SPAN>＋行<SPAN 
+lang=EN-US>20</SPAN>＋行<SPAN lang=EN-US>21</SPAN>＋行<SPAN 
+lang=EN-US>22</SPAN>＋行<SPAN lang=EN-US>23</SPAN>＋行<SPAN 
+lang=EN-US>24</SPAN>＋行<SPAN lang=EN-US>25</SPAN>＋行<SPAN 
+lang=EN-US>26<BR></SPAN>　　＋行<SPAN lang=EN-US>27</SPAN>＋行<SPAN 
+lang=EN-US>28<BR></SPAN>　　行<SPAN lang=EN-US>20=</SPAN>行<SPAN 
+lang=EN-US>18-</SPAN>行<SPAN lang=EN-US>19</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>30=</SPAN>行<SPAN 
+lang=EN-US>15</SPAN>＋行<SPAN lang=EN-US>29</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>41=</SPAN>行<SPAN 
+lang=EN-US>31</SPAN>＋行<SPAN lang=EN-US>32</SPAN>＋行<SPAN 
+lang=EN-US>33</SPAN>＋行<SPAN lang=EN-US>34</SPAN>＋行<SPAN 
+lang=EN-US>35</SPAN>＋行<SPAN lang=EN-US>36</SPAN>＋行<SPAN 
+lang=EN-US>37</SPAN>＋行<SPAN lang=EN-US>38<BR></SPAN>　　＋行<SPAN 
+lang=EN-US>39</SPAN>＋行<SPAN lang=EN-US>40</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>46=</SPAN>行<SPAN 
+lang=EN-US>42</SPAN>＋行<SPAN lang=EN-US>43</SPAN>＋行<SPAN 
+lang=EN-US>44</SPAN>＋行<SPAN lang=EN-US>45</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>47=</SPAN>行<SPAN 
+lang=EN-US>41</SPAN>＋行<SPAN lang=EN-US>46</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>52=</SPAN>行<SPAN 
+lang=EN-US>48</SPAN>＋行<SPAN lang=EN-US>49</SPAN>＋行<SPAN 
+lang=EN-US>50</SPAN>＋行<SPAN lang=EN-US>51</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>53=</SPAN>行<SPAN 
+lang=EN-US>47</SPAN>＋行<SPAN lang=EN-US>52=</SPAN>行<SPAN 
+lang=EN-US>30</SPAN>。<SPAN lang=EN-US><BR></SPAN>　　（三）小企业利润表格式及编制说明<SPAN 
+lang=EN-US><BR></SPAN>　　利润表<SPAN lang=EN-US><BR></SPAN>　　会小企<SPAN 
+lang=EN-US>02</SPAN>表<SPAN lang=EN-US><BR></SPAN>　　编制单位：　　　　 年　　月　　　　　　　　　 
+单位：元<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　　　　　　　 
+      项　　 目 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">行 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">次 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">本年 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">累计金额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">本月 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">金额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">一、营业收入 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">减：营业成本 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">营业税金及附加 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其中：消费税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">营业税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　城市维护建设税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">6 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 7">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　资源税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">7 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 8">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">土地增值税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">8 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 9">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">城镇土地使用税、房产税、车船税、印花税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">9 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 10">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">教育费附加、矿产资源补偿费、排污费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">10 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 11">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">销售费用 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">11 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 12">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其中：商品维修费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">12 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 13">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　 
+      广告费和业务宣传费 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">13 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 14">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">管理费用 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">14 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 15">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其中：开办费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">15 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 16">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　业务招待费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">16 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 17">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　研究费用 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">17 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 18">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">财务费用 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">18 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 19">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">其中：利息费用（收入以<SPAN 
+      lang=EN-US>“-”</SPAN>号填列） <SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">19 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 20">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">加：投资收益（损失以<SPAN 
+      lang=EN-US>“-”</SPAN>号填列） <SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">20 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 21">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">二、营业利润（亏损以<SPAN 
+      lang=EN-US>“-”</SPAN>号填列） <SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">21 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 22">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">加：营业外收入 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">22 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 23">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　其中：政府补助 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">23 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 24">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">减：营业外支出 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">24 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 25">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　其中：坏账损失 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">25 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 26">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　　　无法收回的长期债券投资损失 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">26 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 27">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　　　无法收回的长期股权投资损失 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">27 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 28">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　　　自然灾害等不可抗力因素造成的损失 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">28 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 29">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　　　税收滞纳金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">29 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 30">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">三、利润总额（亏损总额以<SPAN 
+      lang=EN-US>“-”</SPAN>号填列） <SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">30 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 31">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">减：所得税费用<SPAN 
+      lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">31<o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　<SPAN 
+      lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　<SPAN 
+      lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 32; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">四、净利润（净亏损以<SPAN 
+      lang=EN-US>“-”</SPAN>号填列）<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">32<o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　<SPAN 
+      lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　<SPAN 
+      lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　<SPAN 
+lang=EN-US>1</SPAN>．本表反映小企业在一定会计期间内利润（亏损）的实现情况。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2</SPAN>．本表<SPAN 
+lang=EN-US>“</SPAN>本年累计金额<SPAN lang=EN-US>”</SPAN>栏反映各项目自年初起至报告期末止的累计实际发生额。<SPAN 
+lang=EN-US><BR></SPAN>　　本表<SPAN lang=EN-US>“</SPAN>本月金额<SPAN 
+lang=EN-US>”</SPAN>栏反映各项目的本月实际发生额；在编报年度财务报表时，应将<SPAN 
+lang=EN-US>“</SPAN>本月金额<SPAN lang=EN-US>”</SPAN>栏改为<SPAN 
+lang=EN-US>“</SPAN>上年金额<SPAN lang=EN-US>”</SPAN>栏，填列上年全年实际发生额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>3</SPAN>．本表各项目的内容及其填列方法：<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>1</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>营业收入<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业销售商品和提供劳务所实现的收入总额。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>主营业务收入<SPAN lang=EN-US>”</SPAN>科目和<SPAN 
+lang=EN-US>“</SPAN>其他业务收入<SPAN lang=EN-US>”</SPAN>科目的发生额合计填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>2</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>营业成本<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业所销售商品的成本和所提供劳务的成本。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>主营业务成本<SPAN lang=EN-US>”</SPAN>科目和<SPAN 
+lang=EN-US>“</SPAN>其他业务成本<SPAN lang=EN-US>”</SPAN>科目的发生额合计填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>3</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业开展日常生产活动应负担的消费税、营业税、城市维护建设税、资源税、土地增值税、城镇土地使用税、房产税、车船税、印花税和教育费附加、矿产资源补偿费、排污费等。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>营业税金及附加<SPAN lang=EN-US>”</SPAN>科目的发生额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>4</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业销售商品或提供劳务过程中发生的费用。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>销售费用<SPAN lang=EN-US>”</SPAN>科目的发生额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>5</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业为组织和管理生产经营发生的其他费用。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>管理费用<SPAN lang=EN-US>”</SPAN>科目的发生额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>6</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>财务费用<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业为筹集生产经营所需资金发生的筹资费用。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>财务费用<SPAN lang=EN-US>”</SPAN>科目的发生额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>7</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业股权投资取得的现金股利（或利润）、债券投资取得的利息收入和处置股权投资和债券投资取得的处置价款扣除成本或账面余额、相关税费后的净额。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>科目的发生额填列；如为投资损失，以<SPAN 
+lang=EN-US>“</SPAN>－<SPAN lang=EN-US>”</SPAN>号填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>8</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>营业利润<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业当期开展日常生产经营活动实现的利润。本项目应根据营业收入扣除营业成本、营业税金及附加、销售费用、管理费用和财务费用，加上投资收益后的金额填列。如为亏损，以<SPAN 
+lang=EN-US>“</SPAN>－<SPAN lang=EN-US>”</SPAN>号填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>9</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业实现的各项营业外收入金额。包括：非流动资产处置净收益、政府补助、捐赠收益、盘盈收益、汇兑收益、出租包装物和商品的租金收入、逾期未退包装物押金收益、确实无法偿付的应付款项、已作坏账损失处理后又收回的应收款项、违约金收益等。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>营业外收入<SPAN lang=EN-US>”</SPAN>科目的发生额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>10</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业发生的各项营业外支出金额。包括：存货的盘亏、毁损、报废损失，非流动资产处置净损失，坏账损失，无法收回的长期债券投资损失，无法收回的长期股权投资损失，自然灾害等不可抗力因素造成的损失，税收滞纳金，罚金，罚款，被没收财物的损失，捐赠支出，赞助支出等。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>营业外支出<SPAN lang=EN-US>”</SPAN>科目的发生额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>11</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>利润总额<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业当期实现的利润总额。本项目应根据营业利润加上营业外收入减去营业外支出后的金额填列。如为亏损总额，以<SPAN 
+lang=EN-US>“</SPAN>－<SPAN lang=EN-US>”</SPAN>号填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>12</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>所得税费用<SPAN lang=EN-US>”</SPAN>项目，反映小企业根据</SPAN><SPAN 
+lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业所得税法</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">确定的应从当期利润总额中扣除的所得税费用。本项目应根据<SPAN 
+lang=EN-US>“</SPAN>所得税费用<SPAN lang=EN-US>”</SPAN>科目的发生额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>13</SPAN>）<SPAN 
+lang=EN-US>“</SPAN>净利润<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业当期实现的净利润。本项目应根据利润总额扣除所得税费用后的金额填列。如为净亏损，以<SPAN 
+lang=EN-US>“</SPAN>－<SPAN lang=EN-US>”</SPAN>号填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>4</SPAN>．本表中各项目之间的勾稽关系为：<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>21=</SPAN>行<SPAN 
+lang=EN-US>1-</SPAN>行<SPAN lang=EN-US>2-</SPAN>行<SPAN lang=EN-US>3-</SPAN>行<SPAN 
+lang=EN-US>11-</SPAN>行<SPAN lang=EN-US>14-</SPAN>行<SPAN 
+lang=EN-US>18</SPAN>＋行<SPAN lang=EN-US>20</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>3≥</SPAN>行<SPAN 
+lang=EN-US>4</SPAN>＋行<SPAN lang=EN-US>5</SPAN>＋行<SPAN lang=EN-US>6</SPAN>＋行<SPAN 
+lang=EN-US>7</SPAN>＋行<SPAN lang=EN-US>8</SPAN>＋行<SPAN lang=EN-US>9</SPAN>＋行<SPAN 
+lang=EN-US>10</SPAN>；<SPAN lang=EN-US><BR></SPAN>　　行<SPAN 
+lang=EN-US>11≥</SPAN>行<SPAN lang=EN-US>12</SPAN>＋行<SPAN 
+lang=EN-US>13</SPAN>；<SPAN lang=EN-US><BR></SPAN>　　行<SPAN 
+lang=EN-US>14≥</SPAN>行<SPAN lang=EN-US>15</SPAN>＋行<SPAN 
+lang=EN-US>16</SPAN>＋行<SPAN lang=EN-US>17</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>18≥</SPAN>行<SPAN 
+lang=EN-US>19</SPAN>；<SPAN lang=EN-US><BR></SPAN>　　行<SPAN 
+lang=EN-US>30=</SPAN>行<SPAN lang=EN-US>21</SPAN>＋行<SPAN 
+lang=EN-US>22-</SPAN>行<SPAN lang=EN-US>24</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>22≥</SPAN>行<SPAN 
+lang=EN-US>23</SPAN>；<SPAN lang=EN-US><BR></SPAN>　　行<SPAN 
+lang=EN-US>24≥</SPAN>行<SPAN lang=EN-US>25</SPAN>＋行<SPAN 
+lang=EN-US>26</SPAN>＋行<SPAN lang=EN-US>27</SPAN>＋行<SPAN 
+lang=EN-US>28</SPAN>＋行<SPAN lang=EN-US>29</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>32=</SPAN>行<SPAN 
+lang=EN-US>30-</SPAN>行<SPAN lang=EN-US>31</SPAN>。<SPAN 
+lang=EN-US><BR><BR></SPAN>　　（四）小企业现金流量表格式及编制说明<SPAN 
+lang=EN-US><BR></SPAN>　　现金流量表<SPAN lang=EN-US><BR></SPAN>　　会小企<SPAN 
+lang=EN-US>03</SPAN>表<SPAN lang=EN-US><BR></SPAN>　　编制单位：　　　　　　　　　年　　月　　　　　　　　　　　 
+单位：元<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">项　　　　　 
+      目 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">行次 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">本年累计金额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">本月金额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">一、经营活动产生的现金流量： 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　销售产成品、商品、提供劳务收到的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">收到其他与经营活动有关的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　购买原材料、商品、接受劳务支付的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　支付的职工薪酬 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　支付的税费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 7">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　支付其他与经营活动有关的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">6 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 8">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　经营活动产生的现金流量净额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">7 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 9">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">二、投资活动产生的现金流量： 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 10">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">收回短期投资、长期债券投资和长期股权投资收到 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">8 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 11">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">取得投资收益收到的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">9 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 12; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">处置固定资产、无形资产和其他非流动资产收回的 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">现金净额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">10 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 12pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">项　　　　　 
+      目 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">行次 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">本年累计金额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">本月金额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">短期投资、长期债券投资和长期股权投资支付的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">11 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">购建固定资产、无形资产和其他非流动资产支付的 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">12 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　投资活动产生的现金流量净额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">13 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">三、筹资活动产生的现金流量： 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　取得借款收到的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">14 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　吸收投资者投资收到的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">15 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 7">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　偿还借款本金支付的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">16 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 8">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　偿还借款利息支付的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">17 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 9">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　分配利润支付的现金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">18 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 10">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　筹资活动产生的现金流量净额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">19 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 11">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">四、现金净增加额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">20 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 12">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">加：期初现金余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">21 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 13; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">五、期末现金余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">22 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　<SPAN 
+lang=EN-US>1</SPAN>．本表反映小企业一定会计期间内有关现金流入和流出的信息。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2</SPAN>．本表<SPAN 
+lang=EN-US>“</SPAN>本年累计金额<SPAN lang=EN-US>”</SPAN>栏反映各项目自年初起至报告期末止的累计实际发生额。<SPAN 
+lang=EN-US><BR></SPAN>　　本表<SPAN lang=EN-US>“</SPAN>本月金额<SPAN 
+lang=EN-US>”</SPAN>栏反映各项目的本月实际发生额；在编报年度财务报表时，应将<SPAN 
+lang=EN-US>“</SPAN>本月金额<SPAN lang=EN-US>”</SPAN>栏改为<SPAN 
+lang=EN-US>“</SPAN>上年金额<SPAN lang=EN-US>”</SPAN>栏，填列上年全年实际发生额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>3</SPAN>．本表各项目的内容及填列方法如下：<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>1</SPAN>）经营活动产生的现金流量<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>①“</SPAN>销售产成品、商品、提供劳务收到的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业本期销售产成品、商品、提供劳务收到的现金。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>和<SPAN 
+lang=EN-US>“</SPAN>主营业务收入<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>②“</SPAN>收到其他与经营活动有关的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业本期收到的其他与经营活动有关的现金。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>和<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>③“</SPAN>购买原材料、商品、接受劳务支付的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企<SPAN 
+lang=EN-US><BR></SPAN>　　业本期购买原材料、商品、接受劳务支付的现金。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>其他货币资金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>原材料<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>库存商品<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>④“</SPAN>支付的职工薪酬<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业本期向职工支付的薪酬。本项目可以根据<SPAN lang=EN-US>“</SPAN>库存现金<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>科目的本期发生额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>⑤“</SPAN>支付的税费<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业本期支付的税费。本项目可以根据<SPAN lang=EN-US>“</SPAN>库存现金<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应交税费<SPAN lang=EN-US>”</SPAN>等科目的本期发生额填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>⑥“</SPAN>支付其他与经营活动有关的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业本期支付的其他与经营活动有关的现金。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>2</SPAN>）投资活动产生的现金流量<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>①“</SPAN>收回短期投资、长期债券投资和长期股权投资收到的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业出售、转让或到期收回短期投资、长期股权投资而收到的现金，以及收回长期债券投资本金而收到的现金，不包括长期债券投资收回的利息。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>短期投资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>长期股权投资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>长期债券投资<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>②“</SPAN>取得投资收益收到的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业因权益性投资和债权性投资取得的现金股利或利润和利息收入。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>投资收益<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>③“</SPAN>处置固定资产、无形资产和其他非流动资产收回的现金净额<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业处置固定资产、无形资产和其他非流动资产取得的<SPAN 
+lang=EN-US><BR></SPAN>　　现金，减去为处置这些资产而支付的有关税费等后的净额。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>固定资产清理<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>无形资产<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>生产性生物资产<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>④“</SPAN>短期投资、长期债券投资和长期股权投资支付的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业进行权益性投资和债权性投资支付的现金。包括：企业取得短期股票投资、短期债券投资、短期基金投资、长期债券投资、长期股权投资支付的现金。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>短期投资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>长期债券投资<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>长期股权投资<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>⑤“</SPAN>购建固定资产、无形资产和其他非流动资产支付的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业购建固定资产、无形资产和其他非流动资产支付的现金。包括：购买机器设备、无形资产、生产性生物资产支付的现金、建造工程支付的现金等现金支出，不包括为购建固定资产、无形资产和其他非流动资产而发生的借款费用资本化部分和支付给在建工程和无形资产开发项目人员的薪酬。为购建固定资产、无形资产和其他非流动资产而发生借款费用资本化部分，在<SPAN 
+lang=EN-US>“</SPAN>偿还借款利息支付的现金<SPAN 
+lang=EN-US>”</SPAN>项目反映；支付给在建工程和无形资产开发项目人员的薪酬，在<SPAN 
+lang=EN-US>“</SPAN>支付的职工薪<SPAN lang=EN-US>”</SPAN>项目反映。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>固定资产<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>在建工程<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>无形资产<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>研发支出<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>生产性生物资产<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付职工薪酬<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>3</SPAN>）筹资活动产生的现金流量<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>①“</SPAN>取得借款收到的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业举借各种短期、长期借款收到的现金。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>短期借款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>长期借款<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>②“</SPAN>吸收投资者投资收到的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业收到的投资者作为资本投入的现金。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>实收资本<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>资本公积<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>③“</SPAN>偿还借款本金支付的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业以现金偿还各种短期、长期借款的本金。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>短期借款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>长期借款<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>④“</SPAN>偿还借款利息支付的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业以现金偿还各种短期、长期借款的利息。本项目可以根据<SPAN 
+lang=EN-US>“</SPAN>库存现金<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付利息<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>⑤“</SPAN>分配利润支付的现金<SPAN 
+lang=EN-US>”</SPAN>项目，反映小企业向投资者实际支付的利润。本项目可以根据<SPAN lang=EN-US>“</SPAN>库存现金<SPAN 
+lang=EN-US>”</SPAN>、<SPAN lang=EN-US>“</SPAN>银行存款<SPAN lang=EN-US>”</SPAN>、<SPAN 
+lang=EN-US>“</SPAN>应付利润<SPAN lang=EN-US>”</SPAN>等科目的本期发生额分析填列。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>4</SPAN>．本表中各项目之间的勾稽关系为：<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>7=</SPAN>行<SPAN 
+lang=EN-US>1</SPAN>＋行<SPAN lang=EN-US>2-</SPAN>行<SPAN lang=EN-US>3-</SPAN>行<SPAN 
+lang=EN-US>4-</SPAN>行<SPAN lang=EN-US>5-</SPAN>行<SPAN lang=EN-US>6</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>13=</SPAN>行<SPAN 
+lang=EN-US>8</SPAN>＋行<SPAN lang=EN-US>9</SPAN>＋行<SPAN 
+lang=EN-US>10-</SPAN>行<SPAN lang=EN-US>11-</SPAN>行<SPAN 
+lang=EN-US>12</SPAN>；<SPAN lang=EN-US><BR></SPAN>　　行<SPAN 
+lang=EN-US>19=</SPAN>行<SPAN lang=EN-US>14</SPAN>＋行<SPAN 
+lang=EN-US>15-</SPAN>行<SPAN lang=EN-US>16-</SPAN>行<SPAN 
+lang=EN-US>17-</SPAN>行<SPAN lang=EN-US>18</SPAN>；<SPAN 
+lang=EN-US><BR></SPAN>　　行<SPAN lang=EN-US>20=</SPAN>行<SPAN 
+lang=EN-US>7</SPAN>＋行<SPAN lang=EN-US>13</SPAN>＋行<SPAN 
+lang=EN-US>19</SPAN>；<SPAN lang=EN-US><BR></SPAN>　　行<SPAN 
+lang=EN-US>22=</SPAN>行<SPAN lang=EN-US>20</SPAN>＋行<SPAN 
+lang=EN-US>21</SPAN>。<SPAN lang=EN-US><BR></SPAN>　　（五）附注<SPAN 
+lang=EN-US><BR></SPAN>　　附注是财务报表的重要组成部分。小企业应当按照小</SPAN><SPAN 
+lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业会计准则</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定披露附注信息，主要包括下列内容：<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>1</SPAN>．遵循小</SPAN><SPAN 
+lang=EN-US><A><U><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业会计准则</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">的声明<SPAN 
+lang=EN-US><BR></SPAN>　　小企业应当声明编制的财务报表符合小</SPAN><SPAN lang=EN-US><A><U><SPAN 
+lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; COLOR: windowtext; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt"><SPAN 
+lang=EN-US>企业会计准则</SPAN></SPAN></U></A></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">的要求，真实、完整地反映了小企业的财务状况、经营成果和现金流量等有关信息。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>2</SPAN>．短期投资、应收账款、存货、固定资产项目的说明。<SPAN 
+lang=EN-US><BR></SPAN>　　（<SPAN lang=EN-US>1</SPAN>）短期投资的披露格式如下：<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">项　目 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">期末账面余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">期末市价 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">期末账面余额与市价的差额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．股票 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．债券 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">． 
+      基金 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．其他 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 5; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">合　 
+      计 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　（<SPAN 
+lang=EN-US>2</SPAN>）应收账款按账龄结构披露的格式如下：<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">账龄结构 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">期末账面余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">年初账面余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">年以内（含<SPAN 
+      lang=EN-US>1</SPAN>年） <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">年至<SPAN 
+      lang=EN-US>2</SPAN>年（含<SPAN lang=EN-US>2</SPAN>年） <SPAN 
+      lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">年至<SPAN 
+      lang=EN-US>3</SPAN>年（含<SPAN lang=EN-US>3</SPAN>年） <SPAN 
+      lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">年以上 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 5; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">合　计 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　（<SPAN 
+lang=EN-US>3</SPAN>）存货的披露格式如下：<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">存货种类 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">期末账面余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">期末市价 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">期末账面余额与市价的差额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．原材料 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．在产品 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．库存商品 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．周转材料 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．消耗性生物资产 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">…… 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 7; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">合　计 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　（<SPAN 
+lang=EN-US>4</SPAN>）固定资产的披露格式如下：<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">项　　目 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">原　价 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">累计折旧 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">期末账面价值 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．房屋、建筑物 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．机器 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．机械 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．运输工具 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．设备 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">6</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．器具 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 7">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">7</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．工具 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 8">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">…… 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 9; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">合　　计 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　<SPAN 
+lang=EN-US>3</SPAN>．应付职工薪酬、应交税费项目的说明。<SPAN lang=EN-US><BR></SPAN>　　（<SPAN 
+lang=EN-US>1</SPAN>）应付职工薪酬的披露格式如下：<SPAN lang=EN-US><BR></SPAN>　　应付职工薪酬明细表<SPAN 
+lang=EN-US><BR></SPAN>　　会小企<SPAN lang=EN-US>01</SPAN>表附表<SPAN 
+lang=EN-US>1<BR></SPAN>　　编制单位：　　　　 年　　月　　　　 单位：元<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">项　　目 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">期末账面余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">年初账面余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．职工工资 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．奖金、津贴和补贴 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．职工福利费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．社会保险费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．住房公积金 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">6</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．工会经费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 7">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">7</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．职工教育经费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 8">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">8</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．非货币性福利 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 9">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">9</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．辞退福利 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 10">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">10</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．其他 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 11; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　　　　合　　 
+      计 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　（<SPAN 
+lang=EN-US>2</SPAN>）应交税费的披露格式如下：<SPAN lang=EN-US><BR></SPAN>　　应交税费明细表<SPAN 
+lang=EN-US><BR></SPAN>　　会小企<SPAN lang=EN-US>01</SPAN>表附表<SPAN 
+lang=EN-US>2<BR></SPAN>　　编制单位：　　　 年　　月　　　　　　　单位：元<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">项　　目 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">期末账面余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">年初账面余额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．增值税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．消费税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．营业税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．城市维护建设税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．企业所得税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">6</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．资源税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 7">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">7</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．土地增值税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 8">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">8</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．城镇土地使用税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 9">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">9</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．房产税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 10">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">10</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．车船税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 11">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">11</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．教育费附加 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 12">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">12</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．矿产资源补偿费 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 13">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">13</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．排污费　<SPAN 
+      lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 14">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">14</SPAN><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">．代扣代缴的个人所得税 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 15">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">…… 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR>
+  <TR style="mso-yfti-irow: 16; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　　　　　合　　 
+      计 <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 160%; mso-pagination: widow-orphan" 
+align=left><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 160%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　<SPAN 
+lang=EN-US>4</SPAN>．利润分配的说明。<SPAN lang=EN-US><BR></SPAN>　　利润分配表<SPAN 
+lang=EN-US><BR></SPAN>　　会小企<SPAN lang=EN-US>01</SPAN>表附表<SPAN 
+lang=EN-US>3<BR></SPAN>　　编制单位：　　　　　　　　　　 年度　　　　　　　　　　　单位：元<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184; mso-cellspacing: .7pt" 
+cellSpacing=1 cellPadding=0 border=1>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 154.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=206>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">项　　目 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">行次 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">本年金额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66 colSpan=2>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">上年金额 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 154.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=206>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">一、净利润 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">1 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66 colSpan=2></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 154.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=206>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">加：年初未分配利润 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">2 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66 colSpan=2></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 154.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=206>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　其他转入 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">3 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66 colSpan=2></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 154.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=206>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">二、可供分配的利润 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">4 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66 colSpan=2></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 154.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=206>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">减：提取法定盈余公积 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">5 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 49.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=66 colSpan=2></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　提取任意盈余公积 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">6 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=65></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 0.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    width=1></TD></TR>
+  <TR style="mso-yfti-irow: 7">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　提取职工奖励及福利基金<SPAN 
+      lang=EN-US>* <o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">7 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=65></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 0.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    width=1></TD></TR>
+  <TR style="mso-yfti-irow: 8">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　提取储备基金<SPAN 
+      lang=EN-US>* <o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">8 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=65></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 0.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    width=1></TD></TR>
+  <TR style="mso-yfti-irow: 9">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">提取企业发展基金<SPAN 
+      lang=EN-US>* <o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">9 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=65></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 0.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    width=1></TD></TR>
+  <TR style="mso-yfti-irow: 10">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　利润归还投资<SPAN 
+      lang=EN-US>** <o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">10 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=65></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 0.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    width=1></TD></TR>
+  <TR style="mso-yfti-irow: 11">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">三、可供投资者分配的利润 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">11 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=65></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 0.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    width=1></TD></TR>
+  <TR style="mso-yfti-irow: 12">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">减：应付利润 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">12 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=65></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 0.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    width=1></TD></TR>
+  <TR style="mso-yfti-irow: 13; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">四、未分配利润 
+      <SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 28.5pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=38>
+      <P class=MsoNormal 
+      style="WORD-BREAK: break-all; TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; mso-pagination: widow-orphan; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto" 
+      align=left><SPAN lang=EN-US 
+      style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 120%; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">13 
+      <o:p></o:p></SPAN></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=64></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 48.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    vAlign=top width=65></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: #f0f0f0; WIDTH: 0.75pt; BORDER-BOTTOM: #f0f0f0; PADDING-BOTTOM: 2.25pt; PADDING-TOP: 2.25pt; PADDING-LEFT: 2.25pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 2.25pt; BACKGROUND-COLOR: transparent" 
+    width=1></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-US 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt"><BR><BR></SPAN><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">　　<SPAN 
+lang=EN-US>* </SPAN>提取职工奖励及福利基金、提取储备基金、提取企业发展基金这<SPAN 
+lang=EN-US>3</SPAN>个项目仅适用于小企业（外商投资）按照相关法律规定提取的<SPAN lang=EN-US>3</SPAN>项基金。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>**</SPAN>利润归还投资这个项目仅适用于小企业（中外合作经营）根据合同规定在合作期间归还投资者的投资。<SPAN 
+lang=EN-US><BR><BR></SPAN>　　<SPAN 
+lang=EN-US>5</SPAN>．用于对外担保的资产名称、账面余额及形成的原因；未决诉讼、未决仲裁以及对外提供担保所涉及的金额。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>6</SPAN>．发生严重亏损的，应当披露持续经营的计划、未来经营的方案。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN 
+lang=EN-US>7</SPAN>．对已在资产负债表和利润表中列示项目与</SPAN><U><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt">企业所得税法</SPAN></U><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">规定存在差异的纳税调整过程。<SPAN 
+lang=EN-US><BR></SPAN>　　参见《</SPAN><U><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt; mso-bidi-font-size: 11.0pt">中华人民共和国企业所得税年度纳税申报表</SPAN></U><SPAN 
+style="FONT-SIZE: 9pt; FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-font-kerning: 0pt">》。<SPAN 
+lang=EN-US><BR></SPAN>　　<SPAN lang=EN-US>8</SPAN>．其他需要说明的事项。</SPAN><SPAN 
+lang=EN-US><o:p></o:p></SPAN></P>
+<P>
+<HR>
+
+<P></P></DIV>
+<DIV class=footer>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多内容请关注： <A 
+href="https://bbs.esnai.com/thread-5354530-1-3.html" 
+target=_blank>中国会计视野论坛-CPA业务探讨.</A> 微信公众号:MY聊审计.</P></DIV></BODY></HTML>

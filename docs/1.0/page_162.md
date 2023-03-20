@@ -1,0 +1,74 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:o = "urn:schemas-microsoft-com:office:office"><HEAD><TITLE>1-6同一控制下企业合并的会计处理</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"><LINK rel=stylesheet 
+href="_template.css"></HEAD>
+<BODY>
+<DIV id=nsbanner>
+<DIV id=bannerrow1>
+<TABLE class=bannerparthead>
+  <TBODY>
+  <TR id=hdr>
+    <TD class=runninghead noWrap>企业会计准则及应用指南系列</TD></TR></TBODY></TABLE></DIV>
+<DIV id=titlerow>
+<H1 class=dtH1>1-6同一控制下企业合并的会计处理</H1></DIV></DIV>
+<DIV id=nstext><BR>
+<P 
+style="BACKGROUND: white; WORD-BREAK: break-all; LINE-HEIGHT: 22.5pt; TEXT-INDENT: 24pt"><FONT 
+size=3><FONT face=宋体><SPAN lang=EN-US 
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: "微软雅黑",sans-serif'>1-6 </SPAN><SPAN 
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: "微软雅黑",sans-serif'>同一控制下企业合并的会计处理<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></FONT></P>
+<P 
+style="BACKGROUND: white; WORD-BREAK: break-all; LINE-HEIGHT: 22.5pt; TEXT-INDENT: 24pt"><SPAN 
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: "微软雅黑",sans-serif'><FONT size=3><FONT 
+face=宋体>同一控制下的企业合并，应当采用权益结合法进行会计处理。合并方在编制合并财务报表时，应当对期初数和比较报表进行调整，视同合并后的报告主体在以前期间一直存在。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P 
+style="BACKGROUND: white; WORD-BREAK: break-all; LINE-HEIGHT: 22.5pt; TEXT-INDENT: 24pt"><SPAN 
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: "微软雅黑",sans-serif'><FONT size=3><FONT 
+face=宋体>监管实践发现，部分公司在对同一控制下企业合并应用权益结合法进行会计处理时对准则的理解存在偏差和分歧。现就具体事项如何适用上述原则的意见如下：<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P 
+style="BACKGROUND: white; WORD-BREAK: break-all; LINE-HEIGHT: 22.5pt; TEXT-INDENT: 24pt"><SPAN 
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: "微软雅黑",sans-serif'><FONT size=3><FONT 
+face=宋体>一、同时向控股股东和第三方购买股权达成的企业合并<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P 
+style="BACKGROUND: white; WORD-BREAK: break-all; LINE-HEIGHT: 22.5pt; TEXT-INDENT: 24pt"><SPAN 
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: "微软雅黑",sans-serif'><FONT size=3><FONT 
+face=宋体>在同时向控股股东和第三方购买股权形成的同一控制下企业合并交易中，合并方自控股股东购买股权，应当作为同一控制下的企业合并处理；合并方自第三方购买股权，应当作为购买子公司少数股东权益处理。合并方在编制合并财务报表的比较信息时，在比较期间应只合并自控股股东购买的股权份额，被合并方的其余股权应作为少数股东权益列报；合并日收购被合并方的其余股权时，作为购买子公司少数股东权益处理。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P 
+style="BACKGROUND: white; WORD-BREAK: break-all; LINE-HEIGHT: 22.5pt; TEXT-INDENT: 24pt"><SPAN 
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: "微软雅黑",sans-serif'><FONT size=3><FONT 
+face=宋体>合并方在个别财务报表中，对于自控股股东购买的股权，其初始投资成本应等于被合并方合并日的净资产账面价值乘以自控股股东购买的股权比例，初始投资成本与合并方向控股股东支付对价的账面价值（或发行股份的面值）的差额，应当调整资本公积，资本公积不足冲减的，则冲减留存收益；对于自第三方购买的股权，其初始投资成本应等于实际支付给第三方股东的对价。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P 
+style="BACKGROUND: white; WORD-BREAK: break-all; LINE-HEIGHT: 22.5pt; TEXT-INDENT: 24pt"><SPAN 
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: "微软雅黑",sans-serif'><FONT size=3><FONT 
+face=宋体>二、同一控制下企业合并同时购买少数股东权益的交易中，少数股东作出的业绩承诺<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P 
+style="BACKGROUND: white; WORD-BREAK: break-all; LINE-HEIGHT: 22.5pt; TEXT-INDENT: 24pt"><SPAN 
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: "微软雅黑",sans-serif'><FONT size=3><FONT 
+face=宋体>在同一控制下企业合并同时购买少数股东权益的交易中，对于少数股东作出的业绩承诺，在合并日的合并财务报表中，应当以公允价值进行初始确认并将其作为少数股东权益购买对价的一部分；在后续资产负债表日的合并财务报表中，若该或有对价属于一项金融工具，则应根据金融工具准则的相关规定，将其公允价值的后续变动计入当期损益。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P 
+style="BACKGROUND: white; WORD-BREAK: break-all; LINE-HEIGHT: 22.5pt; TEXT-INDENT: 24pt"><SPAN 
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: "微软雅黑",sans-serif'><FONT size=3><FONT 
+face=宋体>三、同一控制下企业合并股权置换涉及的所得税问题<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P 
+style="BACKGROUND: white; WORD-BREAK: break-all; LINE-HEIGHT: 22.5pt; TEXT-INDENT: 24pt"><SPAN 
+style='FONT-SIZE: 10.5pt; FONT-FAMILY: "微软雅黑",sans-serif'><FONT size=3><FONT 
+face=宋体>合并方以原有子公司股权置换同一控制下其他公司股权并取得控制权的，该交易构成同一控制下企业合并，合并方在该交易过程中可能会因股权处置所得缴纳企业所得税。股权处置所得应当分为股权持有期间产生的利润和股权增值所得两部分分别考虑相关所得税的会计处理。在合并财务报表中，当合并方对子公司股权的持有意图由长期持有变为对外出售时，不再满足不确认递延所得税的特殊情况，即投资企业能够控制暂时性差异转回的时间，且该暂时性差异在可预见的未来很可能不会转回。因此，合并方应就该子公司股权与持有期间产生的利润相关的暂时性差异确认递延所得税，并计入当期损益。针对股权增值所得部分，由于同一控制下股权置换交易属于权益性交易，与直接计入所有者权益的交易或者事项相关的当期所得税和递延所得税应当计入所有者权益。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P>
+<HR>
+
+<P></P></DIV>
+<DIV class=footer>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多内容请关注： <A 
+href="https://bbs.esnai.com/thread-5354530-1-3.html" 
+target=_blank>中国会计视野论坛-CPA业务探讨.</A> 微信公众号:MY聊审计.</P></DIV></BODY></HTML>
