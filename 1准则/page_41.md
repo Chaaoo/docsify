@@ -1,0 +1,804 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:o = "urn:schemas-microsoft-com:office:office"><HEAD><TITLE>企业会计准则第30号——财务报表列报（2014年修订</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"><LINK rel=stylesheet 
+href="_template.css"></HEAD>
+<BODY>
+<DIV id=nsbanner>
+<DIV id=bannerrow1>
+<TABLE class=bannerparthead>
+  <TBODY>
+  <TR id=hdr>
+    <TD class=runninghead noWrap>企业会计准则及应用指南系列</TD></TR></TBODY></TABLE></DIV>
+<DIV id=titlerow>
+<H1 class=dtH1>企业会计准则第30号——财务报表列报（2014年修订）</H1></DIV></DIV>
+<DIV id=nstext><BR>
+<H1 style="MARGIN: 17pt 0cm 16.5pt"><A name=_Toc72425463></A><A 
+name=_Toc11952033><SPAN style="mso-bookmark: _Toc72425463"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 240%; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">企业会计准则第</SPAN></SPAN></A><SPAN 
+style="mso-bookmark: _Toc11952033"><SPAN 
+style="mso-bookmark: _Toc72425463"><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; LINE-HEIGHT: 240%; mso-bidi-font-family: 宋体"><FONT 
+face=Calibri>30</FONT></SPAN></SPAN></SPAN><SPAN 
+style="mso-bookmark: _Toc11952033"><SPAN 
+style="mso-bookmark: _Toc72425463"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 240%; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">号</SPAN></SPAN></SPAN><SPAN 
+style="mso-bookmark: _Toc11952033"><SPAN 
+style="mso-bookmark: _Toc72425463"><SPAN lang=EN-US 
+style='FONT-SIZE: 12pt; LINE-HEIGHT: 240%; mso-bidi-font-family: "Times New Roman"'><FONT 
+face=Calibri>——</FONT></SPAN></SPAN></SPAN><SPAN 
+style="mso-bookmark: _Toc11952033"><SPAN 
+style="mso-bookmark: _Toc72425463"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 240%; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">财务报表列报</SPAN></SPAN></SPAN><SPAN 
+style="mso-bookmark: _Toc11952033"><SPAN 
+style="mso-bookmark: _Toc72425463"><SPAN 
+style="FONT-SIZE: 12pt; LINE-HEIGHT: 240%"><FONT face=Calibri> 
+</FONT></SPAN></SPAN></SPAN><SPAN style="mso-bookmark: _Toc11952033"><SPAN 
+style="mso-bookmark: _Toc72425463"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 240%; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">（</SPAN></SPAN></SPAN><SPAN 
+style="mso-bookmark: _Toc11952033"><SPAN 
+style="mso-bookmark: _Toc72425463"><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; LINE-HEIGHT: 240%"><FONT 
+face=Calibri>2014</FONT></SPAN></SPAN></SPAN><SPAN 
+style="mso-bookmark: _Toc11952033"><SPAN 
+style="mso-bookmark: _Toc72425463"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; LINE-HEIGHT: 240%; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin">年修订）</SPAN></SPAN></SPAN><SPAN 
+style="mso-bookmark: _Toc72425463"></SPAN><SPAN 
+style="mso-bookmark: _Toc11952033"></SPAN><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; LINE-HEIGHT: 240%"><o:p></o:p></SPAN></H1>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 180%; TEXT-INDENT: 24pt" 
+align=center><B style="mso-bidi-font-weight: normal"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第一章 总 则<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></B></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第一条 为了规范财务报表的列报，保证同一企业不同期间和同一期间不同企业的财务报表相互可比，根据《企业会计准则<SPAN 
+lang=EN-US>——</SPAN>基本准则》，制定本准则。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二条 财务报表是对企业财务状况、经营成果和现金流量的结构性表述。财务报表至少应当包括下列组成部分： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）资产负债表； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）利润表； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）现金流量表； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（四）所有者权益（或股东权益，下同）变动表； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（五）附注。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>财务报表上述组成部分具有同等的重要程度。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三条 本准则适用于个别财务报表和合并财务报表，以及年度财务报表和中期财务报表，《企业会计准则第<SPAN 
+lang=EN-US>32</SPAN>号<SPAN 
+lang=EN-US>——</SPAN>中期财务报告》另有规定的除外。合并财务报表的编制和列报，还应遵循《企业会计准则第<SPAN 
+lang=EN-US>33</SPAN>号<SPAN 
+lang=EN-US>——</SPAN>合并财务报表》；现金流量表的编制和列报，还应遵循《企业会计准则第<SPAN 
+lang=EN-US>31</SPAN>号<SPAN lang=EN-US>——</SPAN>现金流量表》；其他会计准则的特殊列报要求，适用其他相关会计准则。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 180%; TEXT-INDENT: 24pt" 
+align=center><B style="mso-bidi-font-weight: normal"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二章 基本要求<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></B></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第四条 企业应当以持续经营为基础，根据实际发生的交易和事项，按照《企业会计准则<SPAN 
+lang=EN-US>——</SPAN>基本准则》和其他各项会计准则的规定进行确认和计量，在此基础上编制财务报表。企业不应以附注披露代替确认和计量，不恰当的确认和计量也不能通过充分披露相关会计政策而纠正。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>如果按照各项会计准则规定披露的信息不足以让报表使用者了解特定交易或事项对企业财务状况和经营成果的影响时，企业还应当披露其他的必要信息。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第五条 在编制财务报表的过程中，企业管理层应当利用所有可获得信息来评价企业自报告期末起至少<SPAN 
+lang=EN-US>12</SPAN>个月的持续经营能力。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>评价时需要考虑宏观政策风险、市场经营风险、企业目前或长期的盈利能力、偿债能力、财务弹性以及企业管理层改变经营政策的意向等因素。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>评价结果表明对持续经营能力产生重大怀疑的，企业应当在附注中披露导致对持续经营能力产生重大怀疑的因素以及企业拟采取的改善措施。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第六条 企业如有近期获利经营的历史且有财务资源支持，则通常表明以持续经营为基础编制财务报表是合理的。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>企业正式决定或被迫在当期或将在下一个会计期间进行清算或停止营业的，则表明以持续经营为基础编制财务报表不再合理。在这种情况下，企业应当采用其他基础编制财务报表，并在附注中声明财务报表未以持续经营为基础编制的事实、披露未以持续经营为基础编制的原因和财务报表的编制基础。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第七条 除现金流量表按照收付实现制原则编制外，企业应当按照权责发生制原则编制财务报表。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第八条 财务报表项目的列报应当在各个会计期间保持一致，不得随意变更，但下列情况除外： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）会计准则要求改变财务报表项目的列报。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>（二）企业经营业务的性质发生重大变化或对企业经营影响较大的交易或事项发生后，变更财务报表项目的列报能够提供更可靠、更相关的会计信息。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第九条 性质或功能不同的项目，应当在财务报表中单独列报，但不具有重要性的项目除外。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>性质或功能类似的项目，其所属类别具有重要性的，应当按其类别在财务报表中单独列报。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>某些项目的重要性程度不足以在资产负债表、利润表、现金流量表或所有者权益变动表中单独列示，但对附注却具有重要性，则应当在附注中单独披露。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第十条 重要性，是指在合理预期下，财务报表某项目的省略或错报会影响使用者据此作出经济决策的，该项目具有重要性。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>重要性应当根据企业所处的具体环境，从项目的性质和金额两方面予以判断，且对各项目重要性的判断标准一经确定，不得随意变更。判断项目性质的重要性，应当考虑该项目在性质上是否属于企业日常活动、是否显著影响企业的财务状况、经营成果和现金流量等因素；判断项目金额大小的重要性，应当考虑该项目金额占资产总额、负债总额、所有者权益总额、营业收入总额、营业成本总额、净利润、综合收益总额等直接相关项目金额的比重或所属报表单列项目金额的比重。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第十一条 
+财务报表中的资产项目和负债项目的金额、收入项目和费用项目的金额、直接计入当期利润的利得项目和损失项目的金额不得相互抵销，但其他会计准则另有规定的除外。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>一组类似交易形成的利得和损失应当以净额列示，但具有重要性的除外。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>资产或负债项目按扣除备抵项目后的净额列示，不属于抵销。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>非日常活动产生的利得和损失，以同一交易形成的收益扣减相关费用后的净额列示更能反映交易实质的，不属于抵销。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第十二条 
+当期财务报表的列报，至少应当提供所有列报项目上一个可比会计期间的比较数据，以及与理解当期财务报表相关的说明，但其他会计准则另有规定的除外。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>根据本准则第八条的规定，财务报表的列报项目发生变更的，应当至少对可比期间的数据按照当期的列报要求进行调整，并在附注中披露调整的原因和性质，以及调整的各项目金额。对可比数据进行调整不切实可行的，应当在附注中披露不能调整的原因。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>不切实可行，是指企业在作出所有合理努力后仍然无法采用某项会计准则规定。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第十三条 企业应当在财务报表的显著位置至少披露下列各项： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）编报企业的名称。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）资产负债表日或财务报表涵盖的会计期间。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）人民币金额单位。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（四）财务报表是合并财务报表的，应当予以标明。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第十四条 
+企业至少应当按年编制财务报表。年度财务报表涵盖的期间短于一年的，应当披露年度财务报表的涵盖期间、短于一年的原因以及报表数据不具可比性的事实。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第十五条 本准则规定在财务报表中单独列报的项目，应当单独列报。其他会计准则规定单独列报的项目，应当增加单独列报项目。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 180%; TEXT-INDENT: 24pt" 
+align=center><B style="mso-bidi-font-weight: normal"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三章 资产负债表<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></B></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第十六条 资产和负债应当分别流动资产和非流动资产、流动负债和非流动负债列示。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>金融企业等销售产品或提供服务不具有明显可识别营业周期的企业，其各项资产或负债按照流动性列示能够提供可靠且更相关信息的，可以按照其流动性顺序列示。从事多种经营的企业，其部分资产或负债按照流动和非流动列报、其他部分资产或负债按照流动性列示能够提供可靠且更相关信息的，可以采用混合的列报方式。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>对于同时包含资产负债表日后一年内（含一年，下同）和一年之后预期将收回或清偿金额的资产和负债单列项目，企业应当披露超过一年后预期收回或清偿的金额。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第十七条 资产满足下列条件之一的，应当归类为流动资产： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）预计在一个正常营业周期中变现、出售或耗用。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）主要为交易目的而持有。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）预计在资产负债表日起一年内变现。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（四）自资产负债表日起一年内，交换其他资产或清偿负债的能力不受限制的现金或现金等价物。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>正常营业周期，是指企业从购买用于加工的资产起至实现现金或现金等价物的期间。正常营业周期通常短于一年。因生产周期较长等导致正常营业周期长于一年的，尽管相关资产往往超过一年才变现、出售或耗用，仍应当划分为流动资产。正常营业周期不能确定的，应当以一年（<SPAN 
+lang=EN-US>12</SPAN>个月）作为正常营业周期。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第十八条 
+流动资产以外的资产应当归类为非流动资产，并应按其性质分类列示。被划分为持有待售的非流动资产应当归类为流动资产。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第十九条 负债满足下列条件之一的，应当归类为流动负债： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）预计在一个正常营业周期中清偿。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）主要为交易目的而持有。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）自资产负债表日起一年内到期应予以清偿。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>（四）企业无权自主地将清偿推迟至资产负债表日后一年以上。负债在其对手方选择的情况下可通过发行权益进行清偿的条款与负债的流动性划分无关。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>企业对资产和负债进行流动性分类时，应当采用相同的正常营业周期。企业正常营业周期中的经营性负债项目即使在资产负债表日后超过一年才予清偿的，仍应当划分为流动负债。经营性负债项目包括应付账款、应付职工薪酬等，这些项目属于企业正常营业周期中使用的营运资金的一部分。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二十条 
+流动负债以外的负债应当归类为非流动负债，并应当按其性质分类列示。被划分为持有待售的非流动负债应当归类为流动负债。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二十一条 
+对于在资产负债表日起一年内到期的负债，企业有意图且有能力自主地将清偿义务展期至资产负债表日后一年以上的，应当归类为非流动负债；不能自主地将清偿义务展期的，即使在资产负债表日后、财务报告批准报出日前签订了重新安排清偿计划协议，该项负债仍应当归类为流动负债。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二十二条 企业在资产负债表日或之前违反了长期借款协议，导致贷款人可随时要求清偿的负债，应当归类为流动负债。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>贷款人在资产负债表日或之前同意提供在资产负债表日后一年以上的宽限期，在此期限内企业能够改正违约行为，且贷款人不能要求随时清偿的，该项负债应当归类为非流动负债。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>其他长期负债存在类似情况的，比照上述第一款和第二款处理。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二十三条 资产负债表中的资产类至少应当单独列示反映下列信息的项目： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）货币资金； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）以公允价值计量且其变动计入当期损益的金融资产； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）应收款项； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（四）预付款项； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（五）存货； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（六）被划分为持有待售的非流动资产及被划分为持有待售的处置组中的资产； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（七）可供出售金融资产； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（八）持有至到期投资； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（九）长期股权投资； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十）投资性房地产； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十一）固定资产； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十二）生物资产； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十三）无形资产； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十四）递延所得税资产。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二十四条 资产负债表中的资产类至少应当包括流动资产和非流动资产的合计项目，按照企业的经营性质不切实可行的除外。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二十五条 资产负债表中的负债类至少应当单独列示反映下列信息的项目： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）短期借款； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）以公允价值计量且其变动计入当期损益的金融负债； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）应付款项； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（四）预收款项； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（五）应付职工薪酬； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（六）应交税费； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（七）被划分为持有待售的处置组中的负债； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（八）长期借款； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（九）应付债券； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十）长期应付款； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十一）预计负债； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十二）递延所得税负债。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二十六条 资产负债表中的负债类至少应当包括流动负债、非流动负债和负债的合计项目，按照企业的经营性质不切实可行的除外。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二十七条 资产负债表中的所有者权益类至少应当单独列示反映下列信息的项目： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）实收资本（或股本，下同）； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）资本公积； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）盈余公积； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（四）未分配利润。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>在合并资产负债表中，应当在所有者权益类单独列示少数股东权益。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二十八条 资产负债表中的所有者权益类应当包括所有者权益的合计项目。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第二十九条 资产负债表应当列示资产总计项目，负债和所有者权益总计项目。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 180%; TEXT-INDENT: 24pt" 
+align=center><B style="mso-bidi-font-weight: normal"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第四章 利润表<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></B></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三十条 企业在利润表中应当对费用按照功能分类，分为从事经营业务发生的成本、管理费用、销售费用和财务费用等。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三十一条 利润表至少应当单独列示反映下列信息的项目，但其他会计准则另有规定的除外： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）营业收入； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）营业成本； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）营业税金及附加； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（四）管理费用； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（五）销售费用； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（六）财务费用； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（七）投资收益； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（八）公允价值变动损益； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（九）资产减值损失； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十）非流动资产处置损益； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十一）所得税费用； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十二）净利润； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十三）其他综合收益各项目分别扣除所得税影响后的净额； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（十四）综合收益总额。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>金融企业可以根据其特殊性列示利润表项目。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三十二条 
+综合收益，是指企业在某一期间除与所有者以其所有者身份进行的交易之外的其他交易或事项所引起的所有者权益变动。综合收益总额项目反映净利润和其他综合收益扣除所得税影响后的净额相加后的合计金额。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三十三条 其他综合收益，是指企业根据其他会计准则规定未在当期损益中确认的各项利得和损失。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>其他综合收益项目应当根据其他相关会计准则的规定分为下列两类列报： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>（一）以后会计期间不能重分类进损益的其他综合收益项目，主要包括重新计量设定受益计划净负债或净资产导致的变动、按照权益法核算的在被投资单位以后会计期间不能重分类进损益的其他综合收益中所享有的份额等； 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>（二）以后会计期间在满足规定条件时将重分类进损益的其他综合收益项目，主要包括按照权益法核算的在被投资单位以后会计期间在满足规定条件时将重分类进损益的其他综合收益中所享有的份额、可供出售金融资产公允价值变动形成的利得或损失、持有至到期投资重分类为可供出售金融资产形成的利得或损失、现金流量套期工具产生的利得或损失中属于有效套期的部分、外币财务报表折算差额等。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三十四条 
+在合并利润表中，企业应当在净利润项目之下单独列示归属于母公司所有者的损益和归属于少数股东的损益，在综合收益总额项目之下单独列示归属于母公司所有者的综合收益总额和归属于少数股东的综合收益总额。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 180%; TEXT-INDENT: 24pt" 
+align=center><B style="mso-bidi-font-weight: normal"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第五章 所有者权益变动表<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></B></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三十五条 
+所有者权益变动表应当反映构成所有者权益的各组成部分当期的增减变动情况。综合收益和与所有者（或股东，下同）的资本交易导致的所有者权益的变动，应当分别列示。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>与所有者的资本交易，是指企业与所有者以其所有者身份进行的、导致企业所有者权益变动的交易。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三十六条 所有者权益变动表至少应当单独列示反映下列信息的项目： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>（一）综合收益总额，在合并所有者权益变动表中还应单独列示归属于母公司所有者的综合收益总额和归属于少数股东的综合收益总额； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）会计政策变更和前期差错更正的累积影响金额； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）所有者投入资本和向所有者分配利润等； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（四）按照规定提取的盈余公积； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（五）所有者权益各组成部分的期初和期末余额及其调节情况。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 180%; TEXT-INDENT: 24pt" 
+align=center><B style="mso-bidi-font-weight: normal"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第六章 附注<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></B></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三十七条 
+附注是对在资产负债表、利润表、现金流量表和所有者权益变动表等报表中列示项目的文字描述或明细资料，以及对未能在这些报表中列示项目的说明等。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三十八条 
+附注应当披露财务报表的编制基础，相关信息应当与资产负债表、利润表、现金流量表和所有者权益变动表等报表中列示的项目相互参照。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第三十九条 附注一般应当按照下列顺序至少披露： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）企业的基本情况。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><FONT size=3><FONT face=宋体><SPAN 
+lang=EN-US 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体">1</SPAN><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体">．企业注册地、组织形式和总部地址。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><FONT size=3><FONT face=宋体><SPAN 
+lang=EN-US 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体">2</SPAN><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体">．企业的业务性质和主要经营活动。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><FONT size=3><FONT face=宋体><SPAN 
+lang=EN-US 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体">3</SPAN><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体">．母公司以及集团最终母公司的名称。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><FONT size=3><FONT face=宋体><SPAN 
+lang=EN-US 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体">4</SPAN><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体">．财务报告的批准报出者和财务报告批准报出日，或者以签字人及其签字日期为准。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><FONT size=3><FONT face=宋体><SPAN 
+lang=EN-US 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体">5</SPAN><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体">．营业期限有限的企业，还应当披露有关其营业期限的信息。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></FONT></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）财务报表的编制基础。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）遵循企业会计准则的声明。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>企业应当声明编制的财务报表符合企业会计准则的要求，真实、完整地反映了企业的财务状况、经营成果和现金流量等有关信息。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（四）重要会计政策和会计估计。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>重要会计政策的说明，包括财务报表项目的计量基础和在运用会计政策过程中所做的重要判断等。重要会计估计的说明，包括可能导致下一个会计期间内资产、负债账面价值重大调整的会计估计的确定依据等。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>企业应当披露采用的重要会计政策和会计估计，并结合企业的具体实际披露其重要会计政策的确定依据和财务报表项目的计量基础，及其会计估计所采用的关键假设和不确定因素。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（五）会计政策和会计估计变更以及差错更正的说明。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>企业应当按照《企业会计准则第<SPAN lang=EN-US>28</SPAN>号<SPAN 
+lang=EN-US>——</SPAN>会计政策、会计估计变更和差错更正》的规定，披露会计政策和会计估计变更以及差错更正的情况。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（六）报表重要项目的说明。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>企业应当按照资产负债表、利润表、现金流量表、所有者权益变动表及其项目列示的顺序，对报表重要项目的说明采用文字和数字描述相结合的方式进行披露。报表重要项目的明细金额合计，应当与报表项目金额相衔接。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>企业应当在附注中披露费用按照性质分类的利润表补充资料，可将费用分为耗用的原材料、职工薪酬费用、折旧费用、摊销费用等。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（七）或有和承诺事项、资产负债表日后非调整事项、关联方关系及其交易等需要说明的事项。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（八）有助于财务报表使用者评价企业管理资本的目标、政策及程序的信息。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第四十条 企业应当在附注中披露下列关于其他综合收益各项目的信息： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）其他综合收益各项目及其所得税影响； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）其他综合收益各项目原计入其他综合收益、当期转出计入当期损益的金额； <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）其他综合收益各项目的期初和期末余额及其调节情况。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第四十一条 
+企业应当在附注中披露终止经营的收入、费用、利润总额、所得税费用和净利润，以及归属于母公司所有者的终止经营利润。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第四十二条 
+终止经营，是指满足下列条件之一的已被企业处置或被企业划归为持有待售的、在经营和编制财务报表时能够单独区分的组成部分： <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（一）该组成部分代表一项独立的主要业务或一个主要经营地区。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（二）该组成部分是拟对一项独立的主要业务或一个主要经营地区进行处置计划的一部分。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>（三）该组成部分是仅仅为了再出售而取得的子公司。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT 
+face=宋体>同时满足下列条件的企业组成部分（或非流动资产，下同）应当确认为持有待售：该组成部分必须在其当前状况下仅根据出售此类组成部分的惯常条款即可立即出售；企业已经就处置该组成部分作出决议，如按规定需得到股东批准的，应当已经取得股东大会或相应权力机构的批准；企业已经与受让方签订了不可撤销的转让协议；该项转让将在一年内完成。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第四十三条 
+企业应当在附注中披露在资产负债表日后、财务报告批准报出日前提议或宣布发放的股利总额和每股股利金额（或向投资者分配的利润总额）。 <SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 180%; TEXT-INDENT: 24pt" 
+align=center><B style="mso-bidi-font-weight: normal"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第七章 衔接规定<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></B></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第四十四条 
+在本准则施行日之前已经执行企业会计准则的企业，应当按照本准则调整财务报表的列报项目；涉及有关报表和附注比较数据的，也应当做相应调整，调整不切实可行的除外。 
+<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></P>
+<P style="TEXT-ALIGN: center; LINE-HEIGHT: 180%; TEXT-INDENT: 24pt" 
+align=center><B style="mso-bidi-font-weight: normal"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3><FONT face=宋体>第八章 附 则<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></FONT></SPAN></B></P>
+<P style="LINE-HEIGHT: 180%; TEXT-INDENT: 24pt"><SPAN 
+style="mso-ascii-font-family: 宋体; mso-ascii-theme-font: minor-fareast; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: 宋体; mso-hansi-theme-font: minor-fareast; mso-bidi-font-family: Arial; mso-fareast-font-family: 宋体"><FONT 
+size=3 face=宋体>第四十五条 本准则自<SPAN lang=EN-US>2014</SPAN>年<SPAN 
+lang=EN-US>7</SPAN>月<SPAN lang=EN-US>1</SPAN>日起施行。</FONT><SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<HR>
+
+<P></P></DIV>
+<DIV class=footer>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多内容请关注： <A 
+href="https://bbs.esnai.com/thread-5354530-1-3.html" 
+target=_blank>中国会计视野论坛-CPA业务探讨.</A> 微信公众号:MY聊审计.</P></DIV></BODY></HTML>
