@@ -25,12 +25,12 @@
     .markdown-section,
     body,
     .search input {
-        background-color: rgba(243, 242, 238, 1) !important;
+        background-color: rgba(255,255,255, 1) !important;
     }
 
     @media (min-width:600px) {
         .sidebar-toggle {
-            background-color: #f3f2ee;
+            background-color: #FFFFFF;
         }
     }
 
@@ -71,7 +71,7 @@
 
 
     pre {
-        background-color: #f3f2ee !important;
+        background-color: #ffffff !important;
     }
 
     @media (min-width:600px) {
