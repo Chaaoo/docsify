@@ -19,7 +19,7 @@
   <script src="asset/back-to-top.js"></script>
 </head>
 <body>
-  <div id="app">now loading...</div>
+  <div id="app">稍等...</div>
   <script>
     window.$docsify = {
       loadSidebar: 'SUMMARY.md',
@@ -32,9 +32,11 @@
         '/.*/SUMMARY.md': '/SUMMARY.md',
       },
       search: {
-        paths: 'auto',
+        maxAge: 864000
+		paths: 'auto',
         placeholder: '搜索',
         noData: '没有结果',
+		depth: 6,
       },
       copyCode: {
         buttonText: '复制',
