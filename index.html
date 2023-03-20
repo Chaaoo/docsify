@@ -32,9 +32,12 @@
         '/.*/SUMMARY.md': '/SUMMARY.md',
       },
       search: {
+		maxAge: 86400000, // 过期时间，单位毫秒，默认一天
 		paths: 'auto',
         placeholder: '这里搜索，但不太好用，建议CTRL+F',
         noData: '没有结果',
+		// 搜索标题的最大程级, 1 - 6
+		depth: 6,
       },
       copyCode: {
         buttonText: '复制',

@@ -10,8 +10,8 @@
 
 code[class*="lang-"],
 pre[data-lang] {
-    color: #a9b7c6 !important;
-    background-color: #2b2b2b !important;
+    color: #0b0a0a !important;
+    background-color: #FFFFFF !important;
     font-family: Consolas, Monaco, 'Andale Mono', monospace;
     direction: ltr;
     text-align: left;
