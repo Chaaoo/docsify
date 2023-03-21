@@ -75,7 +75,7 @@ style='FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; m
 size=3></FONT></SPAN>&nbsp;</P>
 <P align=center><SPAN 
 style='FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-fareast-theme-font: minor-fareast; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: "Times New Roman"; mso-bidi-theme-font: minor-bidi; mso-font-kerning: 1.0pt; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-bidi-font-size: 11.0pt'><IMG 
-src="img/MY聊审计.png"></SPAN></P>
+src="https://raw.githubusercontent.com/Chaaoo/docsify/main/img/my%E8%81%8A%E5%AE%A1%E8%AE%A1.png?token=GHSAT0AAAAAAB6SF3PLCDUMLI7HAMBKAZTIZAZVZHA"></SPAN></P>
 <P>
 <HR>
 
