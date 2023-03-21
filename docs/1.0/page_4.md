@@ -1,16 +1,5 @@
-﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML xmlns:o = 
-"urn:schemas-microsoft-com:office:office"><HEAD><TITLE>版权声明</TITLE>
-<META content="text/html; charset=gb2312" http-equiv=Content-Type>
-<META name=GENERATOR content="MSHTML 11.00.10570.1001"><LINK rel=stylesheet 
-href="_template.css"></HEAD>
-<BODY>
-<DIV id=nsbanner>
-<DIV id=bannerrow1>
-<TABLE class=bannerparthead>
-  <TBODY>
-  <TR id=hdr>
-    <TD class=runninghead noWrap>企业会计准则及应用指南</TD></TR></TBODY></TABLE></DIV>
+﻿# 企业会计准则及应用指南
+
 <DIV id=titlerow>
 <H1 class=dtH1>版权声明</H1></DIV></DIV>
 <DIV id=nstext><BR>
