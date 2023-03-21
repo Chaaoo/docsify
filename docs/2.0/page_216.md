@@ -1,0 +1,606 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:o = "urn:schemas-microsoft-com:office:office"><HEAD><TITLE>北京注册会计师协会专家委员会专家提示[2017] 第7号——司法会计鉴定业务证据的分析</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"><LINK rel=stylesheet 
+href="_template.css"></HEAD>
+<BODY>
+<DIV id=nsbanner>
+<DIV id=bannerrow1>
+<TABLE class=bannerparthead>
+  <TBODY>
+  <TR id=hdr>
+    <TD class=runninghead noWrap>中国注册会计师执业准则及指南系列</TD></TR></TBODY></TABLE></DIV>
+<DIV id=titlerow>
+<H1 class=dtH1>北京注册会计师协会专家委员会专家提示[2017] 第7号——司法会计鉴定业务证据的分析 </H1></DIV></DIV>
+<DIV id=nstext><BR>
+<P class=MsoNormal 
+style="TEXT-ALIGN: center; MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; mso-para-margin-top: .5gd" 
+align=center><FONT face=Calibri><B style="mso-bidi-font-weight: normal"><SPAN 
+style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-family: "Times New Roman"; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi'>北京注册会计师协会专家委员会专家提示<SPAN 
+lang=EN-US>[2017]</SPAN></SPAN></B><SPAN lang=EN-US><FONT size=3> 
+</FONT></SPAN><B style="mso-bidi-font-weight: normal"><SPAN 
+style='FONT-SIZE: 16pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-family: "Times New Roman"; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi'>第<SPAN 
+lang=EN-US>7</SPAN>号——司法会计鉴定业务证据的分析<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></B></FONT></P>
+<P class=MsoNormal 
+style="TEXT-ALIGN: center; MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; mso-para-margin-top: .5gd" 
+align=center><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>发布日期：<SPAN lang=EN-US>2017</SPAN>年<SPAN lang=EN-US>12</SPAN>月<SPAN 
+lang=EN-US>14</SPAN>日<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+lang=EN-US 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><o:p><FONT 
+face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>随着司法会计鉴定在司法实践中的应用越来越广泛，越来越多的会计师事务所参与到司法会计鉴定活动。实践中，将司法会计鉴定活动混同于审计的现象十分普遍，尤其在证据获取方面，由于对审计证据、司法会计鉴定业务证据和诉讼证据的混淆不清，很大程度上增加了司法会计鉴定业务的风险。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>本提示仅供会计师事务所及相关从业人员在执业时参考，不能替代相关法律法规、注册会计师执业准则以及注册会计师职业判断。提示中所涉及审计程序的时间、范围和程度等，事务所及相关从业人员在执业中需结合项目实际情况及注册会计师的职业判断确定，不能直接照搬照抄。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+lang=EN-US 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><o:p><FONT 
+face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>为协助执业人员准确区分审计证据、司法会计鉴定业务证据和诉讼证据，有效降低司法会计鉴定业务风险，司法会计鉴定审计专家委员会做出如下提示：<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><B 
+style="mso-bidi-font-weight: normal"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>一、审计证据、司法会计鉴定业务证据和诉讼证据的界定<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></B></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>要准确区分审计证据、司法会计鉴定业务证据和诉讼证据，首先要明确三者的概念。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>（一）审计证据<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>《中国注册会计师审计准则<SPAN lang=EN-US>1301</SPAN>号<SPAN 
+lang=EN-US>-</SPAN>审计证据》明确，审计证据是指注册会计师为了得出审计结论和形成审计意见而使用的信息，审计证据包括构成财务报表基础的会计记录所含有的信息和其他信息。审计证据的充分性，是对审计证据数量的衡量，注册会计师需要获取的审计证据的数量受其对重大错报风险评估的影响，并受审计证据质量的影响。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>（二）司法会计鉴定业务证据<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>全国人民代表大会常务委员会《关于司法鉴定管理问题的决定》规定，司法鉴定是指在诉讼活动中鉴定人运用科学技术或专业知识对诉讼所涉及的专业性问题进行鉴别和判断，并提供鉴定意见的活动。根据三大诉讼法的规定，司法会计鉴定意见属于八类诉讼证据的一种。结合相关规定，北京注协编著的《司法会计鉴定实务操作指南》，将司法会计鉴定解释为：司法机关及相关当事人为了查明案情，在解决案件中的会计问题时，指派或聘请具有司法会计鉴定资质的鉴定机构，由持有司法鉴定人执业证的司法会计鉴定人对会计问题进行判断和验证，并作出司法会计鉴定结论的活动。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>司法会计鉴定业务证据是形成司法会计鉴定意见的依据，是司法会计鉴定机构根据委托人提供的鉴定材料，利用司法会计鉴定的方法从鉴定材料中提炼后组成的，能证明所鉴定会计事项发生的相关财务资料，并不是所有的鉴定材料都是司法会计鉴定业务的证据。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>（三）诉讼证据<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>《刑事诉讼法》第四十八条规定：“可以用于证明案件事实的材料，都是证据。”且《刑事诉讼法》、《民事诉讼法》和《行政诉讼法》都规定，证据必须经过查证属实，才能作为定案、认定案件事实的根据。三大诉讼法规定的诉讼证据包括以下类型：<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P>
+<TABLE class=MsoNormalTable 
+style="WIDTH: 100%; BACKGROUND: white; BORDER-COLLAPSE: collapse; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 0cm 0cm 0cm" 
+cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">
+    <TD 
+    style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 9.8%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="9%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">序号</SPAN></B><B 
+      style="mso-bidi-font-weight: normal"><SPAN lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></B></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 43.1%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="43%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">刑事诉讼法</SPAN></B><B 
+      style="mso-bidi-font-weight: normal"><SPAN lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></B></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 20.42%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="20%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">民事诉讼法</SPAN></B><B 
+      style="mso-bidi-font-weight: normal"><SPAN lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></B></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 26.68%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="26%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><B 
+      style="mso-bidi-font-weight: normal"><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">行政诉讼法</SPAN></B><B 
+      style="mso-bidi-font-weight: normal"><SPAN lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></B></FONT></FONT></P></TD></TR>
+  <TR style="mso-yfti-irow: 1">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 9.8%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="9%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN lang=EN-US 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">1</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 43.1%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="43%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">物证</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 20.42%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="20%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">物证</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 26.68%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="26%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">物证</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD></TR>
+  <TR style="mso-yfti-irow: 2">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 9.8%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="9%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN lang=EN-US 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">2</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 43.1%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="43%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">书证</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 20.42%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="20%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">书证</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 26.68%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="26%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">书证</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD></TR>
+  <TR style="mso-yfti-irow: 3">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 9.8%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="9%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN lang=EN-US 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">3</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 43.1%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="43%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">证人证言</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 20.42%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="20%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">证人证言</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 26.68%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="26%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">证人证言</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD></TR>
+  <TR style="mso-yfti-irow: 4">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 9.8%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="9%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN lang=EN-US 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">4</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 43.1%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="43%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">被害人陈述</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 20.42%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="20%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">当事人的陈述</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 26.68%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="26%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">当事人的陈述</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD></TR>
+  <TR style="mso-yfti-irow: 5">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 9.8%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="9%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN lang=EN-US 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">5</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 43.1%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="43%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT face=Calibri><FONT size=3><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">犯罪嫌疑人、被告人供述和辩解</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 20.42%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="20%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><SPAN lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-ascii-font-family: 仿宋_GB2312; mso-fareast-font-family: 仿宋_GB2312">&nbsp;</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 26.68%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="26%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><SPAN lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt; mso-ascii-font-family: 仿宋_GB2312; mso-fareast-font-family: 仿宋_GB2312">&nbsp;</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></P></TD></TR>
+  <TR style="mso-yfti-irow: 6">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 9.8%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="9%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN lang=EN-US 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">6</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 43.1%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="43%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">鉴定意见</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 20.42%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="20%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">鉴定意见</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 26.68%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="26%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">鉴定意见</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD></TR>
+  <TR style="mso-yfti-irow: 7">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 9.8%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="9%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN lang=EN-US 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">7</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 43.1%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="43%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">勘验、检查、辨认、侦查实验等笔录</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 20.42%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="20%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">勘验笔录</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 26.68%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="26%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">勘验笔录、现场笔录</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD></TR>
+  <TR style="mso-yfti-irow: 8; mso-yfti-lastrow: yes">
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 9.8%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: windowtext 1pt solid; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="9%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN lang=EN-US 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">8</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 43.1%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="43%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">视听资料、电子数据</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 20.42%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="20%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">视听资料</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P>
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">电子数据</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD>
+    <TD 
+    style="BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; WIDTH: 26.68%; BORDER-BOTTOM: windowtext 1pt solid; PADDING-BOTTOM: 0cm; PADDING-TOP: 0cm; PADDING-LEFT: 5.4pt; BORDER-LEFT: #f0f0f0; PADDING-RIGHT: 5.4pt; BACKGROUND-COLOR: transparent" 
+    width="26%">
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">视听资料</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P>
+      <P class=MsoNormal 
+      style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt; mso-pagination: widow-orphan" 
+      align=center><FONT size=3><FONT face=Calibri><SPAN 
+      style="FONT-FAMILY: 仿宋_GB2312; mso-bidi-font-family: 宋体; mso-hansi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt">电子数据</SPAN><SPAN 
+      lang=EN-US 
+      style="FONT-FAMILY: 宋体; mso-bidi-font-family: 宋体; mso-bidi-font-size: 10.5pt; mso-font-kerning: 0pt"><o:p></o:p></SPAN></FONT></FONT></P></TD></TR></TBODY></TABLE></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><B 
+style="mso-bidi-font-weight: normal"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>二、审计证据、司法会计鉴定业务证据和诉讼证据的主要差异<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></B></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>审计证据、司法会计鉴定业务证据、诉讼证据三者的主要差异体现在取证主体、质证效力、证明事实等三个方面。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>（一）取证主体差异<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>审计证据除委托方、被审计单位主动提供外，审计机构可以作为取证主体通过观察、询问、函证、重新计算、分析等手段自行取得。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>司法会计鉴定业务证据是鉴定机构从鉴定材料中取得。《司法鉴定程序通则》第十一条规定，司法鉴定机构应当统一受理办案机关的司法鉴定委托；第十二条规定委托人委托鉴定的，应当向司法鉴定机构提供真实、完整、充分的鉴定材料，并对鉴定材料的真实性、合法性负责；第十四条规定对于鉴定材料不完整、不充分，不能满足鉴定需要的，鉴定机构可以要求委托人补充。《民事诉讼法》第七十七条规定鉴定人有权了解进行鉴定所需要的案件材料，必要时可以询问当事人、证人；《司法鉴定程序通则》第二十四条规定经委托人同意，司法鉴定机构可以派员到现场提取鉴定材料，且现场提取鉴定材料时，应当有委托人指派或者委托的人员在场见证并在提取记录上签名，两个文件的规定并不抵触，询问当事人和证人是鉴定方法之一，与提取鉴定材料的取证程序是不同的。因此，司法会计鉴定机构不是鉴定材料的取证主体，而是从鉴定材料中提取司法会计鉴定业务证据的取证主体。故司法会计鉴定机构未经委托人补充或确认，自行通过观察、询问、函证等手段取得的材料不属于鉴定材料，提炼出的证据也不属于司法会计鉴定业务证据。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>讼诉证据是讼诉当事人双方向司法机关提供的，司法机关也可以通过调查权核实证据或者补充提取证据，即诉讼证据的取证主体主要是当事人，司法机关主要是判断证据是否要采信，同时也有一定的调查取证权。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>（二）质证效力差异<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>三大诉讼法均规定了证据的质证程序，只有经过质证程序的证据才会被法庭采信，从而成为诉讼证据。司法会计鉴定实务中，通常会经过鉴定材料质证、司法会计鉴定意见质证的程序。由于虚假诉讼的存在，司法会计鉴定机构不能轻信经过质证的鉴定材料。比如经过质证的当事人双方共同书写的合同协议等文件材料，若缺少可以证明经济事项全部、真实发生的会计资料，司法会计鉴定机构也不宜轻易将其提取为司法会计鉴定业务证据。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>（三）证明事实差异<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>审计证据证明审计机构的审计结论；司法会计鉴定业务证据证明司法鉴定机构的鉴定意见，同时也要证明鉴定意见所指向的事实；诉讼证据证明案件事实。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>以出现在成本费用中涉及现金流出的白条为例，审计机构不会将其作为确认成本费用的审计证据，但不能忽视其可以作为证明存在会计舞弊风险的证据；对于借款白条，在审计中不能作为债权债务的审计证据，但不能忽视其可以作为证明存在职务侵占可能的证据；在诉讼案件中，借款白条经法庭质证，可以作为诉讼证据。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><B 
+style="mso-bidi-font-weight: normal"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>三、审计证据、司法会计鉴定业务证据和诉讼证据三者之间的联系<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></B></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>司法会计鉴定业务证据和诉讼证据都是在诉讼活动中形成的，司法会计鉴定业务证据必须是与案件事实有关联的鉴定材料，是能证明所鉴定会计事项的时间、内容和范围等有关的会计资料，对于非会计资料，虽然与案件事实有关，但不能作为司法会计鉴定业务的证据。比如，言词材料、证人证言、被告人的口供、会议纪要等，它们可以是诉讼证据，但是却不能作为司法会计鉴定业务证据使用。实务中，不少司法会计鉴定机构对司法会计鉴定业务证据与诉讼证据认识不清，将一些诉讼证据作为鉴定业务证据使用，并以此作为对会计事项评价的依据。司法会计鉴定是对专门财务问题的专业鉴定，专业之外的材料就不能作为司法会计鉴定业务证据使用。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>司法会计鉴定业务证据和审计证据都可能成为诉讼证据的一部分，诉讼证据有时也可能作为司法会计鉴定业务证据和审计证据，三者之间是否可以互相替代，需要根据证据的具体情况分析采用。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><B 
+style="mso-bidi-font-weight: normal"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>四、实例解析<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></B></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>甲公司向乙公司转让其所持<SPAN lang=EN-US>A</SPAN>公司的股权，双方约定股权转让款为<SPAN 
+lang=EN-US>1.4</SPAN>亿元。后在补充协议中约定股权转让款中的<SPAN 
+lang=EN-US>6,000</SPAN>万元由乙公司投入<SPAN lang=EN-US>A</SPAN>公司，用于清偿甲公司对<SPAN 
+lang=EN-US>A</SPAN>公司以往的债务，余款<SPAN 
+lang=EN-US>8,000</SPAN>万元作为股权转让款直接支付给甲公司。签约后，乙公司先后向<SPAN 
+lang=EN-US>A</SPAN>公司支付资金<SPAN 
+lang=EN-US>1.6</SPAN>亿元用于项目开发，但双方并未签订协议，乙公司取得的收据注明为往来款。乙公司再次转让其持有的<SPAN 
+lang=EN-US>A</SPAN>公司股权后，依据<SPAN 
+lang=EN-US>A</SPAN>公司出具的欠款确认函、收据、银行付款记录等作为诉讼证据，向法院提起诉讼，要求<SPAN 
+lang=EN-US>A</SPAN>公司返还资金<SPAN lang=EN-US>1.6</SPAN>亿元。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>司法鉴定机构接受审理案件法院委托后，未经审理法院同意，向原、被告函证欠款一事，双方均回函承认，并在法庭调查阶段也予以确认，同时质证阶段双方也对乙公司提交的证据予以确认。司法鉴定机构依据函证结果、收据、银行付款记录、欠款确认函等司法会计鉴定业务证据出具鉴定意见，确认<SPAN 
+lang=EN-US>A</SPAN>公司欠乙公司<SPAN lang=EN-US>1.6</SPAN>亿元。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>经法院审判后，最终结论是<SPAN lang=EN-US>A</SPAN>公司返还乙公司资金<SPAN 
+lang=EN-US>1</SPAN>亿元，理由如下：<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'>1.<SPAN 
+style="mso-tab-count: 1">&nbsp; </SPAN></SPAN><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'>取证主体差异<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>司法鉴定机构未经法院同意向原、被告函证，不应视为法庭调查权的延伸，函证结果无效。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'>2.<SPAN 
+style="mso-tab-count: 1">&nbsp; </SPAN></SPAN><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'>质证效力差异<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'>A</SPAN><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'>公司出具的欠款确认函是在资金支付的一年之后，不是资金支付时形成的物证，不能直接证明资金支付时的商业实质是借款。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'>3.<SPAN 
+style="mso-tab-count: 1">&nbsp; </SPAN></SPAN><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'>证明事实差异<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>收据（虽注明款项用途是往来款）和银行付款记录，不能直接证明资金支付时的商业实质是借款，只能证明<SPAN 
+lang=EN-US>A</SPAN>公司收到了乙公司支付的资金。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style='FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-hansi-font-family: "Arial Narrow"; mso-bidi-font-size: 16.0pt'><FONT 
+face=Calibri>补充协议不能视为对股权转让价款进行调整的约定，仅是对付款方式和收款主体的表述。<SPAN 
+lang=EN-US>A</SPAN>公司作为股权转让价款中<SPAN 
+lang=EN-US>6,000</SPAN>万元的收款人是由甲公司指定的，说明甲公司并没有放弃全额收款权利，也就不存在变更股权转让对价的说法。据此判定，乙公司向<SPAN 
+lang=EN-US>A</SPAN>公司支付的<SPAN lang=EN-US>1.6</SPAN>亿元资金中，包含支付甲公司股权转让价款中的<SPAN 
+lang=EN-US>6,000</SPAN>万元，故<SPAN lang=EN-US>A</SPAN>公司应返还乙公司资金<SPAN 
+lang=EN-US>1</SPAN>亿元。</FONT><SPAN lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<HR>
+
+<P></P></DIV>
+<DIV class=footer>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多内容请关注： 中国会计视野论坛-CPA业务探讨. 
+微信公众号:MY聊审计.</P></DIV></BODY></HTML>

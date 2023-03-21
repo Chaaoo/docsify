@@ -1,0 +1,42 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>中注协约谈事务所 提示多次修正业绩预告的上市公司年报审计风险</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"><LINK rel=stylesheet 
+href="_template.css"></HEAD>
+<BODY>
+<DIV id=nsbanner>
+<DIV id=bannerrow1>
+<TABLE class=bannerparthead>
+  <TBODY>
+  <TR id=hdr>
+    <TD class=runninghead noWrap>中国注册会计师执业准则及指南系列</TD></TR></TBODY></TABLE></DIV>
+<DIV id=titlerow>
+<H1 class=dtH1>中注协约谈事务所 提示多次修正业绩预告的上市公司年报审计风险</H1></DIV></DIV>
+<DIV id=nstext><BR>
+<H1 id=activity-name class="rich_media_title " 
+style='FONT-SIZE: 22px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 700; COLOR: rgb(34,34,34); OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 14px; LETTER-SPACING: 0px; OUTLINE-COLOR: invert; LINE-HEIGHT: 1.4; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'>中注协约谈事务所 
+提示多次修正业绩预告的上市公司年报审计风险</H1>
+<P 
+style='BOX-SIZING: border-box !important; FONT-SIZE: 17px; MAX-WIDTH: 100%; FONT-FAMILY: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: normal; TEXT-ALIGN: justify; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; CLEAR: both; MIN-HEIGHT: 1em; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 21px; LETTER-SPACING: 0px; OUTLINE-COLOR: invert; LINE-HEIGHT: 25px; PADDING-RIGHT: 0px; VISIBILITY: visible; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 32px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word'><SPAN 
+style="BOX-SIZING: border-box !important; FONT-SIZE: 16px; MAX-WIDTH: 100%; FONT-FAMILY: 宋体; OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; OUTLINE-COLOR: invert; LINE-HEIGHT: 24px; PADDING-RIGHT: 0px; VISIBILITY: visible; overflow-wrap: break-word">近日，中注协以“多次修正业绩预告的上市公司年报审计风险防范”为主题，对中喜会计师事务所进行了当面约谈，就事务所承接的部分上市公司2014年年报审计业务可能存在的风险进行提示。</SPAN></P>
+<P 
+style='BOX-SIZING: border-box !important; FONT-SIZE: 17px; MAX-WIDTH: 100%; FONT-FAMILY: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: normal; TEXT-ALIGN: justify; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; CLEAR: both; MIN-HEIGHT: 1em; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 21px; LETTER-SPACING: 0px; OUTLINE-COLOR: invert; LINE-HEIGHT: 25px; PADDING-RIGHT: 0px; VISIBILITY: visible; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 32px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word'><SPAN 
+style="BOX-SIZING: border-box !important; FONT-SIZE: 16px; MAX-WIDTH: 100%; FONT-FAMILY: 宋体; OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; OUTLINE-COLOR: invert; LINE-HEIGHT: 24px; PADDING-RIGHT: 0px; VISIBILITY: visible; overflow-wrap: break-word">中注协相关负责人指出，2014年第四季度以来，不少上市公司受重大资产重组或外部市场波动等因素影响，对2014年度业绩预告进行了修正，其中部分上市公司在以前年度也曾多次修正业绩预告。中注协相关负责人强调，事务所和注册会计师要始终保持高度的职业怀疑态度，关注上市公司多次修正业绩预告的原因，充分评估多次修正业绩预告的上市公司可能存在的财务报表层次和认定层次的重大错报风险，实施有针对性的进一步审计程序。<STRONG 
+style="BOX-SIZING: border-box !important; MAX-WIDTH: 100%; OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; OUTLINE-COLOR: invert; PADDING-RIGHT: 0px; VISIBILITY: visible; overflow-wrap: break-word">一是</STRONG>要评价管理层的经营风格和诚信状况，分析管理层动机，是否存在管理层利用信息披露进行股价操纵或其他特殊目的的情形，并考虑对舞弊风险评估的影响；<STRONG 
+style="BOX-SIZING: border-box !important; MAX-WIDTH: 100%; OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; OUTLINE-COLOR: invert; PADDING-RIGHT: 0px; VISIBILITY: visible; overflow-wrap: break-word">二是</STRONG>要充分关注上市公司所处行业状况、内部治理结构等内外部环境是否发生较大变化，是否处于业务转型期，导致管理层无法准确预计上市公司的经营成果，评估上市公司可能面临的经营风险和财务风险，以及由此带来的审计风险；<STRONG 
+style="BOX-SIZING: border-box !important; MAX-WIDTH: 100%; OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; OUTLINE-COLOR: invert; PADDING-RIGHT: 0px; VISIBILITY: visible; overflow-wrap: break-word">三是</STRONG>要充分了解上市公司财务信息的生成、复核、授权审批以及监督问责等内部控制制度是否恰当设计并得到有效执行，判断相关内部控制对上市公司财务报告可能产生的影响；<STRONG 
+style="BOX-SIZING: border-box !important; MAX-WIDTH: 100%; OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; OUTLINE-COLOR: invert; PADDING-RIGHT: 0px; VISIBILITY: visible; overflow-wrap: break-word">四是</STRONG>对于影响上市公司修正业绩预告的具体交易或业务，要增加审计程序的不可预见性，加强项目现场复核力度，充分关注相关交易是否具有合理的商业理由，是否符合相关的确认条件，是否存在人为调节的可能性。</SPAN></P>
+<P 
+style='BOX-SIZING: border-box !important; FONT-SIZE: 17px; MAX-WIDTH: 100%; FONT-FAMILY: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: normal; TEXT-ALIGN: justify; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; CLEAR: both; MIN-HEIGHT: 1em; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 21px; LETTER-SPACING: 0px; OUTLINE-COLOR: invert; LINE-HEIGHT: 25px; PADDING-RIGHT: 0px; VISIBILITY: visible; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 32px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word'><SPAN 
+style="BOX-SIZING: border-box !important; FONT-SIZE: 16px; MAX-WIDTH: 100%; FONT-FAMILY: 宋体; OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; OUTLINE-COLOR: invert; LINE-HEIGHT: 24px; PADDING-RIGHT: 0px; VISIBILITY: visible; overflow-wrap: break-word">约谈会上，事务所代表向中注协介绍了有关上市公司年报审计开展情况，以及应对风险所采取的措施。事务所代表表示，将认真领会约谈精神，全面完善审计工作流程，有效防控年报审计风险，确保年报审计工作质量。</SPAN></P>
+<P 
+style='BOX-SIZING: border-box !important; FONT-SIZE: 17px; MAX-WIDTH: 100%; FONT-FAMILY: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(34,34,34); OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; FONT-STYLE: normal; TEXT-ALIGN: justify; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; CLEAR: both; MIN-HEIGHT: 1em; ORPHANS: 2; WIDOWS: 2; MARGIN: 0px 0px 21px; LETTER-SPACING: 0px; OUTLINE-COLOR: invert; LINE-HEIGHT: 25px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 32px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; overflow-wrap: break-word'><SPAN 
+style="BOX-SIZING: border-box !important; FONT-SIZE: 16px; MAX-WIDTH: 100%; FONT-FAMILY: 宋体; OUTLINE-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; OUTLINE-COLOR: invert; LINE-HEIGHT: 24px; PADDING-RIGHT: 0px; overflow-wrap: break-word">中注协相关负责人表示，中注协将继续跟踪和分析上市公司2014年年报审计工作开展情况，进一步开展约谈工作。为减轻事务所在年报审计繁忙时期的工作负担，下一阶段的约谈工作将主要采取书面约谈方式，支持和帮助事务所做好年报审计风险防范，切实提升上市公司2014年年报审计工作水平。</SPAN></P>
+<P>&nbsp;</P>
+<P>
+<HR>
+
+<P></P></DIV>
+<DIV class=footer>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多内容请关注： 中国会计视野论坛-CPA业务探讨. 微信公众号:MY聊审计. 
+</P></DIV></BODY></HTML>

@@ -1,0 +1,533 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:o = "urn:schemas-microsoft-com:office:office"><HEAD><TITLE>北京注册会计师协会专家委员会专家提示[2014]第4号——高新技术企业认定研究开发费用审计</TITLE>
+<META content="text/html; charset=gb2312" http-equiv=Content-Type>
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"><LINK rel=stylesheet 
+href="_template.css"></HEAD>
+<BODY>
+<DIV id=nsbanner>
+<DIV id=bannerrow1>
+<TABLE class=bannerparthead>
+  <TBODY>
+  <TR id=hdr>
+    <TD class=runninghead noWrap>中国注册会计师执业准则及指南系列</TD></TR></TBODY></TABLE></DIV>
+<DIV id=titlerow>
+<H1 class=dtH1>北京注册会计师协会专家委员会专家提示[2014]第4号——高新技术企业认定研究开发费用审计</H1></DIV></DIV>
+<DIV id=nstext><BR>
+<P class=MsoNormal 
+style="TEXT-ALIGN: center; MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; mso-para-margin-top: .5gd" 
+align=center><B style="mso-bidi-font-weight: normal"><SPAN 
+style="FONT-SIZE: 16pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%"><FONT 
+face=Calibri>北京注册会计师协会专家委员会专家提示<SPAN lang=EN-US>[2014]</SPAN>第<SPAN 
+lang=EN-US>4</SPAN>号——高新技术企业认定研究开发费用审计<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></B></P>
+<P class=MsoNormal 
+style="TEXT-ALIGN: center; MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; mso-para-margin-top: .5gd" 
+align=center><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>发布日期：<SPAN lang=EN-US>2014</SPAN>年<SPAN lang=EN-US>10</SPAN>月<SPAN 
+lang=EN-US>10</SPAN>日<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; mso-para-margin-top: .5gd"><SPAN 
+lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><o:p><FONT 
+face=Calibri>&nbsp;</FONT></o:p></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">2008</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">年<SPAN 
+lang=EN-US>4</SPAN>月、<SPAN 
+lang=EN-US>7</SPAN>月，科技部、财政部和国家税务总局相继联合印发《高新技术企业认定管理办法》（国科发火［<SPAN 
+lang=EN-US>2008</SPAN>］<SPAN lang=EN-US>172</SPAN>号）和《高新技术企业认定管理工作指引》（国科发火［<SPAN 
+lang=EN-US>2008</SPAN>］<SPAN lang=EN-US>362</SPAN>号）。同年<SPAN 
+lang=EN-US>11</SPAN>月，为了规范注册会计师执行高新技术企业认定专项审计业务、满足高新技术企业认定管理工作需要，中注协发布《高新技术企业认定专项审计指引》。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>上述文件为注册会计师开展高新技术企业认定专项审计工作，提供了技术规范和实务指导。但在专项审计实际执行中，特别在研究开发费用审计方面，仍存在较多的审计风险点需要注册会计师的专业判断和分析。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>本提示仅供事务所及相关从业人员在执业时参考，不能替代相关法律法规、注册会计师执业准则以及注册会计师职业判断。提示中所涉及审计程序的时间、范围和程度等，事务所及相关从业人员在执业中需结合项目实际情况、风险导向原则以及注册会计师的职业判断确定，不能直接照搬照抄。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>针对高新技术企业认定专项审计中存在的研究开发费用认定的错报风险点及其如何应对等问题，高新技术企业审计专家委员会参考并援引了中注协《高新技术企业认定专项审计指引》相关内容，做如下提示：<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; mso-para-margin-top: .5gd"><B 
+style="mso-bidi-font-weight: normal"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>一、关注重点<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></B></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（一）可能的舞弊动机<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>申报企业的管理层可能存在为享受税收优惠而申请高新技术企业资格的动机，高新技术研究开发费用支出可能存在重大错报风险（尤其是高估风险），注册会计师应当假定申报企业的高新技术研究开发费用支出存在舞弊风险。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（二）费用的真实性<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>关注申报企业研究开发费用结构明细表中列报的研究开发项目，是否符合《高新技术企业认定管理工作指引》的相关规定。例如，大型复杂的研究开发项目可能涉及到多个分支机构与多个部门，注册会计师应当重点考虑研究开发费用的发生是否真实。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; mso-para-margin-top: .5gd"><B 
+style="mso-bidi-font-weight: normal"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>二、实务中存在的难点及应对<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></B></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（一）对舞弊的考虑<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">1.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">审计难点<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>对企业为享受税收优惠而带来的舞弊风险，注册会计师在执行高新技术企业认定专项审计业务时，应当实施风险评估程序，运用职业判断，确定识别和评估的风险中，哪些是涉及《研究开发费用结构明细表》需要特别考虑的重大错报风险。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">2.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">应对措施<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>风险评估程序本身并不足以为发表审计意见提供充分、适当的审计证据，注册会计师还应当在实施风险评估程序的基础上，设计和实施包括控制测试（必要时或决定测试时）和实质性程序的进一步审计程序。注册会计师在专项审计的各个流程中，应当遵循风险导向审计的原则，保持应有的职业谨慎，切实到位的执行审计程序，防范重大审计失败。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（二）人员人工<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">1.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">审计难点<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>研发人员，是指从事研究开发项目的专业人员。主要包括研究人员、技术人员和辅助人员。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>对人员人工的审核，关键是对研发人员的范围认定和费用金额的归集。如果参与研究开发的人员不是专职从事研究开发项目或同时参与多个研究开发项目，其薪酬如何分摊入研究开发项目、如何在不同研究开发项目间分摊就成为审核的重点和难点。例如，部分申报企业特别是中小型企业的管理层，在对整个企业的生产、经营进行管理的同时，往往也参与研究开发工作，如何将其薪酬计入研究开发活动没有明确规定；有些研究开发项目的研究开发活动涉及多个部门，甚至多个企业，在这种情况下人员人工的归集和分配也比较困难；有不少申报企业为了达到增加研究开发费用总额的目的，将研究开发项目立项书中未列示的管理人员（包括业主）、生产人员的薪酬计入研究开发人员人工。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">2.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">应对措施<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>1</SPAN>）重点检查应付工资、管理费用明细账，全年各月份工资表，全年个人所得税申报表，劳动合同、教育背景（必要时通过检查学历证明，以确定研发人员是否具备相关专业背景）、工作经验和参加社会保险等资料，结合研究开发部门人员名单，确定研发人员的工资费用是否真实，计算是否准确。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN lang=EN-US>2</SPAN>）对受雇的研发人员，需取得累计实际工作时间在<SPAN 
+lang=EN-US>183</SPAN>天以上的证据。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>3</SPAN>）对企业存在多个研究开发项目的，按实际参与的项目进行归集。若研发人员同时参与两个或两个以上项目，应按统计的工作量进行分摊。如申报企业因不能准确地对工作量进行统计而常采用其他方法进行分摊，应检查其分摊的合理性。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（三）直接投入<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">1.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">审计难点<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>《工作指引》中较明确规定了直接投入的开支范围，但企业实际发生的研发费中的材料费品种繁多，部分领料单上亦未写明具体用于什么研究开发项目，直接投入的认定和分配缺乏可靠的依据。此外，很多申报企业特别是中小型企业以前年度并没有独立设置研发费用科目，发生的研发费分别记载于不同的会计科目，如实验车间成本、管理费用、其他业务支出、在建工程、专项应付款等，而不同会计科目之间又不存在对申报明细表而言的勾稽关系。因此，申报企业将非研发材料成本计入研发直接投入中的人为操作空间很大。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>由于注册会计师没有相关的专业背景，对判断企业申报领用的材料是否真正用于研究开发项目难度很大。在直接投入材料的认定上，需要更多利用相关专家的工作，如何利用好专家的工作对注册会计师的职业判断提出了更高的要求。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">2.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">应对措施<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>1</SPAN>）对于日常生产领用材料和研究开发领用材料的区分，除通过重点检查管理费用、原材料明细账、原材料购入、发出、结存明细表、相关费用分配表等外，审计人员还可以考虑进行如下分析判断：<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>①总量领用的合理性判断；<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>②研究开发材料领用的月均波动情况是否合理；<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>③领用材料与研究开发项目的相关性判断，必要时可以考虑利用外部专家工作。如，聘请行业专家，对研究开发项目有关直接投入的品种、数量、质量等因素的合理性、相关性进行评价；<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>④重点对研究开发材料所形成的实物成果进行盘点及残次品的销售进行综合判断。如，电缆生产企业研究开发项目领用的铜等重要材料，在考虑残次品销售的前提下，需要对期末实物库存的合理性进行判断。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>2</SPAN>）对于直接购入的能源、材料等，需要通过检查购入发票、运输单据、入库单、领料单等确认其真实性，并聘请相关行业专家，确定购入的能源、材料等与研究开发项目的相关性。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>3</SPAN>）对动力费用、共同使用的模具、样品、样机及一般测试手段购置费等，可以采用工作量等合理的方法，分摊计入各研究开发项目成本。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（四）固定资产折旧与长期待摊费用<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">1.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">审计难点<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>固定资产折旧与长期待摊费用摊销，是指为开展研究开发活动购置的仪器和设备以及研究开发项目在用建筑物的折旧费用，包括研究开发设施改建、改装、装修和修理过程中发生的长期待摊费用。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>如何认定固定资产或长期待摊费用是否为研究开发活动所用，是注册会计师审核工作的重点之一。大部分企业不能严格区分生产用和研究开发用固定资产，同一件设备或建筑物不仅用于生产，也用于研究开发活动。对于非专门为研究开发购置的固定资产，折旧的计算标准以及在各研究开发项目间的分配，是注册会计师分析判断的难点。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">2.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">应对措施<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>1</SPAN>）重点检查固定资产明细账、长期待摊费用明细账；检查申报企业年度新增固定资产及长期待摊费用的发票、固定资产的申购单、入库单、验收单；实地查看该部分设备，核对资产用途（检查使用说明书等），确定其是否真实存在，是否用于研究开发项目。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>2</SPAN>）结合固定资产盘点，核对与研究开发活动相关的固定资产是否账实相符；检查购入时已计入研究开发费用的固定资产，是否单独管理，是否存在重复计提折旧的情况。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>3</SPAN>）复核各项折旧、摊销的准确性及相关性，关注前后各期折旧政策及方法的一致性：<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>①检查是否属于为执行研究开发活动而购置的仪器和设备或研究开发项目在用建筑物的折旧费用；<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>②检查固定资产折旧计提、长期待摊费用摊销所采用的会计政策、会计估计是否与财务报表所采用的一致，且前后各期是否保持一致，折旧或摊销的计算是否正确；<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>③对于研究开发项目和非研究开发项目共用的资产，检查折旧或摊销的分配方法是否合理，且前后各期是否保持一致，分配的金额是否正确。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>4</SPAN>）对属于多个项目使用的，检查分摊方法是否合理，且前后各期是否保持一致，分摊的金额是否正确。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（五）设计费用<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">1.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">审计难点<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>设计费用，是指为新产品和新工艺的构思、开发和制造，进行工序、技术规范、操作特性方面的设计等发生的费用。部分申报企业由于设立的研究开发机构较简单、研究开发人员力量薄弱，经常会将一些新产品或新工艺的设计外包，且不少企业并未与外包单位签订相应的合同，或者签订的合同还包括了申报研究开发项目以外的其他项目的设计费用。从而较难确定设计费用的合理性，且外包性质的设计费用容易与委托外部研究开发费用混淆。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">2.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">应对措施<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>1</SPAN>）重点检查管理费用明细账－研究开发费用明细科目，检查设计费用支出的发票、付款申请审批单据，确认设计费用发生的合理性、真实性及准确性。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>2</SPAN>）对于外包设计费，应重点检查合同、协议、付款凭证、发票，并分析合同、协议的实质性内容，判断是否属于为新产品、新工艺的开发进行的技术规范和操作方面的设计而发生的费用；若合同或协议实质表明，外包内容系委托外部开发机构进行实质性改进技术、产品和服务活动，且与企业的主要经营业务紧密相关，则应归属于委托外部研究费用，应要求被审计单位据实调整并列报。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>3</SPAN>）注册会计师应走访被审计单位的设计、研究开发部门，或向外包单位进行函证确认，以正确区分外包设计费和外包研究开发费，必要时，应考虑利用专家工作。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（六）装备调试费<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">1.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">审计难点<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>装备调试费，主要包括工装准备过程中研究开发活动所发生的费用。如，研制生产机器、模具和工具，改变生产和质量控制程序，或制定新方法及标准等。为大规模批量化和商业化生产所进行的常规性工装准备和工业工程发生的费用，不能计入装备调试费。然而，一些用于研究开发活动的机器和模具，也可能用于生产。如何区分是用于大规模批量化和商业化生产，还是用于研究开发活动，对没有专业背景的注册会计师来说是审计难点。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">2.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">应对措施<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>1</SPAN>）检查是否属于工装准备过程中研究开发活动所发生的费用。如，研制生产机器、模具和工具，改变生产和质量控制程序，或制定新方法及标准等。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>2</SPAN>）检查相关费用的核准、支付是否符合内部管理办法的规定，是否与原始凭证相符。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>3</SPAN>）检查是否存在列入为大规模批量化和商业化生产所进行的常规性工装准备，及工业工程发生的费用的情形。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（七）无形资产摊销<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">1.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">审计难点<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>无形资产摊销，是指因研究开发活动需要购入的专有技术所发生的费用摊销。包括专利、非专利发明、许可证、专有技术、设计和计算方法等。申报企业购入的无形资产，有时既用于生产经营，又用于研究开发活动，无形资产是否与研发项目相关，如何分摊计入研究开发费用很难把握。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">2.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">应对措施<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>1</SPAN>）检查是否属于因研究开发活动需要而购入的专利、非专利发明、许可证、专有技术、设计和计算方法等所发生的费用摊销。可以通过对项目立项、专家评定等技术资料的分析，判断其相关性；当影响重大时，需要考虑借助其他行业专家的工作。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>2</SPAN>）取得无形资产初始购置时的协议或合同、发票、付款凭证等，检查无形资产原值的确认是否正确；检查摊销政策是否正确，且前后各期保持一致，计算检查摊销的金额是否正确。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>3</SPAN>）检查是否存在列入与研究开发项目无关的其他无形资产摊销的情形；若存在无形资产费用在研究开发项目与其他项目之间分摊的情形，需检查分摊方法是否合理、前后各期是否保持一致，并计算检查分摊的金额是否正确。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（八）委托外部研究开发费用<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">1.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">审计难点<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>委托外部研究开发费用，是指企业委托境内其他企业、大学、研究机构、转制院所、技术专业服务机构和境外机构进行研究开发活动所发生的费用，项目成果为企业拥有，且与企业的主要经营业务紧密相关。中小型申报企业由于设立的研究开发机构力量薄弱，一般会与研究院、高校等科研机构合作开展研究开发活动，与其签订相应的委托开发合同或合作协议。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>注册会计师需要分析合同的实质性内容，判断是否真的是委托外部开发而形成的成果样品，项目成果是否为企业拥有，且与企业的主要经营业务紧密相关。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">2.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">应对措施<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>1</SPAN>）重点检查管理费用明细账、与委托外部研究开发费用相关的明细账，委托外部研究开发费用的合同或协议、发票、付款凭证；针对研究开发项目工作内容、协议条款、协议金额等向受托方进行函证，确认其发生的真实性及金额的准确性；关注并确认是否为关联交易，如果为关联交易，发生金额应按照独立交易原则确定。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN lang=EN-US>2</SPAN>）复算检查委托外部研究开发费用，是否按照委托外部研究开发费用发生额的<SPAN 
+lang=EN-US>80</SPAN>％计入研究开发费用总额。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（九）其他费用<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">1.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">审计难点<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>其他费用与研究开发项目相关性、真实性、完整性的认定，存在较大错报风险。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">2.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">应对措施<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>1</SPAN>）重点检查管理费用明细账、费用分摊表，确认费用支出与研究开发项目的相关性及费用分摊的合理性。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>2</SPAN>）关注如办公费、通讯费、专利申请维护费、高新科技研究开发保险费等其他费用，是否属于为研究开发活动所发生的，是否存在列入与研究开发项目无关的其他费用的情形。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>3</SPAN>）检查相关费用的核准和支付是否符合企业内部管理的规定，是否与原始凭证相符。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN lang=EN-US>4</SPAN>）复算检查列报的其他费用是否超过研究开发费用总额的<SPAN 
+lang=EN-US>10%</SPAN>。<SPAN lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（十）复核研究开发费用总额占销售收入总额的比例<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">1.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">审计难点<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>《高新技术企业认定管理办法》规定，高新技术企业认定必须满足最近三个会计年度研究开发费用总额占销售收入总额的一定比例。因此，申报企业为了达到标准可能虚列研究开发费用，扩大研究开发费用总额。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><FONT 
+face=Calibri><SPAN lang=EN-US 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">2.</SPAN><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt">应对措施<SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></FONT></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>1</SPAN>）获取经具有高新技术企业认定资质的会计师事务所审计的，最近三个会计年度的审计报告和财务报表。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>2</SPAN>）复算加计最近三个会计年度的销售收入总额。《高新技术企业认定申请书》填报说明表明，销售收入是指产品收入和技术服务收入之和；复算加计最近三个会计年度的研究开发费用总额。<SPAN 
+lang=EN-US><o:p></o:p></SPAN></FONT></SPAN></P>
+<P class=MsoNormal 
+style="MARGIN: 7.8pt 0cm 0pt; LINE-HEIGHT: 125%; TEXT-INDENT: 24pt; mso-para-margin-top: .5gd; mso-char-indent-count: 2.0"><SPAN 
+style="FONT-SIZE: 12pt; FONT-FAMILY: 仿宋_GB2312; LINE-HEIGHT: 125%; mso-bidi-font-size: 11.0pt"><FONT 
+face=Calibri>（<SPAN 
+lang=EN-US>3</SPAN>）复算研究开发费用总额占销售收入总额的比例，与申报企业计算的结果核对是否一致；复算在中国境内发生的研究开发费用总额占全部研究开发费用总额的比例，与申报企业计算的结果核对是否一致。</FONT><SPAN 
+lang=EN-US><o:p></o:p></SPAN></SPAN></P>
+<P>
+<HR>
+
+<P></P></DIV>
+<DIV class=footer>
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更多内容请关注： 中国会计视野论坛-CPA业务探讨. 
+微信公众号:MY聊审计.</P></DIV></BODY></HTML>
