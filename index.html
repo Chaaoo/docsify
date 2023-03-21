@@ -32,10 +32,12 @@
       alias: {
         '/.*/SUMMARY.md': '/SUMMARY.md',
       },
-      search: 'auto',
       search: {
+        maxAge: 3600000,
+        paths: 'auto', 
         placeholder: '这里搜索，但不太好用，建议CTRL+F',
         noData: '没有结果',
+        namespace: 'website-1',
       },
       copyCode: {
         buttonText: '复制',
