@@ -40,11 +40,17 @@
         successText: 'OK!',
       },
       count:{
-      countable:true,
-      fontsize:'0.9em',
-      color:'rgb(90,90,90)',
-      language:'chinese'
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese'
       },
+      // docsify-valine (defaults)
+      Valine: {
+        appId: 'Q1BraLUs7kCsoEBoQerx0ONn-MdYXbMMI',
+        appKey: 'SBBXMEj3XClnlwi86U1XuSOZ',
+        // docPath: 'hash', //default to `hash` ,or you can choose `full`
+      }
     }
   </script>
   <script src="asset/back-to-top.js"></script>
@@ -53,6 +59,13 @@
   <script src="asset/docsify-copy-code.min.js"></script>
   <script src="asset/docsify-sidebar-collapse.min.js"></script>
   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-</script>
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>
+  <script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+  </script>
+  </script>
 </body>
 </html>
