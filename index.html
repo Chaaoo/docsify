@@ -10,14 +10,11 @@
   <meta name="referrer" content="never">
   <link rel="stylesheet" href="asset/vue.css">
   <link rel="stylesheet" href="asset/style.css">
-  <link rel="stylesheet" href="asset/prism-darcula.css">
   <link rel="stylesheet" href="asset/sidebar.min.css">
   <!-- 设置浏览器图标 -->
   <link rel="icon" href="img/favicon.ico" type="img/x-icon" />
   <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
-  <!--<link rel="stylesheet" href="asset/lxgw-wenkai.css">-->
   <link rel="stylesheet" href="asset/back-to-top.css">
-  <script src="asset/back-to-top.js"></script>
 </head>
 <body>
   <div id="app">稍等，加载中...</div>
@@ -25,7 +22,7 @@
     window.$docsify = {
       loadSidebar: 'SUMMARY.md',
       loadNavbar: '',
-      name: '资料整理',
+      name: '😀资料整理',
       auto2top: true,
       themeColor: '#8ACCBB',
       plugins: [window.docsPlugin],
@@ -42,19 +39,20 @@
         errorText: 'Error',
         successText: 'OK!',
       },
+      count:{
+      countable:true,
+      fontsize:'0.9em',
+      color:'rgb(90,90,90)',
+      language:'chinese'
+      },
     }
   </script>
+  <script src="asset/back-to-top.js"></script>
   <script src="asset/docsify.min.js"></script>
   <script src="asset/search.min.js"></script>
   <script src="asset/docsify-copy-code.min.js"></script>
-  <script src="asset/docsify-clicker.js"></script>
-  <link rel="stylesheet" href="asset/docsify-quick-page.css">
   <script src="asset/docsify-sidebar-collapse.min.js"></script>
-  <script src="asset/emoji.min.js"></script>
-  <!--<script src="asset/prism-python.min.js"></script>-->
-  <!--<script src="asset/docsify-baidu-push.js"></script>-->
-  <!--<script src="asset/docsify-baidu-stat.js"></script>-->
-  <!--<script src="asset/docsify-quick-page.js"></script>-->
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
 </script>
 </body>
 </html>
